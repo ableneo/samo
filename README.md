@@ -9,16 +9,16 @@
 Clone the repository:
 
 ```shell
-git clone https://github.com/ableneo/chatbot-backend
+git clone https://github.com/ableneo/samo
 ```
 
-Install Ableneo ChatBot backend via:
+Install Ableneo ChatBot Samo via:
 
 ```shell
 pip install  .
 ```
 
-## Launching the ChatBot backend
+## Launching the ChatBot Samo
 
 For demonstration purposes, we have already prepared all the prerequisites.
 The ChatBot is configured to serve as a helpful Biology assistant.
@@ -27,7 +27,7 @@ All responses will be in Slovak, so no additional translation is necessary.
 
 ### Running server
 
-To run chatbot backend server run::
+To run chatbot Samo server run::
 
 1. Duplicate the `config.example.yaml` file
 2. Fill in all placeholders in the config file
