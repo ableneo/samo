@@ -1,0 +1,75 @@
+Savana
+Dažďový prales
+Ekosystém (z angl. ecosystem z ecology + system) je ucelená časť prírody (biosféry), ktorá nie je uzavretá a komunikuje s ostatnými časťami prírody. Je to základná jednotka funkčného celku živej prírody Zeme. Príkladom ekosystému je napr. listnatý les, alebo vlhké nekosené lúky. V ekosystéme dochádza k prenosu a obehu hmoty, energie a informácií.
+Nie je špecifikované, akú približnú veľkosť má mať ekosystém, a tak sa za ekosystém môže považovať hoci aj celá biosféra alebo naopak, napr. aj tráviaca sústava psa (vyskytujú sa tu rôzne baktérie, nálevníky, atď.…), mláka, ktorá sa z času na čas vytvorí po daždi, alebo aj celý oceán. Stanoviť hranice ekosystému je veľmi ťažké. Vo všeobecnosti sa stanovujú tam, kde sa vyskytuje veľa nespojitostí, ako napr. v typoch pôdy, povodiach alebo hĺbke vodných nádrží, či v distribúcií organizmov. Často sú ekosystémy hodnotené tak, ako často sa vyskytujú základné štruktúre prvky.
+Termín ekosystém sa prvýkrát objavil v roku 1935 v publikácií Brity ecologist. Autor bol Arthur Tansley. Termín však vytvorili už v roku 1930. Použil ho kolega Tansleyho, Roy Clapham, keď sa snažil nájsť vhodné slovo naznačujúce fyzické a biologické prostredie ako jedinú jednotku.
+Ekosystémy, ktoré sa vyznačujú spoločnými znakmi, sa volajú bióm.
+Ekosystém tvoria zložky:
+organické, t. j. organizmy (tzv. biocenóza) – biosféra, biota – biocenózu tvoria rastliny – fytocenóza, živočíchy – zoocenóza a mikroorganizmy – mikróbne cenózy
+anorganické, t. j. prostredie (tzv. biotop) – ekotop, abiocén – pozostáva z geologického podkladu a klimatického režimu
+Živé organizmy ekosystému tvoria podľa vzťahu k hmote 3 skupiny:
+1. producenty – sú to rastliny, produkujúce kyslík, ktorý podmieňuje existenciu života na Zemi.
+2. konzumenty – organické látky vyprodukované zelenými rastlinami tvoria potravu pre konzumenty. Niektoré konzumenty sa stávajú potravou pre iné konzumenty. Tento tok hmoty a s ním spojený tok energie nazývame potravový (trofický) reťazec.
+3. reducenty – tvoria rozkladný potravinový reťazec.
+Podľa toho, či „účastníci“ potravinového reťazca využívajú živú alebo odumretú organickú hmotu (biomasu), rozoznávame dva typy potravinových reťazcov: pastevno-koristnícky a rozkladný potravinový reťazec. Oba typy na seba nadväzujú a uzatvárajú kolobeh látok v prírode.
+Pastevno-koristnícky: začína živou organickou hmotou vytvorenou rastlinami, sinicami alebo riasami. Tú konzumujú konzumenty I. stupňa, čiže bylinožravce (napr. bylinožravý hmyz, vo vode bylinožravé mäkkýše, zooplanktón a iné). Konzumenty I. stupňa sa stávajú potravou pre konzumenty II. stupňa (napr. dravý hmyz, hmyzožravé vtáky, malé druhy rýb) a tie zase pre konzumenty ďalších stupňov.
+Rozkladný: tvoria ho už vyššie spomenuté reducenty. Rozkladný potravný reťazec začína saprofytofágmi, rozkladačmi odumretej rastlinnej hmoty. Tá sa činnosťou vody, vetra a pôdnych organizmov mení na tzv. detrit, ktorý konzumujú detritofágy (napr. dážďovka). Odumretú živočíšnu hmotu rozkladajú saprozoofágy.
+Časť živých organizmov prirodzeným spôsobom odumiera a stáva sa mŕtvou biomasou. Tá je materiálom pre postupný rozklad a tvorí začiatok rozkladného potravného reťazca. Produkt primárnych rozkladačov je substrátom pre ďalšie rozkladače. Výsledok tohto dlhého procesu je premena pôvodnej biomasy späť na anorganickú hmotu, teda mineralizácia odumretej hmoty živých organizmov. Minerálne látky z pôdy odoberajú rastliny, ktoré sú primárnymi producentami organickej hmoty. To je uzatvorenie toku látok a energie v prírode.
+Existuje aj tretí typ potravinového reťazca: parazitický. Ten spája rôzne skupiny cudzopasníkov. Parazitický cyklus môže začínať v ktorejkoľvek časti pastevno-koristníckeho reťazca. Existujú teda parazity rastlín, bylinožravcov, aj mäsožravcov.
+Potravinová pyramída je grafické znázornenie obehu látok a energie v ekosystéme (producent – konzument I.stupňa-konzument II stupňa... reducent I. stupňa....)
+Za základnú funkciu ekosystému sa považujú kolobeh látok (tzv. biogeochemické cykly) a tok energie. Ďalšou dôležitou funkciou ekosystému je aj stabilizácia energetického, vodného režimu území, produkcia organických látok a iné.
+Energia môže do ekosystému vstupovať dvoma spôsobmi:
+zo slnečného žiarenia (premena energie slnečného žiarenia na ďalšie formy energie = transformácia, disipácia)
+formou energetického dodatku (z iného ekosystému)- ten môže byť
+prirodzený (príliv, morské prúdy, vietor, záplavy...)
+antropogénny (hnojenie, vypúšťanie odpadových vôd, technika...)
+Pre zvyšujúci sa počet ľudstva je dôležitá produkcia ekosystémov. Podľa klimatických pásem majú najväčšiu produkciu tropické lesné ekosystémy, najmenšiu ekosystémy púští.
+Rozdelenie
+Ekosystémy rozdeľujeme podľa miery ich ovplyvnenia človekom na:
+prirodzené, resp. prirodzeným blízke (napr. jazero, mokraď, prales),
+polokultúrne (napr. rybník, obhospodarovaný pasienok, lúka či les) a
+kultúrne (napr. pole, záhrada, sídlisko).
+Prirodzené ekosystémy ďalej rozlišujeme na:
+terestrické (pevninské),
+semiterestrické (mokré stanovištia),
+limnické (sladkovodné) a
+marinné (morské).
+Ekosystémy pozmenené ľudskou činnosťou delíme na:
+urbánno-industriálne (mestsko-priemyselné) a
+agrocenózy (poľnohospodárske).
+Zloženie ekosystému
+Stavebnú (statickú) štruktúru tvorí zložka anorganická (ekotop, abiocen) a zložka organická (biosféra, biota).
+Ekotop pozostáva z fyzikálnych faktorov prostredia – geologického podkladu a klimatického režimu.
+Biocenózu tvoria jednotlivé spoločenstvá živých organizmov: rastliny fytocenóza, živočíchy – zoocenóza a mikroorganizmy – mikróbne cenózy.
+Funkčná (dynamická) štruktúra ekosystému predstavuje komplex pochodov viazaných na cirkuláciu látok a tok energie, ako aj na riadenie a vývoj celého systému.
+Z hľadiska toku látok a energie je ekosystém otvorený systém. Energia pochádzajúca pôvodne zo slnečného žiarenia poháňa a udržuje všetky životné (aj neživotné) procesy. Látky (hmota), ktoré sa pomocou energie premieňajú, obiehajú v ekosystéme v cykloch.
+Z hľadiska riadenia a vývoja je ekosystém charakteristický schopnosťou samoregulácie, samoobnovovania a schopnosťou vyvíjať sa v čase. Riadenie je sprostredkované informáciami dedične uloženými v živých organizmoch (pomocou génov) a získanými počas života.
+Vývoj ekosystému
+Ekosystém je dynamická sústava, to znamená, v čase podlieha zmenám. Tieto zmeny sa prejavujú v zložení a zastúpení biologických druhov zúčastňujúcich sa na tvorbe ekosystému. Na rozdiel od organizmu, ekosystém nemá schopnosť rozmnožovať sa. Preto nový ekosystém nevzniká samovoľne, ale vyvíja sa na podklade iného ekosystému.
+Vývoj nového ekosystému možno rozdeliť do 3 etáp:
+Prvá etapa nastáva po narušení starého ekosystému. Narušenie starého ekosystému môžu spôsobiť rôzne príčiny. V minulosti to boli napr. horotvorné procesy, dnes to môže byť narušenie prírodnej rovnováhy v ekoystéme alebo rôzne necitlivé zásahy človeka do prírody. Po rozpade starého ekosystému dochádza k ústupu rastlinných i živočíšnych druhov, ktoré boli súčasťou ekosystému a ich nahradeniu novými druhmi, ktorým nové podmienky vyhovujú. Tento proces sa nazýva ekologická sukcesia (ekologické nahrádzanie). V tejto počiatočnej fáze je väčšinou počet druhov zastúpených v ekosystéme malý (ale počet jedincov môže byť veľký).
+Druhou etapou je vyzrievanie ekosystému. V tomto období dochádza k ustáleniu abiotických podmienok prostredia. Pre túto etapu je typické zvyšovanie počtu ekologických druhov. Medzi prítomnými druhmi sa ustaľujú potravové vzťahy.
+Treťou etapou vývoja ekosystému je dosiahnutie jeho stability. Takýto stabilizovaný ekosystém, s pevne vybudovanými biotickými vzťahmi a abiotickými faktormi, nazývame klimax. Klimaxová rovnováha trvá dovtedy, kým zmenené podmienky nespôsobia rozpad ekosystému.
+Vodný ekosystém
+Pobrežie mora, kde sa stretáva suchozemský a morský ekosystém
+Vodné ekosystémy sa delia na:
+morské
+sladkovodné stojaté vody
+lotický ekosystém (tečúce vody)
+brakický ekosystém (prechodný typ medzi morským a sladkovodným) napr. ústie riek
+V lotickom ekosystéme je vyšší obsah kyslíka, doležitá úloha pobrežných porastov, značná odlišnosť podmienok na hornom, strednom a dolnom toku
+Horný tok: rýchle prúdenie, vysoký obsah kyslíka, chladná voda, kamenité dno. Chýba planktón. Rybné pásmo je pstruhové, má nízku produktivitu.
+Stredný tok: miernejšie prúdenie vody, piesčité dno. Začína sa objavovať planktón, rybné pásmo je lipanové a parmové.
+Dolný tok: pomalý prúd, väčšia hĺbka, bahnisté dno, vyšší obsah živín, málo kyslíku, vyššia teplota. Je tu veľa planktónu a bentosu (živočícy žijúce na dne vôd, napr. raky). Rybné pásmo je cejnové. Je tu vysoká produktivita (dokonca porovnateľná s rybníkom a ten má veľmi vysokú produktivitu, niekedy aj 100-krát väčšiu ako svetový oceán)
+Brakická voda: v ústí rieky (miešanie slanej a sladkej vody), živočíchy znášajú kolísanie salinity, veľký vplyv prílivu a odlivu, veľmi vysoká produktivita.
+Suchozemský ekosystém
+Suchozemský ekosystém je veľmi rôznorodý. Jeho biocenózy sa líšia podľa klimatickými a inými faktormi. Príklady suchozemských ekosystémov:
+stepi (prérie a pampy) a savany
+trvalé lúky – umelý ekosystém (kosenie, hnojenie, pastva), vlhké pôdy bohaté na dusík. Rastlinstvo tvoria hlavne rôzne trávy ako kostrava lúčna, ďalej pohánka, zvončeky, materina dúška, iskerník atď., živočíšstvo: hlodavce, škovránok, zajace, hmyz, strnádka cia.
+lesy – klimaxové štádiá väčšiny suchozemských ekosystémov bez zásahu človeka, ktoré majú dosť vlahy.
+púšť – ekosystémy so zníženým množstvom vody. V širšom zmysle sem patria ekosystémy, v ktorých chýba len voda v kvapalnom skupenstve, takže aj Antarktída je vlastne púštnym ekosystémom. Je síce pokrytá ľadom, ale rastliny vodu z neho nemôžu využiť a trpia fyziologickým suchom.
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Ekosystém&oldid=7540431“
+Kategórie:
+Ekosystémy
+Ekológia
+Dátum a čas poslednej úpravy tejto stránky: 23. február 2023, 08:02.

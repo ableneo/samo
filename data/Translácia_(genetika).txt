@@ -1,0 +1,28 @@
+Translácia je preklad genetickej informácie z poradia nukleotidov v mRNA do poradia aminokyselín v polypeptidovom reťazci prostredníctvom genetického kódu. Aminokyseliny sa na miesto syntézy (do ribozómov) transportujú pomocou tRNA. Druh aminokyseliny určuje kodón mRNA a komplementárny antikodón tRNA. Takže každá tRNA je špecifická pre každú aminokyselinu a spolu nadviazaný vytvárajú aminoacyl-tRNA.
+Fázy translácie
+Naviazanie mRNA na ribozóm
+Na malú podjednotku ribozómu sa napája mRNA. Ribozóm sa po molekule presúva, pričom sa na voľný koniec mRNA môže nadviazať ďalší ribozóm (vzniká polyribozóm, t. j. komplex molekuly mRNA po ktorej sa posúvajú viaceré ribozómy). V ribozóme sa nachádzajú dve oblasti veľkosti kodónu, cez ktoré sa presúva mRNA, a na ktoré sa viaže tRNA:
+aminoacylové miesto väzby (miesto A) – tu sa viaže tRNA nesúca aminokyselinu
+peptidylové miesto väzby (miesto P) – tu sa viaže tRNA nesúca svoju aminokyselinu + už nadviazaný polypeptidový reťazec, na tomto mieste bielkovina rastie
+Iniciácia translácie
+Translácia začne, keď sa posunom na peptidylové miesto väzby dostane iniciačný kodón molekuly mRNA, u eukaryotických buniek je to AUG, na ktorý sa naviaže iniciačná tRNA s antikodónom UAC s nadviazanou iniciačnou aminokyselinou, metionínom.
+Modrý obdĺžnik – aminoacylové miesto väzby
+Červený obdĺžnik – peptidové miesto väzby.
+Elongácia
+Posunom mRNA sa na aminoacylové miesto väzby dostane nasledujúci kodón, na ktorý sa napojí príslušný komplex aminoacyl-tRNA. Medzi obidvoma aminokyselinami vzniká peptidová väzba (vzniká dipeptid). Nastane ďalší posun o jeden kodón a tRNA sa z aminoacylového miesta presunie s nadviazaným dipeptidom na peptidylové miesto, odkiaľ vytesní predchádzajúcu tRNA. Na aminoacylové miesto sa dostane nový kodón, na ktorý sa napojí ďalší aminoacyl-tRNA s komplementárnym antikodónom a príslušnou aminokyselinou. Medzi aminokyselinami vzniká peptidová väzba (vzniká tripeptid). tRNA sa presunie na peptidylové miesto a vytesní predchádzajúcu tRNA. Tento proces sa opakuje a polypeptid narastá.
+Terminácia translácie
+Translácia sa skončí, keď na aminoacylové miesto príde terminačný kodón mRNA (UGA, UAA, UAG), pre ktorý neexistuje komplementárny antikodón tRNA, nemôže sa teda napojiť ďalšia aminokyselina. K terminačnému kodónu sa naviaže terminačný faktor, ktorý hydrolyzuje väzbu medzi peptidovým reťazcom a tRNA v P mieste. Novovytvorený polypeptidový reťazec sa z ribozómu uvoľní.
+Pozri aj
+Chemický portál
+Biologický portál
+Transkripcia
+Ribozóm
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Translácia_(genetika)&oldid=7235176“
+Kategórie:
+RNA
+Genetika
+Skryté kategórie:
+Portál:Chémia/Zapojené články
+Portál:Biológia/Zapojené články
+Wikipédia:Články priamo volajúce šablónu Portál
+Dátum a čas poslednej úpravy tejto stránky: 5. august 2021, 20:12.

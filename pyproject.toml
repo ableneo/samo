@@ -1,0 +1,54 @@
+[build-system]
+requires = ["setuptools >= 61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ableneo-chatbot"
+version = "0.1.1"
+description = "Ableneo ChatBot Backend"
+readme = "README.md"
+license = { file = "LICENSE.txt" }
+keywords = ["ableneo", "chatbot", "llm"]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Framework :: Flask",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3.11"
+]
+requires-python = ">=3.11"
+
+dependencies = [
+    "click<9,>=8",
+    "chromadb>=0.4,<0.5",
+    "Flask>=3",
+    "gunicorn<22,>21; platform_system != 'Windows'",
+    "jsonpickle>=3",
+    "langchain>=0.2,<0.3",
+    "langchain-openai>=0.1.7,<0.1.8",
+    "langchain-community>=0.2,<0.3",
+    "openai>=1.30,<2.0",
+    "spacy>=3.0,<4",
+    "waitress>=3,<4; platform_system == 'Windows'",
+    "python-dotenv",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pre-commit>=3.0,<4.0"
+]
+
+[[project.maintainers]]
+name = "Ableneo"
+email = "info@ableneo.com"
+
+
+[project.scripts]
+ableneo-chatbot = "chatbot.cli:cli"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["chatbot", "chatbot.*"]

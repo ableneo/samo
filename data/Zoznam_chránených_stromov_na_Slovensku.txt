@@ -1,0 +1,655 @@
+Toto je zoznam chránených stromov na Slovensku.
+Ev. číslo
+Názov
+Slovenský názov taxónu
+Vedecký názov taxónu
+Kraj
+Okres
+Kataster
+Organizačný útvar ŠOP SR
+S 372 Baranovské duby dub cerový, dub zimný Quercus cerris L., Quercus petraea (Matt.) Liebl. Banskobystrický Banská Bystrica Špania Dolina Správa NP Nízke Tatry
+S 482 Baza pri katolíckom gymnáziu baza čierna Sambucus nigra Banskobystrický Banská Bystrica Banská Bystrica Správa CHKO Poľana
+S 448 Beňadická lipa lipa malolistá Tilia cordata Mill. Banskobystrický Žarnovica Hronský Beňadik Správa CHKO Štiavnické vrchy
+S 105 Bešiansky cer dub cerový Quercus cerris L. Nitriansky Levice Beša Správa CHKO Ponitrie
+S 427 Biela samota lipa malolistá Tilia cordata Mill. Nitriansky Nové Zámky Trávnica Správa CHKO Dunajské luhy
+S 4 Bojnická lipa lipa veľkolistá Tilia platyphyllos Scop. Trenčiansky Prievidza Bojnice Správa CHKO Ponitrie
+S 305 Bojnické ginká ginko dvojlaločné Ginkgo biloba L. Trenčiansky Prievidza Bojnice Správa CHKO Ponitrie
+S 312 Bolešovský brest brest hrabolistý Ulmus minor Mill. Trenčiansky Ilava Bolešov Správa CHKO Strážovské vrchy
+S 217 Borovica na ulici B. Němcovej borovica hladká Pinus strobus Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 108 Borovica v Matiašovciach borovica limbová Pinus cembra L. Žilinský Liptovský Mikuláš Liptovské Matiašovce Správa Tatranského NP
+S 501 Borovica v Spišskom Štvrtku borovica lesná Pinus sylvestris Prešovský Levoča Spišský Štvrtok Správa NP Slovenský raj
+S 460 Borovica v Zámockej záhrade v Hlohovci borovica lesná Pinus sylvestris L. Trnavský Hlohovec Hlohovec Správa CHKO Malé Karpaty
+S 370 Borovica v Zámutove borovica Jeffreyova Pinus jeffreyi Grev. Et Balf. Prešovský Vranov nad Topľou Zámutov RCOP v Prešove
+S 310 Borovica Ľudmily Podjavorinskej borovica lesná Pinus sylvestris L. Banskobystrický Zvolen Rybáre Správa CHKO Poľana
+S 194 Borovice v Terchovej borovica hladká Pinus strobus L. Žilinský Žilina Terchová Správa NP Malá Fatra
+S 489 Borovice čierne na ul. Francúzskych partizánov borovica čierna Pinus nigra Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 421 Brekyňa na Sitárovom vrchu jarabina brekyňová Sorbus torminalis (L.) Crantz Banskobystrický Žarnovica Nová Baňa Správa CHKO Štiavnické vrchy
+S 473 Brest na Bakossovej ulici brest hrabolistý Ulmus minor Mill. Banskobystrický Banská Bystrica Banská Bystrica Správa CHKO Poľana
+S 42 Brest na cintoríne brest horský Ulmus glabra Huds. Žilinský Námestovo Oravské Veselé Správa CHKO Horná Orava
+S 269 Brest na cintoríne brest horský Ulmus glabra Huds. Žilinský Námestovo Krušetnica Správa CHKO Horná Orava
+S 44 Brest na súkromnom pozemku brest horský Ulmus glabra L. Žilinský Námestovo Rabčice Správa CHKO Horná Orava
+S 113 Brest pri kaštieli Mitošiny brest horský Ulmus glabra Huds. Žilinský Ružomberok Bešeňová Správa Tatranského NP
+S 18 Brest u Papaji brest hrabolistý Ulmus minor Mill. Žilinský Čadca Makov Správa CHKO Kysuce
+S 277 Brest v Balogu nad Ipľom brest väzový Ulmus laevis Pall. Banskobystrický Veľký Krtíš Balog nad Ipľom Správa CHKO Štiavnické vrchy
+S 178 Brest v Kamennej Porube brest horský Ulmus glabra Huds. Žilinský Žilina Kamenná Poruba Správa NP Malá Fatra
+S 200 Brest v Rajeckej Lesnej brest horský Ulmus glabra Huds. Žilinský Žilina Rajecká Lesná Správa NP Malá Fatra
+S 198 Brest v Rajeckých Tepliciach brest horský Ulmus glabra Huds. Žilinský Žilina Rajecké Teplice Správa NP Malá Fatra
+S 15 Brest v kláštornej záhrade brest horský Ulmus glabra Huds. Žilinský Martin Kláštor pod Znievom Správa NP Veľká Fatra
+S 134 Brest vo Veľkej doline brest väzový Ulmus laevis Pall. Nitriansky Nitra Veľká Dolina Správa CHKO Ponitrie
+S 50 Bresty pri obci Spišský Štiavnik brest horský Ulmus glabra Huds. Prešovský Poprad Spišský Štiavnik Správa NP Slovenský raj
+S 223 Breza na Mišíkovej ulici breza papierovitá Betula papyrifera Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 230 Brezy v Mlynskej doline breza previsnutá, breza previsutá Betula pendula, Betula pendukla "Dalacarlica" Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 332 Brusnícka lipa lipa malolistá Tilia cordata Mill. Banskobystrický Revúca Brusník Správa NP Muránska planina
+S 283 Buk pod Kľukou buk lesný Fagus sylvatica L. Banskobystrický Detva Hriňová Správa CHKO Poľana
+S 303 Buk pod Širokou buk lesný Fagus sylvatica L. Banskobystrický Banská Bystrica Hrochoť Správa CHKO Poľana
+S 33 Buk pri kaštieli buk lesný Fagus sylvatica L. Žilinský Dolný Kubín Mokraď Správa CHKO Horná Orava
+S 128 Buk v Detvianskej Hute buk lesný Fagus sylvatica L. Banskobystrický Detva Detvianska Huta Správa CHKO Poľana
+S 341 Buk v Rožňave buk lesný Fagus sylvatica L. Košický Rožňava Rožňava Správa NP Slovenský kras
+S 14 Buk v kláštornej záhrade buk lesný Fagus sylvatica L. Žilinský Martin Kláštor pod Znievom Správa NP Veľká Fatra
+S 207 Buk v Štiavniku buk lesný Fagus sylvatica L. Žilinský Bytča Štiavnik Správa CHKO Strážovské vrchy
+S 184 Buky v Belej buk lesný Fagus sylvatica L. Žilinský Žilina Belá Správa NP Malá Fatra
+S 206 Buky vo Veľkom Rovnom buk lesný Fagus sylvatica L. Žilinský Bytča Veľké Rovné Správa CHKO Strážovské vrchy
+S 474 Báťkova lipa lipa malolistá Tilia cordata Mill. Banskobystrický Detva Hriňová Správa CHKO Poľana
+S 104 Devičianska oskoruša jarabina oskorušová Sorbus domestica L. Nitriansky Levice Horné Devičany Správa CHKO Ponitrie
+S 307 Diviacka gledíčia gledíčia trojtŕňová Gleditschia triacanthos Trenčiansky Prievidza Diviaky nad Nitricou Správa CHKO Ponitrie
+S 496 Dolnolovčický brestovec brestovec západný Celtis occidentalis Trnavský Trnava Dolné Lovčice Správa CHKO Malé Karpaty
+S 73 Dolnomarikovská lipa lipa malolistá Tilia cordata Mill. Trenčiansky Považská Bystrica Dolná Mariková Správa CHKO Strážovské vrchy
+S 441 Domanižské lipy lipa malolistá Tilia cordata Mill. Trenčiansky Považská Bystrica Domaniža Správa CHKO Strážovské vrchy
+S 155 Dub pri Dolných Strhároch dub letný Quercus robur L. Banskobystrický Veľký Krtíš Dolné Strháre Správa CHKO Štiavnické vrchy
+S 284 Dub cerový Hrušovany dub cerový Quercus cerris L. Nitriansky Topoľčany Hrušovany Správa CHKO Ponitrie
+S 97 Dub letný - Medvecké dub letný Quercus robur L. Nitriansky Levice Tekovské Lužany Správa CHKO Ponitrie
+S 250 Dub letný v Lehnicich dub letný Quercus robur L. Trnavský Dunajská Streda Veľký Lég Správa CHKO Dunajské luhy
+S 481 Dub letný v Dunajskej Lužnej dub letný Quercus robur Bratislavský Senec Jánošíková RCOP v Bratislave
+S 251 Dub letný v Mliečanoch dub letný Quercus robur L. Trnavský Dunajská Streda Mliečany Správa CHKO Dunajské luhy
+S 95 Dub letný v parku dub letný Quercus robur L. Nitriansky Levice Vozokany nad Hronom Správa CHKO Ponitrie
+S 162 Dub letný v Štrkovci dub letný Quercus robur L. Trnavský Galanta Šoporňa Správa CHKO Dunajské luhy
+S 387 Dub letný vo Svidníku dub letný Quercus robur L. Prešovský Svidník Svidník RCOP v Prešove
+S 234 Dub na Godrovej ulici dub Quercus L. Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 412 Dub na Moravskej ceste dub letný Quercus robur L. Trenčiansky Myjava Myjava Správa CHKO Záhorie
+S 221 Dub na Moyzesovej ulici dub letný Quercus robur Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 285 Dub na Podzámskej ulici dub letný Quercus robur L. Nitriansky Nové Zámky Nové Zámky Správa CHKO Dunajské luhy
+S 229 Dub na Prvosienkovej ulici dub žltkastý Quercus dalechampii Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 214 Dub na Šulekovej ulici dub jadranský Quercus virgiliana Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 147 Dub pri Lutile dub letný Quercus robur L. Banskobystrický Žiar nad Hronom Lutila Správa CHKO Štiavnické vrchy
+S 34 Dub pri kaštieli dub letný Quercus robur L. Žilinský Dolný Kubín Mokraď Správa CHKO Horná Orava
+S 297 Dub v Brezničke dub letný Quercus robur L. Banskobystrický Poltár Breznička Správa CHKO Cerová vrchovina
+S 343 Dub v Dúbrave dub letný Quercus robur L. Prešovský Snina Dúbrava Správa NP Poloniny
+S 248 Dub v Hornom Mýte dub letný Quercus robur L. Trnavský Dunajská Streda Horné Mýto Správa CHKO Dunajské luhy
+S 136 Dub v Hostí dub cerový Quercus cerris L. Nitriansky Zlaté Moravce Hostie Správa CHKO Ponitrie
+S 348 Dub v Humennom dub sivý Quercus pedunculiflora K.Koch Prešovský Humenné Humenné Správa CHKO Východné Karpaty
+S 385 Dub v Hunkovciach dub letný Quercus robur L. Prešovský Svidník Hunkovce Správa CHKO Východné Karpaty
+S 340 Dub v Joviciach dub letný Quercus robur L. Košický Rožňava Jovice Správa NP Slovenský kras
+S 239 Dub v Kostolnej Gale dub letný Quercus robur L. Trnavský Dunajská Streda Kostolná Gala Správa CHKO Dunajské luhy
+S 52 Dub v Kremnici dub letný Quercus robur L. Banskobystrický Žiar nad Hronom Kremnica Správa CHKO Štiavnické vrchy
+S 249 Dub v Michale na Ostrove dub letný Quercus robur L. Trnavský Dunajská Streda Michal na Ostrove Správa CHKO Dunajské luhy
+S 397 Dub v Michalovciach dub letný Quercus robur L. Košický Michalovce Michalovce Správa CHKO Vihorlat
+S 125 Dub v Prosieku dub letný Quercus robur L. Žilinský Liptovský Mikuláš Prosiek Správa Tatranského NP
+S 459 Dub v Pustom Mlyne dub letný Quercus robur L. Trnavský Senica Cerová-Lieskové Správa CHKO Záhorie
+S 395 Dub v Rakovci n/Ondavou II. dub letný Quercus robur L. Košický Michalovce Rakovec nad Ondavou Správa CHKO Vihorlat
+S 367 Dub v Rudlove dub letný Quercus robur L. Prešovský Vranov nad Topľou Rudlov RCOP v Prešove
+S 159 Dub v Sečiankach dub letný Quercus robur L. Banskobystrický Veľký Krtíš Sečianky Správa CHKO Štiavnické vrchy
+S 47 Duby na Trojačke dub zimný Quercus petrea (Matt.)Liebl. Žilinský Čadca Makov Správa CHKO Kysuce
+S 22 Duby pred budovou detskej ambulancie dub letný Quercus robur L. Žilinský Dolný Kubín Istebné Správa CHKO Horná Orava
+S 131 Duby pri zámku v Slovenskej Ľupči dub letný Quercus robur L. Banskobystrický Banská Bystrica Slovenská Ľupča Správa NP Nízke Tatry
+S 286 Duby v Berku dub letný Quercus robur L. Nitriansky Nové Zámky Nové Zámky Správa CHKO Dunajské luhy
+S 49 Duby v Bijacovciach dub letný Quercus robur L. Prešovský Levoča Bijacovce Správa NP Slovenský raj
+S 300 Duby v Dobrej Nive dub letný Quercus robur L. Banskobystrický Zvolen Dobrá Niva Správa CHKO Poľana
+S 299 Duby v Kováčovej dub letný, dub zimný Quercus robur L., Quercus petraea (Matt.) Liebl. Banskobystrický Zvolen Kováčová Správa CHKO Poľana
+S 382 Duby v Krajnom Čiernom dub letný Quercus robur L. Prešovský Svidník Krajné Čierno Správa CHKO Východné Karpaty
+S 339 Duby v Krásnohorskom Podhradí dub letný Quercus robur L. Košický Rožňava Krásnohorské Podhradie Správa NP Slovenský kras
+S 414 Duby v Parchovanoch dub letný Quercus robur L. Košický Trebišov Parchovany Správa CHKO Latorica
+S 408 Duby v Pečovskej Novej Vsi dub letný Quercus robur L. Prešovský Sabinov Pečovská Nová Ves RCOP v Prešove
+S 488 Duby v bažantnici dub letný Quercus robur Nitriansky Nové Zámky Palárikovo Správa CHKO Dunajské luhy
+S 56 Duglaska v Starej Kremničke duglaska tisolistá Pseudotsuga menziesii (Mirb.) Franco Banskobystrický Žiar nad Hronom Stará Kremnička Správa CHKO Štiavnické vrchy
+S 355 Dve lipy malolisté v Rešici lipa malolistá Tilia cordata Mill. Košický Košice - okolie Rešica Správa NP Slovenský kras
+S 487 Fándlyho jabloň jabloň domáca Malus domestica Trnavský Trnava Naháč Správa CHKO Malé Karpaty
+S 456 Gaštan jedlý v Častej gaštan jedlý Castanea sativa Mill. Bratislavský Pezinok Častá Správa CHKO Malé Karpaty
+S 228 Gaštan na Karabinského ulici gaštan jedlý Castanea sativa Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 402 Gaštan nad Vápenkou gaštan jedlý Castanea sativa Mill. Trenčiansky Nové Mesto nad Váhom Nové Mesto nad Váhom Správa CHKO Malé Karpaty
+S 154 Gaštan v Modrom Kameni gaštan jedlý Castanea sativa Mill. Banskobystrický Veľký Krtíš Modrý Kameň Správa CHKO Štiavnické vrchy
+S 144 Gaštan v Štiavnických Baniach gaštan jedlý Castanea sativa Mill. Banskobystrický Banská Štiavnica Štiavnické Bane Správa CHKO Štiavnické vrchy
+S 259 Gaštanica gaštan jedlý Castanea sativa Mill. Trenčiansky Nové Mesto nad Váhom Zemianske Podhradie Správa CHKO Biele Karpaty
+S 158 Gaštany v Príbelciach gaštan jedlý Castanea sativa Mill. Banskobystrický Veľký Krtíš Dolné Príbelce Správa CHKO Štiavnické vrchy
+S 331 Gaštany a platan v Hucíne pagaštan konský, platan západný Aesculus hippocastanum L., Platanus occidentalis L. Banskobystrický Revúca Hucín Správa NP Muránska planina
+S 157 Gaštany na Judinom vrchu gaštan jedlý Castanea sativa Mill. Banskobystrický Veľký Krtíš Modrý Kameň Správa CHKO Štiavnické vrchy
+S 156 Gaštany na Krakorovom vrchu gaštan jedlý Castanea sativa Mill. Banskobystrický Veľký Krtíš Modrý Kameň Správa CHKO Štiavnické vrchy
+S 484 Gaštany v Ratkovskom Bystrom gaštan jedlý Castanea sativa Banskobystrický Revúca Ratkovské Bystré Správa NP Muránska planina
+S 296 Ginko dvojlaločné v Lučenci ginko dvojlaločné Ginkgo biloba L. Banskobystrický Lučenec Lučenec Správa CHKO Cerová vrchovina
+S 215 Ginko na Godrovej ulici ginko dvojlaločné Ginkgo biloba Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 361 Ginko na Masarykovej ulici ginko dvojlaločné Ginkgo biloba L. Košický Košice I Stredné Mesto RCOP v Prešove
+S 8 Ginko v Abramovej ginko dvojlaločné Ginkgo biloba L. Žilinský Turčianske Teplice Abramová Správa NP Veľká Fatra
+S 346 Ginko v Humennom ginko dvojlaločné Ginkgo biloba L. Prešovský Humenné Humenné Správa CHKO Východné Karpaty
+S 71 Ginko v Mednom ginko dvojlaločné Ginkgo biloba L. Trenčiansky Púchov Medné Správa CHKO Strážovské vrchy
+S 471 Ginko v Súdovciach ginko dvojlaločné Ginkgo biloba L. Banskobystrický Krupina Súdovce Správa CHKO Štiavnické vrchy
+S 499 Grinavský topoľ topoľ čierny Populus nigra Bratislavský Pezinok Grinava Správa CHKO Malé Karpaty
+S 91 Hadí smrek v Nesluši smrek obyčajný Picea abies (L.) H. Karst v. cranstonii Žilinský Kysucké Nové Mesto Nesluša Správa CHKO Kysuce
+S 440 Hatnianska lipa lipa veľkolistá Tilia platyphyllos Scop. Trenčiansky Považská Bystrica Hatné Správa CHKO Strážovské vrchy
+S 449 Hodrušský gaštan gaštan jedlý Castanea sativa Mill. Banskobystrický Žarnovica Banská Hodruša Správa CHKO Štiavnické vrchy
+S 475 Hrab pri Lukovom hrab obyčajný Carpinus betulus L. Banskobystrický Zvolen Lukové Správa CHKO Poľana
+S 68 Hrab v Bohuniciach hrab obyčajný Carpinus betulus L. Trenčiansky Ilava Bohunice Správa CHKO Strážovské vrchy
+S 364 Hradištské gaštany gaštan jedlý Castanea sativa Mill. Banskobystrický Poltár Hradište Správa CHKO Cerová vrchovina
+S 2 Hrochoťská lipa lipa malolistá Tilia cordata Mill. Banskobystrický Banská Bystrica Hrochoť Správa CHKO Poľana
+S 304 Hruška pod Baranovom hruška planá Pyrus pyraster (L.) Burgsd. Banskobystrický Banská Bystrica Kostiviarska Správa NP Nízke Tatry
+S 289 Hruška v Berku hruška obyčajná Pyrus communis L. Nitriansky Nové Zámky Nové Zámky Správa CHKO Dunajské luhy
+S 422 Hruška zelienka hruška obyčajná Pyrus communis L. emend Burgsd. Banskobystrický Žarnovica Nová Baňa Správa CHKO Štiavnické vrchy
+S 29 Jasen pri budove lesnej správy jaseň štíhly Fraxinus excelsior L. Žilinský Dolný Kubín Párnica Správa CHKO Horná Orava
+S 433 Jasenická lipa lipa malolistá Tilia cordata Mill. Trenčiansky Považská Bystrica Jasenica Správa CHKO Strážovské vrchy
+S 227 Jaseň na Rudnayovom námestí jaseň štíhly Fraxinus excelsior Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 252 Jaseň pod Buchlovom jaseň štíhly Fraxinus excelsior L. Trenčiansky Prievidza Čereňany Správa CHKO Ponitrie
+S 359 Jaseň pri Angeline jaseň štíhly Fraxinus excelsior L. Košický Košice I Severné Mesto RCOP v Prešove
+S 25 Jaseň pri kaštieli jaseň štíhly Fraxinus excelsior L. Žilinský Dolný Kubín Istebné Správa CHKO Horná Orava
+S 67 Jaseň v Zliechove jaseň štíhly Fraxinus excelsior L. Trenčiansky Ilava Zliechov Správa CHKO Strážovské vrchy
+S 314 Javor v Kamienke javor horský Acer pseudoplatanus Prešovský Stará Ľubovňa Kamienka Správa Pieninského NP
+S 492 Javor v Osturni javor horský Acer pseudoplatanus Prešovský Kežmarok Osturňa Správa Pieninského NP
+S 116 Javor v Ružomberku pod Tichým javor mliečny Acer platanoides L. Žilinský Ružomberok Ružomberok Správa NP Nízke Tatry
+S 188 Javor v Žiline javor cukrový Acer saccharinum L. Žilinský Žilina Žilina Správa NP Malá Fatra
+S 197 Javory v Stránskom javor horský Acer pseudoplatanus L. Žilinský Žilina Stránske Správa NP Malá Fatra
+S 140 Jedle na Mláčiku jedľa biela Abies alba Mill. Banskobystrický Zvolen Železná Breznica Správa CHKO Poľana
+S 453 Jedľa v Hrdzavej doline jedľa biela Abies alba Mill. Banskobystrický Revúca Muráň Správa NP Muránska planina
+S 225 Jedľa v Kráľovskom údolí jedľa srienistá Abies concolor Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 114 Jedľa v L. Osade - Teplô jedľa biela Abies alba Mill. Žilinský Ružomberok Liptovské Revúce Správa NP Veľká Fatra
+S 101 Kalnianske topole topoľ čierny Populus nigra L. Nitriansky Levice Kalná Správa CHKO Ponitrie
+S 232 Katalpa na Mickiewiczovej ulici katalpa bignóniovitá Catalpa bignonioides Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 149 Katalpa v Hnúšti katalpa bignóniovitá Catalpa bignonioides Walt. Banskobystrický Rimavská Sobota Hnúšťa Správa CHKO Cerová vrchovina
+S 415 Kazimírske duby dub letný Quercus robur L. Košický Trebišov Veľký Kazimír Správa CHKO Latorica
+S 446 Klobušické platany platan západný Platanus occidentalis L. Trenčiansky Ilava Klobušice Správa CHKO Strážovské vrchy
+S 442 Klobušický javor javor cukrový Acer saccharinum L. Trenčiansky Ilava Klobušice Správa CHKO Strážovské vrchy
+S 240 Koelreuterie v Hubiciach jaseňovec metlinatý, jeseňovec metlinatý Koelreuteria paniculata Laxm., Koelreuteria paniculata Trnavský Dunajská Streda Hubice Správa CHKO Dunajské luhy
+S 126 Koháryho dub dub letný Quercus robur L. Banskobystrický Krupina Krnišov Správa CHKO Štiavnické vrchy
+S 16 Korvínova lipa lipa veľkolistá Tilia platyphyllos Scop. Banskobystrický Banská Bystrica Slovenská Ľupča Správa NP Nízke Tatry
+S 100 Kozárovská lipa lipa veľkolistá Tilia platyphyllos Scop Nitriansky Levice Kozárovce Správa CHKO Ponitrie
+S 444 Kvašovská lipa lipa malolistá Tilia cordata Mill. Trenčiansky Považská Bystrica Považská Bystrica Správa CHKO Strážovské vrchy
+S 507 Kľacké duglasky duglaska tisolistá Pseudotsuga menziesii Banskobystrický Žarnovica Kľak Správa CHKO Ponitrie
+S 88 Lipa v Pažitiach lipa veľkolistá Tilia platyphyllos Scop. Žilinský Kysucké Nové Mesto Lopušné Pažite Správa CHKO Kysuce
+S 357 Lipa malolistá v Hutníkoch lipa malolistá Tilia cordata Mill. Košický Košice - okolie Sokoľany RCOP v Prešove
+S 392 Lipa malolistá v Miroli lipa malolistá Tilia cordata Mill. Prešovský Svidník Miroľa Správa CHKO Východné Karpaty
+S 405 Lipa malolistá v Suchej lipa malolistá Tilia cordata Mill. Prešovský Stropkov Suchá Správa CHKO Východné Karpaty
+S 163 Lipa malolistá v Šali lipa malolistá Tilia cordata Mill. Nitriansky Šaľa Šaľa Správa CHKO Dunajské luhy
+S 377 Lipa malolistá vo Svidníku lipa malolistá Tilia cordata Mill. Prešovský Svidník Svidník RCOP v Prešove
+S 356 Lipa malolistá vo Veľkoidanskom parku lipa malolistá Tilia cordata Mill. Košický Košice - okolie Veľká Ida Správa NP Slovenský kras
+S 270 Lipa mimo obce nad Bielou Oravou lipa malolistá Tilia cordata Mill. Žilinský Námestovo Lomná Správa CHKO Horná Orava
+S 212 Lipa na Partizánskej ulici lipa malolistá Tilia cordata Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 17 Lipa na Pustovci lipa veľkolistá Tilia platyphyllos Scop. Prešovský Kežmarok Toporec Správa Pieninského NP
+S 28 Lipa na cintoríne lipa malolistá Tilia cordata Mill. Žilinský Dolný Kubín Pokryváč Správa CHKO Horná Orava
+S 45 Lipa na cintoríne lipa veľkolistá Tilia platyphyllos Scop. Žilinský Námestovo Rabčice Správa CHKO Horná Orava
+S 272 Lipa na cintoríne lipa veľkolistá Tilia platyphyllos Scop. Žilinský Námestovo Lomná Správa CHKO Horná Orava
+S 469 Lipa na cintoríne v Dobrej Vode lipa malolistá Tilia cordata Mill. Trnavský Trnava Dobrá Voda Správa CHKO Malé Karpaty
+S 43 Lipa na súkromnom pozemku lipa malolistá Tilia cordata Mill. Žilinský Námestovo Oravské Veselé Správa CHKO Horná Orava
+S 416 Lipa na Šajbách lipa malolistá Tilia cordata Mill. Trenčiansky Prievidza Koš Správa CHKO Ponitrie
+S 90 Lipa na Šindelnej lipa veľkolistá Tilia platyphyllos Scop. Žilinský Kysucké Nové Mesto Nesluša Správa CHKO Kysuce
+S 20 Lipa oproti budove kultúrneho strediska lipa veľkolistá Tilia platyphyllos Scop. Žilinský Dolný Kubín Dlhá nad Oravou Správa CHKO Horná Orava
+S 12 Lipa pred kláštorom lipa malolistá Tilia cordata Mill. Žilinský Martin Kláštor pod Znievom Správa NP Veľká Fatra
+S 266 Lipa pri Hronseckom kaštieli lipa malolistá Tilia cordata Mill. Banskobystrický Banská Bystrica Hronsek Správa CHKO Poľana
+S 19 Lipa pri Kysuckom Novom Meste lipa malolistá Tilia cordata Mill. Žilinský Kysucké Nové Mesto Kysucké Nové Mesto Správa CHKO Kysuce
+S 424 Lipa pri Múzeu Prvej SNR lipa malolistá Tilia cordata Mill. Trenčiansky Myjava Myjava Správa CHKO Záhorie
+S 30 Lipa pri budove lesnej správy lipa malolistá Tilia cordata Mill. Žilinský Dolný Kubín Párnica Správa CHKO Horná Orava
+S 37 Lipa pri býv. pivovare lipa veľkolistá Tilia platyphollos Scop. Žilinský Tvrdošín Podbiel Správa CHKO Horná Orava
+S 27 Lipa pri evanjelickom kostole lipa veľkolistá Tilia platyphyllos Scop. Žilinský Dolný Kubín Veličná Správa CHKO Horná Orava
+S 112 Lipa pri kostole lipa veľkolistá Tilia platyphyllos Scop. Žilinský Liptovský Mikuláš Prosiek Správa Tatranského NP
+S 86 Lipa pri kostole lipa veľkolistá Tilia platyphyllos Scop. Žilinský Kysucké Nové Mesto Snežnica Správa CHKO Kysuce
+S 6 Lipa pri kostole lipa malolistá Tilia cordata Mill. Žilinský Martin Kláštor pod Znievom Správa NP Veľká Fatra
+S 10 Lipa pri kostole v Slovenskom Pravne lipa malolistá Tilia cordata Mill. Žilinský Turčianske Teplice Slovenské Pravno Správa NP Veľká Fatra
+S 465 Lipa pri kostole v Smoleniciach lipa malolistá Tilia cordata Mill. Trnavský Trnava Smolenice Správa CHKO Malé Karpaty
+S 36 Lipa pri pošte lipa veľkolistá Tilia platyphyllos Scop. Žilinský Tvrdošín Tvrdošín Správa CHKO Horná Orava
+S 306 Lipa pri prameni lipa veľkolistá Tilia platyphyllos Scop. Trenčiansky Prievidza Diviacka Nová Ves Správa CHKO Ponitrie
+S 35 Lipa pri rodinnom dome lipa malolistá Tilia cordata Mill. Žilinský Dolný Kubín Malý Bysterec Správa CHKO Horná Orava
+S 445 Lipa trinitárov v Ilave lipa malolistá Tilia cordata Mill. Trenčiansky Ilava Ilava Správa CHKO Strážovské vrchy
+S 401 Lipa u Belanských lipa veľkolistá srdcovitolistá Tilia platyphyllos subsp. cordifolia (Besser) C.K. Schneid. Trenčiansky Myjava Turá Lúka Správa CHKO Záhorie
+S 381 Lipa v Belejovciach lipa malolistá Tilia cordata Mill. Prešovský Svidník Belejovce RCOP v Prešove
+S 74 Lipa v Borčiciach lipa malolistá Tilia cordata Mill. Trenčiansky Ilava Borčice Správa CHKO Strážovské vrchy
+S 389 Lipa v Brezničke lipa malolistá Tilia cordata Mill. Prešovský Stropkov Breznička RCOP v Prešove
+S 129 Lipa v Bzovíku lipa malolistá Tilia cordata Mill. Banskobystrický Krupina Bzovík Správa CHKO Štiavnické vrchy
+S 127 Lipa v Detvianskej Hute lipa veľkolistá Tilia platyphyllos Scop. Banskobystrický Detva Detvianska Huta Správa CHKO Poľana
+S 182 Lipa v Divinke lipa veľkolistá Tilia platyphyllos Scop. Žilinský Žilina Divinka Správa NP Malá Fatra
+S 69 Lipa v Dolnom Lieskovom lipa malolistá Tilia cordata Mill. Trenčiansky Považská Bystrica Dolný Lieskov Správa CHKO Strážovské vrchy
+S 135 Lipa v Dolných Štitároch lipa veľkolistá Tilia platyphyllos Scop. Nitriansky Nitra Dolné Štitáre Správa CHKO Ponitrie
+S 180 Lipa v Gbeľanoch lipa malolistá Tilia cordata Mill. Žilinský Žilina Gbeľany Správa NP Malá Fatra
+S 452 Lipa v Gelnici lipa malolistá Tilia cordata Mill. Košický Gelnica Gelnica Správa NP Slovenský raj
+S 179 Lipa v Hornom Hričove lipa malolistá Tilia cordata Mill. Žilinský Žilina Horný Hričov Správa NP Malá Fatra
+S 209 Lipa v Hvozdnici lipa veľkolistá Tilia platyphyllos Scop. Žilinský Bytča Hvozdnica Správa CHKO Strážovské vrchy
+S 120 Lipa v Ivachnovej lipa veľkolistá Tilia platyphyllos Scop. Žilinský Ružomberok Ivachnová Správa Tatranského NP
+S 119 Lipa v Ivachnovej lipa malolistá Tilia cordata Mill. Žilinský Ružomberok Ivachnová Správa Tatranského NP
+S 323 Lipa v Jamníku lipa malolistá Tilia cordata Mill. Košický Spišská Nová Ves Jamník Správa NP Slovenský raj
+S 349 Lipa v Kamenici nad Cirochou lipa veľkolistá Tilia platyphyllos Scop. Prešovský Humenné Kamenica nad Cirochou Správa CHKO Východné Karpaty
+S 177 Lipa v Krasňanoch lipa malolistá Tilia cordata Mill. Žilinský Žilina Krasňany Správa NP Malá Fatra
+S 294 Lipa v Kremnici - Leopold Šachta lipa veľkolistá Tilia platyphyllos Scop. Banskobystrický Žiar nad Hronom Kremnica Správa CHKO Štiavnické vrchy
+S 295 Lipa v Kremnici-Staré Piargy lipa veľkolistá Tilia platyphyllos Scop. Banskobystrický Žiar nad Hronom Kremnické Bane Správa CHKO Štiavnické vrchy
+S 70 Lipa v Lednickom Rovnom lipa malolistá Tilia cordata Mill. Trenčiansky Púchov Lednické Rovne Správa CHKO Strážovské vrchy
+S 176 Lipa v Lietave lipa malolistá Tilia cordata Mill. Žilinský Žilina Lietava Správa NP Malá Fatra
+S 111 Lipa v Liptovských Matiašovciach lipa veľkolistá Tilia platyphyllos Scop. Žilinský Liptovský Mikuláš Liptovské Matiašovce Správa Tatranského NP
+S 110 Lipa v Liptovských Matiašovciach lipa veľkolistá Tilia platyphyllos Scop. Žilinský Liptovský Mikuláš Liptovské Matiašovce Správa Tatranského NP
+S 175 Lipa v Lutišiach lipa malolistá Tilia cordata Mill. Žilinský Žilina Lutiše Správa NP Malá Fatra
+S 121 Lipa v Madočanoch lipa veľkolistá Tilia platyphyllos Scop. Žilinský Ružomberok Madočany Správa Tatranského NP
+S 46 Lipa v Matiašovciach lipa malolistá Tilia cordata Mill. Žilinský Liptovský Mikuláš Liptovské Matiašovce Správa Tatranského NP
+S 388 Lipa v Miňovciach lipa malolistá Tilia cordata Mill. Prešovský Stropkov Miňovce RCOP v Prešove
+S 133 Lipa v Motyčkách lipa veľkolistá Tilia platyphyllos Scop. Banskobystrický Banská Bystrica Motyčky Správa NP Nízke Tatry
+S 59 Lipa v Novej Bani lipa veľkolistá Tilia platyphyllos Scop. Banskobystrický Žarnovica Nová Baňa Správa CHKO Štiavnické vrchy
+S 109 Lipa v Ondrašovej lipa veľkolistá Tilia platyphyllos Scop. Žilinský Liptovský Mikuláš Liptovská Ondrašová Správa Tatranského NP
+S 202 Lipa v Paštinej Závade lipa veľkolistá Tilia platyphyllos Scop. Žilinský Žilina Paština Závada Správa NP Malá Fatra
+S 167 Lipa v Pustých Úľanoch lipa malolistá Tilia cordata Mill. Trnavský Galanta Pusté Úľany Správa CHKO Dunajské luhy
+S 201 Lipa v Rajci lipa veľkolistá Tilia platyphyllos Scop. Žilinský Žilina Rajec Správa NP Malá Fatra
+S 330 Lipa v Rákoši na cintoríne lipa malolistá Tilia cordata Mill. Banskobystrický Revúca Rákoš Správa NP Muránska planina
+S 335 Lipa v Silici lipa malolistá Tilia cordata Mill. Košický Rožňava Silica Správa NP Slovenský kras
+S 11 Lipa v Sklenom pri kostole lipa veľkolistá Tilia platyphyllos Scop. Žilinský Turčianske Teplice Sklené Správa NP Veľká Fatra
+S 123 Lipa v Smrečanoch lipa veľkolistá Tilia platyphyllos Scop. Žilinský Liptovský Mikuláš Smrečany Správa Tatranského NP
+S 502 Lipa v Spišskom Bystrom lipa malolistá Tilia cordata Prešovský Poprad Spišské Bystré Správa Tatranského NP
+S 117 Lipa v Stankovanoch pri ObÚ lipa veľkolistá Tilia platyphyllos Scop. Žilinský Ružomberok Stankovany Správa Tatranského NP
+S 118 Lipa v Stankovanoch pri kostole lipa veľkolistá Tilia platyphyllos Scop. Žilinský Ružomberok Stankovany Správa Tatranského NP
+S 477 Lipa v Starej Bôrovej lipa veľkolistá Tilia platyphyllos Scop. Žilinský Martin Sklabinský Podzámok Správa NP Veľká Fatra
+S 322 Lipa v Stratenej lipa veľkolistá Tilia platyphyllos Scop. Košický Rožňava Stratená Správa NP Slovenský raj
+S 196 Lipa v Stránskom lipa malolistá Tilia cordata Mill. Žilinský Žilina Stránske Správa NP Malá Fatra
+S 193 Lipa v Terchovej lipa veľkolistá Tilia platyphyllos Scop. Žilinský Žilina Terchová Správa NP Malá Fatra
+S 191 Lipa v Turí lipa veľkolistá Tilia platyphyllos Scop. Žilinský Žilina Turie Správa NP Malá Fatra
+S 7 Lipa v kláštornej záhrade lipa malolistá Tilia cordata Mill. Žilinský Martin Kláštor pod Znievom Správa NP Veľká Fatra
+S 451 Lipa v obci Kojšov lipa malolistá Tilia cordata Mill. Košický Gelnica Kojšov Správa NP Slovenský raj
+S 315 Lipa v obci Veľká Lesná lipa veľkolistá Tilia platyphyllos Scop. Prešovský Stará Ľubovňa Veľká Lesná Správa Pieninského NP
+S 106 Lipa v Ďuricovom sade lipa veľkolistá Tilia platyphyllos Scop. Žilinský Liptovský Mikuláš Liptovská Anna Správa Tatranského NP
+S 181 Lipa v Ďurčinej lipa veľkolistá Tilia platyphyllos Scop. Žilinský Žilina Ďurčiná Správa NP Malá Fatra
+S 138 Lipa v Ľubochni pri Kollárovom dome lipa veľkolistá Tilia platyphyllos Scop. Žilinský Ružomberok Ľubochňa Správa NP Veľká Fatra
+S 204 Lipa v Štiavniku lipa veľkolistá Tilia platyphylos Scop. Žilinský Bytča Štiavnik Správa CHKO Kysuce
+S 102 Lipa veľkolistá v Tupej lipa veľkolistá Tilia platyphyllos Scop. Nitriansky Levice Chorvatice Správa CHKO Ponitrie
+S 318 Lipanská lipa lipa malolistá Tilia cordata Mill. Prešovský Sabinov Lipany RCOP v Prešove
+S 139 Lipová alej lipa malolistá Tilia cordata Mill. Žilinský Ružomberok Ľubochňa Správa NP Veľká Fatra
+S 185 Lipová aleja v Žiline - Bytčici lipa malolistá Tilia cordata Mill. Žilinský Žilina Bytčica Správa NP Malá Fatra
+S 275 Lipského lipy lipa malolistá Tilia cordata Mill. Trenčiansky Trenčín Sedličná Správa CHKO Biele Karpaty
+S 455 Lipy Eugena Suchoňa lipa malolistá, lipa malolistá Tilia cordata, Tilia cordata Mill. Prešovský Poprad Štrba Správa Tatranského NP
+S 376 Lipy malolisté v Radome lipa malolistá Tilia cordata Mill. Prešovský Svidník Radoma RCOP v Prešove
+S 419 Lipy na Hornej Rovni lipa malolistá, lipa veľkolistá Tilia platyphyllos Scop., Tilia platyphyllos Scop. Banskobystrický Banská Štiavnica Štiavnické Bane Správa CHKO Štiavnické vrchy
+S 84 Lipy na Kopaniciach lipa veľkolistá Tilia platyphyllos Scop. Žilinský Kysucké Nové Mesto Rudinka Správa CHKO Kysuce
+S 420 Lipy na Kyslej lipa veľkolistá Tilia platyphyllos Scop. Banskobystrický Žarnovica Dolné Hámre Správa CHKO Štiavnické vrchy
+S 80 Lipy na Litovelskej lipa veľkolistá Tilia platyphyllos Scop. Žilinský Kysucké Nové Mesto Kysucké Nové Mesto Správa CHKO Kysuce
+S 39 Lipy na cintoríne lipa veľkolistá Tilia platyphyllos Scop. Žilinský Tvrdošín Horný Štefanov Správa CHKO Horná Orava
+S 87 Lipy na cintoríne lipa veľkolistá Tilia platyphyllos Scop. Žilinský Kysucké Nové Mesto Horný Vadičov Správa CHKO Kysuce
+S 64 Lipy na cintoríne vo Veľkej Čausi lipa malolistá Tilia cordata Mill. Trenčiansky Prievidza Veľká Čausa Správa CHKO Ponitrie
+S 267 Lipy na križovatke ciest Zázrivá - Žilina lipa veľkolistá Tilia platyphyllos Scop. Žilinský Dolný Kubín Zázrivá Správa NP Malá Fatra
+S 81 Lipy pod Vrchom lipa veľkolistá Tilia platyphyllos Scop. Žilinský Kysucké Nové Mesto Rudinka Správa CHKO Kysuce
+S 3 Lipy pri Hronseckom kostolíku lipa Tilia L. Banskobystrický Banská Bystrica Hronsek Správa CHKO Poľana
+S 432 Lipy pri Kalvárii lipa veľkolistá Tilia platyphyllos Scop. Trnavský Trnava Trnava Správa CHKO Malé Karpaty
+S 430 Lipy pri Radave lipa malolistá Tilia cordata Mill. Nitriansky Nové Zámky Hul Správa CHKO Dunajské luhy
+S 291 Lipy pri bývalej mestskej strelnici v Banskej Štiavnici lipa malolistá Tilia cordata Mill. Banskobystrický Banská Štiavnica Banská Štiavnica Správa CHKO Štiavnické vrchy
+S 21 Lipy pri kostole lipa veľkolistá Tilia platyphyllos Scop. Žilinský Dolný Kubín Istebné Správa CHKO Horná Orava
+S 62 Lipy pri kostole v Diviakoch nad Nitricou lipa malolistá, lipa veľkolistá Tilia cordata Mill., Tilia platyphyllos Scop. Trenčiansky Prievidza Diviaky nad Nitricou Správa CHKO Ponitrie
+S 78 Lipy pri kostole v Čadci lipa veľkolistá Tilia platyphylos Scop. Žilinský Čadca Čadca Správa CHKO Kysuce
+S 83 Lipy u Beloni lipa veľkolistá Tilia platyphylos Scop. Žilinský Čadca Makov Správa CHKO Kysuce
+S 82 Lipy u Kanderov lipa veľkolistá Tilia platyphylos Scop. Žilinský Čadca Stará Bystrica Správa CHKO Kysuce
+S 183 Lipy v Belej lipa malolistá, lipa veľkolistá Tilia cordata Mill., Tilia platyphyllos Scop. Žilinský Žilina Belá Správa NP Malá Fatra
+S 210 Lipy v Bytči - Hliníku lipa veľkolistá Tilia platyphyllos Scop. Žilinský Bytča Hliník nad Váhom Správa CHKO Strážovské vrchy
+S 280 Lipy v Dačovom Lome lipa veľkolistá Tilia platyphyllos Scop. Banskobystrický Veľký Krtíš Horný Dačov Lom Správa CHKO Štiavnické vrchy
+S 476 Lipy v Doline lipa veľkolistá Tilia platyphyllos Scop. Žilinský Martin Necpaly Správa NP Veľká Fatra
+S 143 Lipy v Hrbôltovej lipa veľkolistá Tilia platyphyllos Scop. Žilinský Ružomberok Hrboltová Správa Tatranského NP
+S 172 Lipy v Kotešovej lipa malolistá Tilia cordata Mill. Žilinský Bytča Kotešová Správa CHKO Strážovské vrchy
+S 338 Lipy v Kováčovej lipa malolistá Tilia cordata Mill. Košický Rožňava Kováčová Správa NP Slovenský kras
+S 124 Lipy v Lipt. Matiašovciach lipa veľkolistá Tilia platyphyllos Scop. Žilinský Liptovský Mikuláš Liptovské Matiašovce Správa Tatranského NP
+S 142 Lipy v Liptovskom Trnovci lipa malolistá Tilia cordata Mill. Žilinský Liptovský Mikuláš Liptovský Trnovec Správa Tatranského NP
+S 203 Lipy v Nezbudskej Lúčke lipa malolistá, lipa veľkolistá Tilia cordata Mill., Tilia platyphyllos Scop. Žilinský Žilina Nezbudská Lúčka Správa NP Malá Fatra
+S 199 Lipy v Rajeckej Lesnej lipa veľkolistá Tilia platyphyllos Scop. Žilinský Žilina Rajecká Lesná Správa NP Malá Fatra
+S 329 Lipy v Revúcej pri štátnej ceste lipa malolistá Tilia cordata Mill. Banskobystrický Revúca Revúca Správa NP Muránska planina
+S 337 Lipy v Rochovciach lipa malolistá Tilia cordata Mill. Košický Rožňava Rochovce Správa NP Slovenský kras
+S 384 Lipy v Roztokoch lipa malolistá Tilia cordata Mill. Prešovský Svidník Roztoky Správa CHKO Východné Karpaty
+S 336 Lipy v Rudnej lipa malolistá Tilia cordata Mill. Košický Rožňava Rudná Správa NP Slovenský kras
+S 325 Lipy v Spišskej Novej Vsi lipa malolistá, lipa veľkolistá Tilia cordata Mill., Tilia platyphyllos Scop. Košický Spišská Nová Ves Spišská Nová Ves Správa NP Slovenský raj
+S 173 Lipy v Súľove lipa malolistá Tilia cordata Mill. Žilinský Bytča Súľov-Hradná Správa CHKO Strážovské vrchy
+S 79 Lipy v Turzovke lipa malolistá Tilia cordata Mill. Žilinský Čadca Turzovka Správa CHKO Kysuce
+S 205 Lipy v Čičmanoch lipa veľkolistá Tilia platyphyllos Scop. Žilinský Žilina Čičmany Správa CHKO Strážovské vrchy
+S 333 Lipy v Štítniku lipa malolistá Tilia cordata Mill. Košický Rožňava Štítnik Správa NP Slovenský kras
+S 187 Lipy v Žiline lipa malolistá Tilia cordata Mill. Žilinský Žilina Žilina Správa NP Malá Fatra
+S 186 Lipy v Žiline - Žilinskej Lehote lipa malolistá Tilia cordata Mill. Žilinský Žilina Žilinská Lehota Správa NP Malá Fatra
+S 262 Lipy v Župnom sirotinci lipa malolistá Tilia cordata Mill. Trenčiansky Nové Mesto nad Váhom Beckov Správa CHKO Biele Karpaty
+S 195 Lipy vo Svederníku lipa malolistá, lipa veľkolistá Tilia cordata Mill., Tilia platyphyllos Scop. Žilinský Žilina Svederník Správa NP Malá Fatra
+S 190 Lipy vo Višňovom lipa malolistá, lipa veľkolistá Tilia cordata Mill., Tilia platyphyllos Scop. Žilinský Žilina Višňové Správa NP Malá Fatra
+S 241 Lipy vo Vrakúni lipa malolistá Tilia cordata Mill. Trnavský Dunajská Streda Vrakúň Správa CHKO Dunajské luhy
+S 378 Lipy vo Vyšnej Jedľovej lipa malolistá Tilia cordata Mill. Prešovský Svidník Vyšná Jedľová RCOP v Prešove
+S 458 Liskovská lipa lipa veľkolistá Tilia platyphyllos Scop. Žilinský Ružomberok Lisková Správa Tatranského NP
+S 236 Magnólia na Palisádach magnólia Soulangova Magnolia x soulangiana Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 222 Magnólia na Somolického ulici magnólia Soulangova Magnolia x soulangiana Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 265 Maklúra pomarančová maklura oranžová Maclura pomifera (Raf.) C.K.Schneid. Nitriansky Nové Zámky Šurany Správa CHKO Dunajské luhy
+S 457 Matiašovský topoľ topoľ čierny Populus nigra L. Žilinský Liptovský Mikuláš Liptovské Matiašovce Správa Tatranského NP
+S 503 Mazgalická lipa lipa veľkolistá Tilia platyphyllos Prešovský Svidník Dlhoňa Správa CHKO Východné Karpaty
+S 1 Memorandové lipy v Martine lipa malolistá, lipa veľkolistá Tilia cordata Mill., Tilia plataphyllos Scop. Žilinský Martin Martin Správa NP Veľká Fatra
+S 260 Mitické gaštany gaštan jedlý Castanea sativa Mill. Trenčiansky Trenčín Trenčianske Mitice Správa CHKO Biele Karpaty
+S 486 Modranské oskoruše jarabina oskorušová Sorbus domestica Bratislavský Pezinok Modra Správa CHKO Malé Karpaty
+S 373 Modrovská metasekvoja metasekvoja čínska Metasequoia glyptostroboides Hu et Cheng Trenčiansky Nové Mesto nad Váhom Modrovka Správa CHKO Biele Karpaty
+S 393 Moruša v Tibave moruša biela Morus alba L. Košický Sobrance Tibava Správa CHKO Vihorlat
+S 409 Myjavská lipa lipa veľkolistá Tilia platyphylos Scop. Trenčiansky Myjava Myjava Správa CHKO Záhorie
+S 365 Málinské maklury maklura oranžová Maclura pomifera (Raf.) C.K.Schneid. Banskobystrický Poltár Málinec Správa CHKO Cerová vrchovina
+S 233 Novolipnický platan platan javorolistý Platanus hispanica Münchh. Bratislavský Senec Nová Lipnica RCOP v Bratislave
+S 264 Orech čierny pri Mudroňove orech čierny Juglans nigra L. Nitriansky Komárno Mudroňovo Správa CHKO Dunajské luhy
+S 429 Orechy vo Veľkom lese orech čierny Juglans nigra L. Nitriansky Nové Zámky Šurany Správa CHKO Dunajské luhy
+S 495 Oskoruša v Devíne jarabina oskorušová Sorbus domestica Bratislavský Bratislava IV Devín RCOP v Bratislave
+S 278 Oskoruša v Hrušove jarabina oskorušová Sorbus domestica L. Banskobystrický Veľký Krtíš Hrušov Správa CHKO Štiavnické vrchy
+S 450 Osuská lipa lipa veľkolistá Tilia platyphyllos Scop. Trnavský Senica Osuské Správa CHKO Záhorie
+S 168 Pagaštan konský v Gáni pagaštan konský Aesculus hippocastanum L. Trnavský Galanta Gáň Správa CHKO Dunajské luhy
+S 353 Pagaštan konský v Rozhanovciach pagaštan konský Aesculus hipocastanum L. Košický Košice - okolie Rozhanovce RCOP v Prešove
+S 418 Pagaštan v Božčiciach pagaštan konský Aesculus hippocastanum L. Košický Trebišov Božčice Správa CHKO Latorica
+S 500 Pagaštan v Hrabušiciach pagaštan konský Aesculus hippocastanum Košický Spišská Nová Ves Hrabušice Správa NP Slovenský raj
+S 313 Pagaštanová alej pagaštan konský Aesculus hippocastanum L. Prešovský Stará Ľubovňa Stará Ľubovňa Správa Pieninského NP
+S 211 Paulovnia na Škarniclovej ulici paulovnia plstnatá Paulownia tomentosa Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 93 Paulovnia plstnantá paulovnia plstnatá Paulownia tomentosa (Thunb.) Steud. Nitriansky Levice Levice Správa CHKO Ponitrie
+S 497 Piešťanské topole topoľ čierny Populus nigra Trnavský Piešťany Piešťany Správa CHKO Malé Karpaty
+S 231 Platan na Kysuckej ulici platan západný Platanus occidentalis Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 394 Platan v Bracovciach platan javorolistý Platanus hispanica Münchh. Košický Michalovce Bracovce Správa CHKO Vihorlat
+S 350 Platan v Kamenici nad Cirochou platan javorolistý Platanus hispanica Münchh. Prešovský Humenné Kamenica nad Cirochou Správa CHKO Východné Karpaty
+S 400 Platan v Krčave platan javorolistý Platanus hispanica Münchh. Košický Sobrance Krčava Správa CHKO Vihorlat
+S 371 Platan v Nižnom Hrabovci platan západný Platanus occidentalis L. Prešovský Vranov nad Topľou Nižný Hrabovec RCOP v Prešove
+S 151 Platan v Sečiankach platan javorolistý Platanus hispanica Münchh. Banskobystrický Veľký Krtíš Sečianky Správa CHKO Štiavnické vrchy
+S 399 Platan v Tibave platan javorolistý Platanus hispanica Münchh. Košický Sobrance Tibava Správa CHKO Vihorlat
+S 366 Platan v Tovarnom platan západný Platanus occidentalis L. Prešovský Vranov nad Topľou Tovarné RCOP v Prešove
+S 351 Platan v Udavskom platan javorolistý Platanus hispanica Münchh. Prešovský Humenné Udavské Správa CHKO Východné Karpaty
+S 137 Platan v Zlatých Moravciach platan javorolistý Platanus hispanica Münchh. Nitriansky Zlaté Moravce Zlaté Moravce Správa CHKO Ponitrie
+S 461 Platan v Zámockej záhrade v Hlohovci platan javorolistý Platanus hispanica Münchh. Trnavský Hlohovec Hlohovec Správa CHKO Malé Karpaty
+S 464 Platan v parku v Sokolovciach platan javorolistý Platanus hispanica Münchh. Trnavský Piešťany Sokolovce Správa CHKO Malé Karpaty
+S 411 Platan vo Veľatoch platan západný Platanus occidentalis L. Košický Trebišov Veľaty Správa CHKO Latorica
+S 169 Platan východný v Jelke platan východný Platanus orientalis L. Trnavský Galanta Jelka Správa CHKO Dunajské luhy
+S 263 Platanová aleja v Komárne platan javorolistý Platanus hispanica Münchh. Nitriansky Komárno Komárno Správa CHKO Dunajské luhy
+S 99 Platany javorolisté v parku platan javorolistý Platanus hispanica Münchh. Nitriansky Levice Kukučínov Správa CHKO Ponitrie
+S 413 Platany v Bieli platan západný Platanus occidentalis L. Košický Trebišov Biel Správa CHKO Latorica
+S 247 Platany v Blatnej na Ostrove platan javorolistý Platanus hispanica Münchh. Trnavský Dunajská Streda Blatná na Ostrove Správa CHKO Dunajské luhy
+S 298 Platany v Lučenci pri Szilassyho kaštieli platan javorolistý Platanus hispanica Münchh. Banskobystrický Lučenec Lučenec Správa CHKO Cerová vrchovina
+S 246 Platany v Nekyje na Ostrove platan javorolistý Platanus hispanica Münchh. Trnavský Dunajská Streda Nekyje na Ostrove Správa CHKO Dunajské luhy
+S 244 Platany v Okoči platan javorolistý Platanus hispanica Münchh. Trnavský Dunajská Streda Okoč Správa CHKO Dunajské luhy
+S 328 Platany v Rákoši - Bani platan západný Platanus occidentalis L. Banskobystrický Revúca Rákoš Správa NP Muránska planina
+S 161 Platany v Sládkovičove platan východný Platanus orientalis L. Trnavský Galanta Sládkovičovo Správa CHKO Dunajské luhy
+S 467 Platany v parku vo Voderadoch platan javorolistý Platanus hispanica Münchh. Trnavský Trnava Voderady Správa CHKO Malé Karpaty
+S 98 Plavovozokanská hruška hruška obyčajná Pyrus communis L. Nitriansky Levice Plavé Vozokany Správa CHKO Ponitrie
+S 439 Praznovská lipa lipa malolistá Tilia cordata Mill. Trenčiansky Považská Bystrica Praznov Správa CHKO Strážovské vrchy
+S 407 Prešovský platan platan západný Platanus occidentalis L. Prešovský Prešov Prešov RCOP v Prešove
+S 122 Prosiek - lipa lipa veľkolistá Tilia platyphyllos Scop. Žilinský Liptovský Mikuláš Prosiek Správa Tatranského NP
+S 435 Pružinské stromy javor horský, lipa veľkolistá Acer pseudoplatanus L., Tilia platyphyllos Scop. Trenčiansky Považská Bystrica Pružina Správa CHKO Strážovské vrchy
+S 438 Pusztelnikov brečtan brečtan popínavý Hedera helix L. Banskobystrický Žarnovica Nová Baňa Správa CHKO Štiavnické vrchy
+S 428 Radimovské lipy lipa malolistá Tilia cordata Mill. Trnavský Skalica Radimov Správa CHKO Záhorie
+S 24 Radlinského jaseň jaseň štíhly Fraxinus excelsior L. Žilinský Dolný Kubín Dolný Kubín Správa CHKO Horná Orava
+S 276 Rákociho dub dub letný Quercus robur L. Trenčiansky Bánovce nad Bebravou Podlužany Správa CHKO Ponitrie
+S 94 Santovská lipa lipa malolistá Tilia cordata Mill. Nitriansky Levice Santovka Správa CHKO Ponitrie
+S 254 Sekvoja Horňany sekvojovec mamutí Sequoiadendron giganteum (Lindl.) Buchholz Nitriansky Topoľčany Práznovce Správa CHKO Ponitrie
+S 293 Sekvoja obrovská sekvojovec mamutí Sequoiadendron giganteum (Limdl.) Buchholz Banskobystrický Žiar nad Hronom Kremnica Správa CHKO Štiavnické vrchy
+S 65 Sekvoja obrovská v Novej Lehote sekvojovec mamutí Sequoiadendron giganteum (Lindl.) Buchholz Trenčiansky Prievidza Nová Lehota Správa CHKO Ponitrie
+S 321 Sekvoja v Uzovskom Šalgove sekvojovec mamutí Sequoiadendron giganteum (Lindl.) Buchholz Prešovský Sabinov Uzovský Šalgov RCOP v Prešove
+S 60 Sekvojovce na Salašisku sekvojovec mamutí Sequoiadendron giganteum (Limdl.) Buchholz Banskobystrický Žarnovica Nová Baňa Správa CHKO Štiavnické vrchy
+S 454 Sekvojovec mamutí sekvojovec mamutí Sequoiadendron giganteum (Lindl.) Buchholz Banskobystrický Rimavská Sobota Tisovec Správa NP Muránska planina
+S 352 Sekvojovec mamutí v Slanci sekvojovec mamutí Sequoiadendron giganteum (Lindl.) Buchholz Košický Košice - okolie Slanec RCOP v Prešove
+S 423 Sekvojovec na Feriancovom rígli sekvojovec mamutí Sequoiadendron giganteum (Limdl.) Buchholz Banskobystrický Žarnovica Nová Baňa Správa CHKO Štiavnické vrchy
+S 58 Sekvojovec na Voznici sekvojovec mamutí Sequoiadendron giganteum (Limdl.) Buchholz Banskobystrický Žarnovica Voznica Správa CHKO Štiavnické vrchy
+S 148 Sekvojovec na cintoríne sekvojovec mamutí Sequoiadendron giganteum (Limdl.) Buchholz Banskobystrický Žarnovica Nová Baňa Správa CHKO Štiavnické vrchy
+S 57 Sekvojovec pri Zvoničke sekvojovec mamutí Sequoiadendron giganteum (Limdl.) Buchholz Banskobystrický Žarnovica Nová Baňa Správa CHKO Štiavnické vrchy
+S 468 Sekvojovec v parku v Cíferi sekvojovec mamutí Sequoiadendron giganteum (Lindl.)Buchholz Trnavský Trnava Cífer Správa CHKO Malé Karpaty
+S 466 Sekvojovec v parku v Dolnej Krupej sekvojovec mamutí Sequoiadendron giganteum (Lindl.)Buchholz Trnavský Trnava Dolná Krupá Správa CHKO Malé Karpaty
+S 436 Sekvojovec za botanickou záhradou sekvojovec mamutí Sequoiadendron giganteum (Limdl.) Buchholz Banskobystrický Banská Štiavnica Banská Štiavnica Správa CHKO Štiavnické vrchy
+S 504 Skalniansky jaseň jaseň štíhly Fraxinus excelsior Prešovský Svidník Vyšná Pisaná Správa CHKO Východné Karpaty
+S 141 Skupina 3 líp v Trstenom lipa malolistá Tilia cordata Mill. Žilinský Liptovský Mikuláš Trstené Správa Tatranského NP
+S 40 Skupina líp na cintoríne v Oravskej Porube lipa malolistá Tilia cordata Mill. Žilinský Dolný Kubín Zábrež Správa CHKO Horná Orava
+S 38 Skupina líp pri budove galérie M. Medveckej lipa veľkolistá Tilia platyphyllos Scop. Žilinský Tvrdošín Medvedie pri Tvrdošíne Správa CHKO Horná Orava
+S 26 Skupina líp pri kostole lipa veľkolistá Tilia platyphyllos Scop. Žilinský Dolný Kubín Leštiny Správa CHKO Horná Orava
+S 61 Skupina líp pri kostole a cintoríne v Porube lipa malolistá, lipa veľkolistá Tilia cordata Mill., Tilia platyphyllos Scop. Trenčiansky Prievidza Poruba Správa CHKO Ponitrie
+S 132 Skupina líp pri kostole v Motyčkách lipa veľkolistá Tilia platyphyllos Scop. Banskobystrický Banská Bystrica Motyčky Správa NP Nízke Tatry
+S 235 Skupina stromov na Galandovej dub letný, judášovec strukový, ľáliovník tulipánokvetý Quercus robur, Cercis siliquastrum, Liriodendron tulipifera Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 403 Sládkovičova lipa v Radvani lipa veľkolistá Tilia platyphyllos Scop. Banskobystrický Banská Bystrica Radvaň Správa CHKO Poľana
+S 145 Smrekovce na Hornej Rovni smrekovec opadavý Larix decidua Mill. Banskobystrický Banská Štiavnica Štiavnické Bane Správa CHKO Štiavnické vrchy
+S 494 Smrekovec na Slanej Vode smrekovec opadavý Larix decidua Mill. Žilinský Námestovo Oravská Polhora Správa CHKO Horná Orava
+S 23 Smrekovec na cintoríne smrekovec opadavý Larix decidua Mill. Žilinský Dolný Kubín Chlebnice Správa CHKO Horná Orava
+S 480 Sofora japonská v Devínskej Novej Vsi sofora japonská Sophora japonica Bratislavský Bratislava IV Devínska Nová Ves RCOP v Bratislave
+S 224 Sofora na Vajanského nábreží sofora japonská Sophora japonica Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 505 Spišskonovoveský javor javor horský Acer pseudoplatanus Košický Spišská Nová Ves Spišská Nová Ves Správa NP Slovenský raj
+S 268 Stromoradia líp pri starom kostole lipa veľkolistá Tilia platyphyllos Scop. Žilinský Dolný Kubín Zázrivá Správa NP Malá Fatra
+S 171 Stromy v Bytči javor mliečny, lipa veľkolistá Acer platanoides L., Tilia platyphyllos Scop. Žilinský Bytča Veľká Bytča Správa CHKO Strážovské vrchy
+S 174 Stromy v Lutišiach borovica hladká, lipa veľkolistá Pinus strobus L., Tilia cordata Mill. Žilinský Žilina Lutiše Správa NP Malá Fatra
+S 327 Stromy v Revúcej pagaštan konský, smrek obyčajný Aesculus hippocastanum L., Picea abies (L.) H. Karst Banskobystrický Revúca Revúca Správa NP Muránska planina
+S 192 Stromy v Terchovej brest horský, lipa malolistá, lipa veľkolistá, smrek obyčajný Ulmus glabra Huds., Tilia cordata Mill., Tilia platyphyllos Scop., Picea abies (L.) H. Karst Žilinský Žilina Terchová Správa NP Malá Fatra
+S 479 Stromy v obci Batizovce lipa malolistá Tilia cordata Mill. Prešovský Poprad Batizovce Správa Tatranského NP
+S 245 Stromy vo Vojke dub letný, platan javorolistý Quercus robur L., Platanus hispanica Münchh. Trnavský Dunajská Streda Vojka nad Dunajom Správa CHKO Dunajské luhy
+S 426 Tankošský cer dub cerový Quercus cerris L. Nitriansky Nové Zámky Pozba Správa CHKO Dunajské luhy
+S 257 Tis na Skuteckého ulici tis obyčajný Taxus baccata L. Banskobystrický Banská Bystrica Banská Bystrica Správa CHKO Poľana
+S 258 Tis na katolíckom cintoríne tis obyčajný Taxus baccata L. Banskobystrický Banská Bystrica Banská Bystrica Správa CHKO Poľana
+S 63 Tis pri fare v Novej Lehote tis obyčajný Taxus baccata L. Trenčiansky Prievidza Nová Lehota Správa CHKO Ponitrie
+S 281 Tis v Modrom Kameni tis obyčajný Taxus baccata L. Banskobystrický Veľký Krtíš Modrý Kameň Správa CHKO Štiavnické vrchy
+S 369 Tis v Nižnom Hrabovci tis obyčajný Taxus baccata L. Prešovský Vranov nad Topľou Nižný Hrabovec RCOP v Prešove
+S 150 Tis v Tajove tis obyčajný Taxus baccata L. Banskobystrický Banská Bystrica Tajov Správa CHKO Poľana
+S 237 Tis v nemocničnej záhrade tis obyčajný Taxus baccata Bratislavský Bratislava I Staré Mesto RCOP v Bratislave
+S 53 Tisovec dvojradový tisovec dvojradový Taxodium distichum L. Nitriansky Levice Želiezovce Správa CHKO Ponitrie
+S 130 Tisovec dvojradový v Krupine tisovec dvojradový Taxodium distichum (L.) Rich. Banskobystrický Krupina Krupina Správa CHKO Štiavnické vrchy
+S 374 Tisovec na Baračke tisovec dvojradový Taxodium distichum (L.) Rich. Trenčiansky Trenčín Omšenie Správa CHKO Biele Karpaty
+S 302 Tisy na Mláčiku tis obyčajný Taxus baccata L. Banskobystrický Zvolen Železná Breznica Správa CHKO Poľana
+S 55 Tisy v Kremnici tis obyčajný Taxus baccata L. Banskobystrický Žiar nad Hronom Kremnica Správa CHKO Štiavnické vrchy
+S 75 Tisy v Pruskom tis obyčajný Taxus baccata L. Trenčiansky Ilava Pruské Správa CHKO Strážovské vrchy
+S 103 Tolerančná lipa lipa veľkolistá Tilia platyphyllos Scop. Nitriansky Levice Horné Jabloňovce Správa CHKO Ponitrie
+S 483 Topole v Dolnej Strehovej topoľ biely Populus alba Banskobystrický Veľký Krtíš Horná Strehová Správa CHKO Štiavnické vrchy
+S 89 Topole v Radoli topoľ čierny Populus nigra L. Žilinský Kysucké Nové Mesto Radoľa Správa CHKO Kysuce
+S 31 Topoľ na nábreží pri parkovisku topoľ čierny Populus nigra L. Žilinský Dolný Kubín Oravský Podzámok Správa CHKO Horná Orava
+S 32 Topoľ pri SOU topoľ čierny Populus nigra L. Žilinský Dolný Kubín Oravský Podzámok Správa CHKO Horná Orava
+S 485 Topoľ sivý pod Perpešom topoľ sivý Populus x canescens Banskobystrický Revúca Gemerská Ves Správa NP Muránska planina
+S 85 Topoľ u Ondruškov topoľ čierny Populus nigra L. Žilinský Kysucké Nové Mesto Nesluša Správa CHKO Kysuce
+S 107 Topoľ v L. Mikuláši - na Nicovô topoľ čierny Populus nigra L. Žilinský Liptovský Mikuláš Liptovský Mikuláš Správa Tatranského NP
+S 406 Topoľ v mestskom parku topoľ biely Populus alba L. Košický Košice I Stredné Mesto RCOP v Prešove
+S 368 Topoľ v Nižnej Sitnici topoľ sivý Populus x canescens (Aiton) Sm. Prešovský Humenné Nižná Sitnica Správa CHKO Východné Karpaty
+S 347 Topoľ v Oľke topoľ sivý Populus x canescens (Aiton) Sm. Prešovský Medzilaborce Nižná Oľka Správa CHKO Východné Karpaty
+S 279 Topoľ v Selešťanoch topoľ čierny Populus nigra L. Banskobystrický Veľký Krtíš Záhorce Správa CHKO Štiavnické vrchy
+S 170 Topoľ čierny v Kajale topoľ čierny Populus nigra L. Trnavský Galanta Kajal Správa CHKO Dunajské luhy
+S 164 Topoľ čierny v Nededi topoľ čierny Populus nigra L. Nitriansky Šaľa Neded Správa CHKO Dunajské luhy
+S 242 Topoľ čierny v Topoľníkoch topoľ čierny Populus nigra L. Trnavský Dunajská Streda Dolné Topoľníky Správa CHKO Dunajské luhy
+S 243 Topoľ čierny v Šamoríne topoľ čierny Populus nigra L. Trnavský Dunajská Streda Šamorín Správa CHKO Dunajské luhy
+S 375 Trenčianske ginká ginko dvojlaločné Ginkgo biloba L. Trenčiansky Trenčín Trenčín Správa CHKO Biele Karpaty
+S 41 Tuja pri dome č. 72, na ul. Krivô tuja západná Thuja occidentalis L. Žilinský Dolný Kubín Krivá Správa CHKO Horná Orava
+S 66 Tuja v Klobušiciach tuja riasnatá Thuja plicata D.Don exL.amb Trenčiansky Ilava Klobušice Správa CHKO Strážovské vrchy
+S 72 Tuja v Mednom tuja riasnatá Thuja plicata D.Don ex L. Trenčiansky Púchov Medné Správa CHKO Strážovské vrchy
+S 363 Univerzitná sofora sofora japonská Sophora japonica L. Košický Košice I Stredné Mesto RCOP v Prešove
+S 255 Urpínska alej agát biely, javor poľný, lipa veľkolistá, pagaštan konský Robinia pseudoacacia L., Acer campestre L, Tilia platyphyllos Scop., Aesculus hippocastanum L. Banskobystrický Banská Bystrica Banská Bystrica Správa CHKO Poľana
+S 404 Uňadovský tis tis obyčajný Taxus baccata L. Banskobystrický Banská Bystrica Podlavice Správa CHKO Poľana
+S 345 Vejmutovka v Dúbrave borovica hladká Pinus strobus L. Prešovský Snina Dúbrava Správa NP Poloniny
+S 472 Velčické cery dub cerový Quercus cerris L. Nitriansky Zlaté Moravce Velčice Správa CHKO Ponitrie
+S 425 Veľkouherská lipa lipa veľkolistá Tilia platyphyllos Scop. Trenčiansky Partizánske Veľké Uherce Správa CHKO Ponitrie
+S 360 Veterinárske platany platan javorolistý Platanus hispanica Münchh. Košický Košice I Severné Mesto RCOP v Prešove
+S 508 Vyšnoorlícka lipa lipa malolistá Tilia cordata Prešovský Svidník Vyšný Orlík RCOP v Prešove
+S 354 Vŕba biela v Čečejovciach vŕba biela Salix alba L. Košický Košice - okolie Čečejovce Správa NP Slovenský kras
+S 490 Vŕba pri železničnej stanici Žilinský Kysucké Nové Mesto Kysucké Nové Mesto Správa CHKO Kysuce
+S 292 Wilckensové pamätné stromy javor mliečny, smrekovec opadavý Acer platanoides L., Larix decidua Mill. Banskobystrický Žiar nad Hronom Repište Správa CHKO Štiavnické vrchy
+S 434 Zborské lipy lipa veľkolista Tilia platyphyllos Scop. Trenčiansky Púchov Zbora Správa CHKO Strážovské vrchy
+S 317 Čelovský dub dub letný Quercus robur L. Prešovský Prešov Čelovce RCOP v Prešove
+S 344 Ľaliovník v Dúbrave ľáliovník tulipánokvetý Liriodendron tulipifera Prešovský Snina Dúbrava Správa NP Poloniny
+S 54 Ľaliovník v Novej Bani ľáliovník tulipánokvetý Liriodendron tulipifera Banskobystrický Žarnovica Nová Baňa Správa CHKO Štiavnické vrchy
+S 189 Ľaliovník v Žiline ľáliovník tulipánokvetý Liriodendron tulipifera Žilinský Žilina Žilina Správa NP Malá Fatra
+S 362 Šačianske tisy tis obyčajný Taxus baccata L. Košický Košice II Šaca RCOP v Prešove
+S 506 Špaňodolinské lipy lipa malolistá Tilia cordata Banskobystrický Banská Bystrica Špania Dolina Správa NP Nízke Tatry
+S 287 Štúrovské platany platan javorolistý Platanus hispanica Münchh. Nitriansky Nové Zámky Štúrovo Správa CHKO Dunajské luhy
+S 288 Šurianska paulovnia paulovnia plstnatá Paulownia tomentosa (Thunb.) Steud. Nitriansky Nové Zámky Šurany Správa CHKO Dunajské luhy
+Zdroj
+Katalóg chránených stromov Archivované 2016-04-24 na Wayback Machine
+z
+d
+u
+Chránené územia na Slovensku
+Národné parky
+Malá Fatra
+Muránska planina
+Nízke Tatry
+Pieniny
+Poloniny
+Slovenský kras
+Slovenský raj
+Veľká Fatra
+Vysoké Tatry
+CHKO
+Biele Karpaty
+Cerová vrchovina
+Dunajské luhy
+Horná Orava
+Kysuce
+Latorica
+Malé Karpaty
+Poľana
+Ponitrie
+Strážovské vrchy
+Štiavnické vrchy
+Vihorlat
+Východné Karpaty
+Záhorie
+Jaskyne
+Aksamitka
+Ardovská
+Belianska
+Bobačka
+Brestovská
+Bystrianska
+Čachtická
+Demänovské jaskyne
+Dobšinská ľadová
+Domica
+Drienovská
+Driny
+Gombasecká
+Harmanecká
+Hrušovská
+Jaskyňa mŕtvych netopierov
+Jaskyňa zlomísk
+Jasovská
+Javorinka
+Krásnohorská
+Liskovská
+Medvedia
+Milada
+Ochtinská aragonitová
+Okno
+Perlová
+Podbanište
+Prepoštská
+Silická ľadnica
+Skalistý potok
+Snežná diera
+Stanišovská
+Starý hrad
+Stratenská
+Štefanová
+Važecká
+Zápoľná
+Záskočská
+Zvonivá jama
+Priepasti
+Brázda
+Diviačia
+Kunia
+Obrovská
+Veľká ľadová
+Vodopády
+Brankovský
+Kľacký
+Lúčanský
+Starohutiansky
+Vodopád Bystrého potoka
+Ostatné
+Andezitové kamenné more
+Devínska hradná skala
+Gánovské travertíny
+Herliansky gejzír
+Kostná dolina
+Lánce
+Mičinské travertíny
+Oravské hradné bralo
+Markušovské steny
+Spišský hradný vrch
+Vrbické pleso
+Zoznamy
+Národné parky
+Chránené krajinné oblasti
+Národné prírodné pamiatky
+Prírodné pamiatky
+Národné prírodné rezervácie
+Prírodné rezervácie
+Chránené areály
+Chránené vtáčie územia
+navrhované
+Územia európskeho významu
+navrhované
+Biotopy
+Chránené stromy
+Chránené živočíchy
+Chránené rastliny
+ostatné
+Vtáky
+Invázne druhy
+Nepôvodné druhy
+Podľa okresu
+Bánovce nad Bebravou
+Banská Bystrica
+Banská Štiavnica
+Bardejov
+Bratislava I
+Bratislava II
+Bratislava III
+Bratislava IV
+Bratislava V
+Brezno
+Bytča
+Čadca
+Detva
+Dolný Kubín
+Dunajská Streda
+Galanta
+Gelnica
+Hlohovec
+Humenné
+Ilava
+Kežmarok
+Komárno
+Košice-okolie
+Košice I
+Krupina
+Kysucké Nové Mesto
+Levice
+Levoča
+Liptovský Mikuláš
+Lučenec
+Malacky
+Martin
+Medzilaborce
+Michalovce
+Myjava
+Námestovo
+Nitra
+Nové Mesto nad Váhom
+Nové Zámky
+Partizánske
+Pezinok
+Piešťany
+Poltár
+Poprad
+Považská Bystrica
+Prešov
+Prievidza
+Púchov
+Revúca
+Rimavská Sobota
+Rožňava
+Ružomberok
+Sabinov
+Senec
+Senica
+Skalica
+Snina
+Sobrance
+Spišská Nová Ves
+Stará Ľubovňa
+Stropkov
+Svidník
+Šaľa
+Topoľčany
+Trebišov
+Trenčín
+Trnava
+Turčianske Teplice
+Tvrdošín
+Veľký Krtíš
+Vranov nad Topľou
+Zlaté Moravce
+Zvolen
+Žarnovica
+Žiar nad Hronom
+Žilina
+Organizácie
+Štátna ochrana prírody
+Správa slovenských jaskýň
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Zoznam_chránených_stromov_na_Slovensku&oldid=7735915“
+Kategórie:
+Chránené stromy na Slovensku
+Slovenské zoznamy
+Ochrana prírody na Slovensku
+Skrytá kategória:
+Webarchive template wayback links
+Dátum a čas poslednej úpravy tejto stránky: 11. november 2023, 15:34.

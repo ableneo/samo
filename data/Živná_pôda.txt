@@ -1,0 +1,36 @@
+Yersinia enterocolitica na krvnom agare
+Živná pôda alebo rastové médium alebo kultivačné médium je substrát poskytujúci výživu a ďalšie vhodné podmienky organizmom a ich častiam pestovaným in vitro. Najrozšírenejšieho využitia má v bakteriológii, mykológii a rastlinných biotechnológiách.
+Čím je organizmus zložitejší a neúplnejší, tým komplexnejšiu živnú pôdu obyčajne potrebuje. Kým baktérie nevyžadujú príliš presné zloženie pôdy a niektorým stačí naozaj málo (niektoré sú schopné prežívať aj v destilovanej vode), suspenzné bunkové kultúry rastlín či kultúry protoplastov už sú extrémne citlivé a vyžadujú zložité živné pôdy veľmi presného zloženia.
+Súčasti živnej pôdy
+Média sú veľmi rozličné. Toto sú jedny z najčastejších súčastí médií:
+inertný spevňujúci nosič (napr. agar) - u tekutých chýba;
+destilovaná voda;
+anorganické látky, pre daný organizmus špecificky potrebné, obyčajne s nutričnou funkciou (draslík, vápnik, atď. Obvykle je veľmi dôležité, aby látky boli aplikované v presne stanovenej molárnej koncentrácii);
+organické látky, pre daný organizmus špecificky potrebné, zvyčajne s regulačnou funkciou (dodávajú sa buď v presne definovaných a odmeraných častiach - napr. sacharóza, IAA (rastlinný hormón), tiamín, alebo v presne nekvantifikovaných prírodných zmesiach (kokosové mlieko, kvasnicový výťažok, sladový výťažok atď.).
+Rozdelenie živných pôd
+Na základe diagnostických médií sa dá rozlíšiť, že na ľavej miske rastú stafylokoky a na pravej streptokoky
+Média delíme podľa skupenstva na tuhé, polotuhé a tekuté. Tuhé obsahujú nejaký inertný nosič (napr. agar), kým pri tekutých taký nosič chýba. Zvláštnymi druhmi médií sú potom napríklad selektívne a diagnostické média.
+Selektívne médium
+Na selektívnych médiách rastú len niektoré organizmy, teda spravidla tie, ktoré výskumník potrebuje izolovať. Toho sa docieľuje napríklad pridaním antibiotík alebo naopak tým, že médium neobsahuje určité látky. Napríklad baktérie náchylné k ampicilínu či tetracyklínu na médiu obsahujúcom tieto antibiotiká nevyrastú. Ak máme médium bez aminokyseliny prolínu, nevyrastú na nej tie bakteriálne kmene E. coli, ktoré nemôžu syntetizovať prolín.
+Diagnostické médium
+Diagnostické médium sa používa na odlíšenie či úplnú determináciu organizmov rastúcich v danom médiu, a to aj vtedy, ak je ich v živnej pôde viac než jeden druh. Väčšinou dochádza k určitému zafarbeniu kolónií daného organizmu. Napríklad MacConkeyov agar rozlišuje baktérie na tie, ktoré fermentujú laktózu, a na tie, ktoré ju nefermentujú. Baktérie fermentujúce laktózu totiž zároveň produkujú kyselinu, ktorá vyvoláva ružovočervené sfarbenie indikátora obsiahnutého v pôde. Tým sa zafarbia kolónie a ich tesné okolie.
+Médiá podľa pestovaných organizmov
+Bakteriálne médiá
+agar - prírodný polysacharid
+krvný agar - zmes agaru s krvou
+čokoládový agar
+Média pre rastlinné explantáty
+Základné médiá používané v rastlinných biotechnológiách je nutné chápať bez rastlinných regulátorov a sacharózy (zdroj energie), pretože variácie, ktoré vznikajú z týchto základných, variujú práve obsahom týchto látok. Najznámejšími médiami sú:
+Murashige a Skoog (1962) - skrátene MS médium, je najznámejšie a najpoužívanejšie médium pre všeobecné použitie;
+Gamborg et al. (1968) - skrátene B5 médium;
+Shenk a Hildebrandt (1972) - skrátene SH médium;
+Lloyd a McCown (1980) - skrátene WPM médium.
+Iné projekty
+Commons
+Commons ponúka multimediálne súbory na tému Živná pôda
+Zdroj
+Tento článok je čiastočný alebo úplný preklad článku Živná půda na českej Wikipédii.
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Živná_pôda&oldid=5778565“
+Kategória:
+Živné média
+Dátum a čas poslednej úpravy tejto stránky: 7. jún 2014, 08:11.

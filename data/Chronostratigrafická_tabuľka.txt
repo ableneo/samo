@@ -1,0 +1,225 @@
+Aktuálna medzinárodná stratigrafická tabuľka
+(nadeón)
+eón
+éra
+perióda
+fanerozoikum kenozoikum kvartér (štvrtohory)
+neogén (mladšie treťohory)
+paleogén (staršie treťohory)
+mezozoikum
+(druhohory) krieda
+jura
+trias
+paleozoikum
+(prvohory) perm
+karbón
+devón
+silúr
+ordovik
+kambrium
+predkambrium proterozoikum
+(starohory) neopro-
+terozoikum ediakar
+kryogén
+tón
+mezopro-
+terozoikum sten
+ektas
+kalym
+paleopro-
+terozoikum statér
+orosir
+ryak
+sider
+archaikum
+(prahory) neoarchaikum
+mezoarchaikum
+paleoarchaikum
+eoarchaikum
+hadean
+Chronostratigrafická tabuľka[1] (iné názvy: stratigrafická tabuľka[2] alebo geologická časová škála) je tabuľka geologických období, ktorá ukazuje hierarchicky členené a chronologicky usporiadané dejiny Zeme.
+Zem je stará asi 4600 miliónov rokov. Jej dejiny vedci geologicky rozdelili na rôzne úseky – geologické obdobia, ktoré sú spravidla ohraničené významnými geologickými alebo paleontologickými udalosťami, napríklad masovými vymieraniami. V najnovšej fáze – fanerozoiku – je delenie založené na vývoji života.
+Terminológia
+Geologická minulosť Zeme sa rozdeľuje na nasledujúce geochronologické jednotky (od najväčšieho po najmenšie) a ekvivalentné chronostratigrafické jednotky (t. j. názvy z hľadiska vrstviev a súvrstviev vzniknutých v jednotlivých geochronologických obdobiach). V zátvorkách sú uvedené alternatívne názvy:
+geochronologická jednotka
+chronostratigrafická jednotka
+nadеón (supereón) nadeonotem (supereonotem, nadeonotém(a), supereonotém(a))
+eón eonotem (eonotém, eonotéma)
+éra (obdobie v užšom zmysle I, epocha v staršom ponímaní) eratem (eratém, eratéma, skupina útvarov, útvarová skupina, grupa, skupina)
+perióda (doba) útvar (systém, formácia)
+epocha v novšom ponímaní oddelenie (séria, oddiel)
+vek stupeň (etáž)
+chron (chrón, obdobie v užšom zmysle II) chronozóna (zóna, pásmo) resp. podstupeň (podetáž)
+V paleobotanike sa namiesto koncovky –zoikum používa koncovka –fytikum (namiesto kenozoikum je však neofytikum – podľa zastaraného názvu kenozoika „neozoikum“), pričom ale paleofytikum trvalo dlhšie ako paleozoikum a pod., takže ekvivalencia s geologickými obdobiami nie je celkom 100%-ná
+Tabuľka
+Dolu uvedená tabuľka je prevzatá zo slovenskej verzie Medzinárodnej chronostratigrafickej tabuľky (stav v roku 2021[3][4]). Najmä na úrovni „stupňov“ existujú na Zemi rozličné regionálne delenia. Ich harmonizáciou a tvorbou univerzálne platnej tabuľky sa zaoberá Medzinárodná stratigrafická komisia.
+Farby použité v tabuľke sú prevzaté z Komisie pre geologickú mapu Zeme.[5]
+eonotem / eón eratem / éra útvar / perióda[1] oddelenie / epocha stupeň / vek Trvanie hlavné udalosti špecifické fosílie
+mil. r.[2] ±[3]
+fanero-
+zoikum kenozoikum kvartér[4] holocén megalaj 0,0042 usadenie sa človeka
+nortgrip 0,0082
+grón 0,0117
+pleistocén vrchný 0,129 vyhynutie obrovských cicavcov, evolúcia človeka H. sapiens
+Neandertálec
+H. erectus
+čiba 0,774
+kaláber 1,806
+gelas 2,588 H. habilis
+neogén[5] pliocén piačenz 3,600 Abel, Lucy
+zankl 5,333
+miocén mesin 7,246
+tortón 11,62
+seraval 13,82
+lang 15,97
+burdigal 20,44
+akvitán 23,03
+paleogén[6] oligocén chat 27,82
+rupel 33,9
+eocén priabón 38,0 prvé moderné cicavce
+bartón 41,3
+lutét 47,8
+yprés 56,0
+paleocén tanet 59,2
+seland 61,6
+dán 66,0
+mezozoikum krieda vrchná krieda mástricht 72,1 0,2 oddelenie rozpad Gondwany
+rozkvet a vyhynutie dinosaurov
+prvé cicavce s placentou amonity
+kampán 83,6 0,2
+santón 86,3 0,5
+koňak 89,8 0,3
+turón 93,9
+cenoman 100,5
+spodná krieda alb 113,0
+apt 125,0
+barém 129,4
+hoteriv 132,9
+valanžin 139,8
+berias 145,0 0,8
+jura vrchná jura titón 152,1 0,9 cicavce vačkovce, prvé vtáky
+prvé krytosemenné rastliny
+kimeridž 157,3 1,0
+oxford 163,5 1,0
+stredná jura kelovej 166,1 1,2
+bat 168,3 1,3
+bajok 170,3 1,4
+álen 174,1 1,0
+spodná jura toark 182,7 0,7 rozdelenie Pangey
+pliensbach 190,8 1,0
+sinemúr 199,3 0,3
+hetanž 201,3 0,2
+trias vrchný trias rét 208,5 prvé dinosaury
+vajcorodé cicavce keratity
+norik 227,0
+karn 237,0
+stredný trias ladin 242,0
+anis 247,2
+spodný trias olenek 251,2
+indus 251,9 0,5
+paleozoikum perm loping čchangsing 254,2 0,1 veľké permské vymieranie
+vutiapching 259,9 0,4
+guadalup kapitan 265,1 0,4
+word 268,8 0,5
+road 272,3 0,6
+cisural kungur 279,3 0,6
+artinsk 290,1 0,1
+sakmar 295,5 0,4
+assel 298,9 0,2
+karbón pensylván gžel 303,7 0,1 rozmach hmyzu
+prvé plazy
+prvé primitívne stromy veľkého vzrastu
+vznik kontinentu Pangea
+kasimov 307,0 0,1
+moskov 315,2 0,2
+baškir 323,2 0,4
+misisip serpuchov 330,9 0,2
+visé 346,7 0,4
+turné 358,9 0,4
+devón vrchný devón famen 372,2 1,6 prvé obojživelníky, papraďorasty
+fran 382,7 1,6
+stredný devón givet 387,7 0,8
+eifel 393,3 1,2
+spodný devón ems 407,6 2,6
+prág 410,8 2,8
+lochkov 419,2 3,2
+silúr přídol 423,0 2,3 prvé suchozemské rastliny, veľa vápenatých rias v moriach eurypteridy
+ludlov ludford 425,6 0,9
+gorst 427,4 0,7
+venlok homer 430,5 0,7
+sheinwood 433,4 0,8
+landover telych 438,5 1,1
+aeron 440,8 1,2
+rudan 443,4 1,5
+ordovik vrchný ordovik hirnant 445,2 1,4 jednoduché a útesové riasy, prevaha bezstavovcov graptolity
+kat 453,0 0,7
+sandby 458,4 0,9
+stredný ordovik dariwil 467,3 1,1
+daping 470,0 1,4
+spodný ordovik flo 477,7 1,4
+tremadok 485,4 1,9
+kambrium furong stupeň 10 489[7] - kambrická explózia trilobity
+tiangšan 494 -
+paib 497
+oddelenie 3 kučang 500,5 -
+drum 504,5 -
+wuliu 509 -
+oddelenie 2 stupeň 4 514 -
+stupeň 3 521
+terreneuv stupeň 2 529 -
+fortun 541,0 1,0
+koniec predkambria[8]
+protero-
+zoikum[9] neo-
+protero-
+zoikum ediakar 541 - prvé mnohobunkovce, červy, tzv. Ediakarská fauna
+kryogén 720 - Varangerské zaľadnenie
+tón 1 000 - vznik kontinentu rodinia
+mezo-
+protero-
+zoikum sten 1 200 - akritarchy
+ektas 1 400 -
+kalym 1 600 -
+paleo-
+protero-
+zoikum statér 1 800 - vznik kontinentu Columbia
+orosir 2 050 - prvé eukaryoty,
+zvyšuje sa obsah kyslíka
+ryak 2 300 -
+sidér 2 500 -
+archaikum[10] neoarchaikum 2 800 - mizne metán
+mizne oxid uhličitý,
+archeobaktérie stromatolity
+mezoarchaikum 3 200 -
+paleoarchaikum 3 600 -
+eoarchaikum 4 000 -
+hadean[11][12] nedef.
+(4 600) - vznik oceánov kondenzáciou vody z atmosféry,vznik zemskej kôry
+Poznámky
+^ Paleontológovia často používajú (stratigrafické) biozóny (či fázy vývoja života, napr. tzv. „faunal stages“) namiesto presných geologických období. Názvoslovie týchto fáz je dosť komplikované. Pozri aj „faunal stages“ na Harland.
+^ V stĺpci milióny rokov je zapísaný začiatok obdobia.
+^ Uvádzané dátumy a rozsahy neistoty sú prevzaté z Geologic Time Scale 2012 Medzinárodnej komisie pre stratigrafiu. Rozsahy neistoty v podstate vychádzajú z chýb týkajúcich sa datovania
+^ Podľa staršieho delenia sa rozlišovali prvohory (primér, starovek Zeme), druhohory (sekundér, stredovek Zeme), treťohory (terciér, novovek Zeme) a štvrtohory (kvartér, najnovšia etapa dejín Zeme). Označenia prvohory, druhohory, treťohory aj štvrtohory ako synonymum pre paleozoikum, mezozoikum, terciér a kvartérv súčasnosti Slovenská terminologická a stratigrafická komisia neodporúča používať[4]. Označenie terciér a na čas aj kvartér bolo v roku 2004 oficiálne zrušené (porov. http://www.stratigraphy.org/geowhen/TQ.html), ale v roku 2005 bol kvartér znova zavedený ako formálna jednotka (subéra) na základe tohto odporúčania (http://www.stratigraphy.org/Q2.pdf). Terciér od roku 2005 zostáva iba ako neformálna jednotka.
+^ Nedávne objavy (najmä po roku 1980) značne zmenili pohľad na geológiu prekambria. Prekambrium (pravek Zeme, kryptozoikum) je súhrnný názov pre proterozoikum, archaikum a hadaikum. Od roku 2004 sa zaviedlo ediakarium oficiálne ako obdobie pred kambriom. Zastarané, resp. lokálne názvy pre neoproterozoikum resp. ediakarium sú: vend, varangium, protokambrium, eokambrium alebo prekambrium.
+^ Aj keď sa často používa, hadean nie je formálny eón, hranica medzi archaikom a hadeanom je len formálne dohodnutá.
+Referencie
+↑ Smernica Ministerstva životného prostredia Slovenskej republiky z 20. mája 1996 č. 4/ 1996- 3.1 na zostavovanie a vydávanie Základnej geologickej mapy v mierke 1 : 25 000 a regionálnej geologickej mapy v mierke 1 : 50 000.
+↑ Petránek, J., Březina, J, Břízová, E., Cháb, J., Loun, J., Zelenka, P., 2016: Encyklopedie geologie. Česká geologická služba, Praha, s. 279 - 281
+↑ Cohen, K.M., Finney, S.C., Gibbard, P.L. Fan, J.X., 2013, The ICS International Chronostratigraphic Chart. Episodes, 36, 3, s. 199-204
+↑ a b Pelech, O., Michalík, J., Aubrecht, R., Fordinál, K., Hudáčková, N., Kohút, M., Kováčová, M., Levická, J., Lintnerová, O., Maglay, J., Moravcová, M., Ondrejka, M., Potfaj, M., Reháková, D., Sabol, M., Schlögl, J., Sliva, Ľ., Soták, J., Šarinová, K., Šujan, M., Vančová, I. & Vozárová, A., 2021: Slovenská verzia medzinárodnej chronostratigrafickej tabuľky. Mineralia Slovaca, 53, 2, 103 – 114.
+↑ Gradstein, F., Ogg, J., Smith, A. (Editori) 2004: A Geologic Time Scale 2004: Cambridge University Press, 589 p
+Externé odkazy
+Medzinárodná stratigrafická tabuľka (stav február 2022)
+Medzinárodná komisia pre Stratigrafiu/The International Commission on Stratigraphy web s aktuálnymi tabuľkami
+Databáza GeoWhen
+Slovenská Chronostratigrafická tabuľka, verzia z 21. 1. 2022
+Portál vedy o Zemi
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Chronostratigrafická_tabuľka&oldid=7559807“
+Kategórie:
+Geologické obdobia
+Paleontológia
+Archeológia
+Skryté kategórie:
+Portál:Vedy o Zemi/Zapojené články
+Wikipédia:Články priamo volajúce šablónu Portál
+Dátum a čas poslednej úpravy tejto stránky: 3. apríl 2023, 12:35.

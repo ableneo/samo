@@ -1,0 +1,34 @@
+Antigén (angl. antibody generating ~ protilátky tvoriaci) alebo imunogén je látka, ktorá vyvoláva tvorbu protilátok a môže vyvolať imunitnú odpoveď.[1] Pojem vychádza z pôvodnej predstavy, podľa ktorej antigén stimuluje tvorbu protilátok. Dnes je všeobecne známe, že imunitný systém nepozostáva len z protilátok. Súčasná definícia antigénu zahŕňa všetky látky, ktoré môžu byť rozoznané špecifickým imunitným systémom. V užšom zmysle sú imunogény tie látky, ktoré vyvolávajú odpoveď imunitného systému, a antigény sú látky, ktoré sa viažu na špecifické protilátky. Nie všetky antigény vyvolávajú imunogénnu reakciu, ale všetky imunogény sú antigény.[2].
+Tomuto článku alebo sekcii chýbajú odkazy na spoľahlivé zdroje, môže preto obsahovať informácie, ktoré je potrebné ešte overiť.
+Pomôžte Wikipédii a doplňte do článku citácie, odkazy na spoľahlivé zdroje.
+Antigény sú zvyčajne proteíny a polysacharidy. Zahŕňajú časti (obaly, bunkové steny, bičíky, brvy a toxíny) baktérií, vírusov a iných mikroorganizmov. Lipidy a nukleové kyseliny nadobúdajú antigénny charakter iba v kombinácii s proteínmi alebo polysacharidmi. Nemikrobiálne exogénne (telu cudzie) antigény sú napríklad peľ, bielkoviny a proteíny transplantovaných tkanív a orgánov alebo na povrchu krviniek transfúznej krvi.
+tolerogén – Látka ktorá vyvoláva špecifickú nereaktivitu imunitného systému v dôsledku svojej chemickej štruktúry. Zmenou chemickej štruktúry sa môže tolerogén premeniť na antigén.
+alergén – Alergén je látka vyvolávajúca alergickú reakciu. Táto (poškodzujúca) reakcia sa môže vyskytnúť pri požití, inhalácii, injekcii alebo kožnom kontakte s alergénom.
+exoantigén (exogénny antigén) – z vonkajšieho prostredia, mikroorganizmus
+endoantigén (endogénny antigén) – z vnútorného prostredia, jadrové, cytoplazmatické špecifické molekuly
+superantigén – schopný vyvolať aktiváciu veľkého množstva lymfocytov, napríklad stafylokokový enterotoxín
+syntetický antigén – haptény (nízkomolekulové látky chemickej povahy schopné nadviazať sa na bielkovinu), polysacharidy typu poly A aminokyselín
+Bunky prezentujú antigény imunitnému systému prostredníctvom histokompatibilných molekúl. V závislosti od typu histokompatibilnej molekuly môže dôjsť k aktivácii rôznych buniek imunitného systému.
+Pôvod antigénov
+Antigény môžeme rozdeliť na základe ich pôvodu.
+Exogénne antigény
+Exogénne antigény sú antigény, ktoré vnikli do tela zvonku, napríklad požitím, inhaláciou či injekciou. Endocytózou alebo fagocytózou sú tieto antigény pohltené antigén prezentujúcimi bunkami (antigen presenting cells – APC) a spracované na fragmenty vhodnej veľkosti. APC bunky následne prezentujú fragmenty T-pomocným bunkám (CD4+) prostredníctvom histokompatibilných molekúl druhej triedy (MHC II). Niektoré T-bunky majú schopnosť špecificky interagovať s MHC komplexom. Aktivujú sa a vylučujú cytokíny. Cytokíny sú látky, ktoré dokážu aktivovať cytotoxické T-lymfocyty (CTL), protilátky tvoriace B-lymfocyty, makrofágy a i.
+Endogénne antigény
+Endogénne antigény sú tvorené vnútri bunky ako súčasť bežného bunkového metabolizmu alebo tiež vírusovej alebo bakteriálnej infekcie bunky. Vznikajúce fragmenty sú následne prezentované prostredníctvom MHC triedy I (MHC I). Po aktivácii sú CD8+ T-bunky schopné ich rozpoznať, následne produkujú rôzne toxíny, ktoré sú schopné vyvolať lýzu alebo apoptózu infikovanej bunky. Aby cytotoxické bunky neničili bunky len preto že prezentujú proteíny, sú autoreaktívne T-bunky odstránené z repertoára ako dôsledok tolerancie (negatívneho výberu).
+Zahŕňajú xenogénne (heterológne), autológne a idiotopické čo alogénne (homológne) antigény.
+Autoantigény
+Autoantigén je zvyčajne normálny proteín alebo komplex proteínov (niekedy spolu s DNA či RNA) rozoznaný imunitným systémom pacientov trpiacich na špecifické autoimunitné ochorenie. Za normálnych okolností by na tieto antigény nemal imunitný systém reagovať, ale pôsobením hlavne genetických a environmentálnych faktorov sa u pacienta stratila normálna imunologická tolerancia voči tomuto antigénu.
+Antigény nádorových buniek
+Antigény nádorových buniek (neoantigény) sú antigény prezentované MHC I alebo MHC II na povrchu rakovinových buniek. Antigény, ktoré môžu byť niekedy prezentované rakovinovými bunkami ale nikdy zdravými bunkami sú tiež nazývané tumor-špecifické antigény (TSA) a zvyčajne sú dôsledkom špecifickej mutácie. Existujú antigény prezentované nádorovými i zdravými bunkami, tieto sú nazývané tumor-asociované antigény (TAA). Cytotoxické T-lymfocyty, ak rozoznajú TSA alebo TAA, môžu zničiť nádorové bunky skôr ako dôjde k ich množeniu či metastázovaniu.
+Antigénmi na povrchu nádorových buniek môžu byť aj mutáciou zmenené receptory, ktoré môžu rozoznať B-lymfocyty.
+Spracovanie antigénu
+Nespracovaný antigén je antigén pred spracovaním APC bunkou na prezentovateľné fragmenty. T-bunky sa nedokážu viazať na nespracované antigény, je nutné aby boli spracované APC bunkami, B-lymfocyty však dokážu byť aktivované aj nespracovaným antigénom.
+Referencie
+↑ Antigen - Definitions from Dictionary.com [online]. dictionary.reference.com, [cit. 2008-04-28]. Dostupné online.
+↑ Immunobiology, Janeway and Travers, 1994.
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Antigén&oldid=6604004“
+Kategória:
+Imunológia
+Skrytá kategória:
+Wikipédia:Chýbajúce referencie
+Dátum a čas poslednej úpravy tejto stránky: 4. január 2018, 13:21.

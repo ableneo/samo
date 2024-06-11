@@ -1,0 +1,16 @@
+Umiestnenie chromatínu v bunkovom jadre
+Chromatín (chromatinum) je vláknitá substancia vyskytujúca sa v bunkovom jadre, zložená z DNA, histónov, RNA a nehistónových bielkovín. Predstavuje hlavnú zložku chromozómov.
+Chromatín má niekoľko stupňov zloženia. Dvojitý helix (dvojitá skrutkovica) DNA spolu s bielkovinami tvorí nukleozómy. Nukleozóm obsahuje reťazec DNA dlhý približne 150 bázových párov (u človeka 146 bp) navinutý na jadro tvorené zo 4 druhov histónových bielkovín, nazývané taktiež histónový oktamér. Medzi nukleozómami sa nachádza spojovacia DNA o dĺžke okolo 50 bp. Nukleozómy a spojovacie DNA sa ukladajú špecifickým, cikcakovitým spôsobom, tvoriac solenoid, ktorý má priemer 30 nm a preto je niekedy označovaný menom vlákno 30 nm. Solenoid sa ukladá do kľučiek, z ktorých sa skladajú chromatídy.
+Chromatín sa môže zakrúcať a odkrúcať, spôsobujúc zmenu zloženia štruktúry chromozómov. Z pohľadu na špiralizáciu (kondenzáciu) rozlišujeme: menej skondenzovaný, geneticky aktívny chromatín – euchromatín a zvyčajne geneticky neaktívny skondenzovaný chromatín – heterochromatín – so silne skrútenými, skondenzovanými vláknami. Stupeň kondenzácie chromatínu odohráva rolu v kontrole expresie génov. Tvorba heterochromatínu je zviazaná s nízkym stupňom acetylácie histónov a vysokým stupňom metylácie DNA a taktiež metyláciou lyzínu 9 v históne H3. Bielkovinou, ktorá ma veľký význam v procese heterochromatizácie je HP1. Tá vlastní chromodoménu, ktorá má schopnosť viazať sa so zmetylovanými histónami.
+Medzi významnejšie bielkoviny spojených s heterochromatínom patria: HP1 a Sir3. Naopak bežné bielkoviny pôsobiace s euchromatínom sú: HMGB1, HMGB2, HMGN1, HMGN2.
+Chromatín (najmä v povrchových vrstvách bunky) sa ľahko farbí zásaditými farbivami – bazofilne.
+Po prvý raz názov chromatín použil Walter Fleming v roku 1882.
+Bibliografia
+Piotr Węgleński (red) Genetyka molekularna, wydanie 2 poprawione Wyd. PWN Varšava 2006
+Zdroj
+Tento článok je čiastočný alebo úplný preklad článku Chromatyna na poľskej Wikipédii (číslo revízie nebolo určené).
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Chromatín&oldid=6583256“
+Kategórie:
+Genetika
+Bunkové jadro
+Dátum a čas poslednej úpravy tejto stránky: 20. november 2017, 15:18.

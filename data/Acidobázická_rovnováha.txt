@@ -1,0 +1,25 @@
+Acidobázická rovnováha je rovnováha medzi prívodom a vylučovaním, resp. medzi tvorbou a neutralizáciou kyselín a zásad v organizme. Koncentrácia vodíkových iónov v mimobunkovej tekutine sa pohybuje okolo 40 mmol.l−1, čo zodpovedá hodnote pH 7,4. Aj pomerne malé výkyvy z tejto rovnovážnej hodnoty majú pre organizmus závažné následky, preto existujú systémy, ktoré ju udržiavajú v stabilných hodnotách. Stálosť pH vnútorného prostredia sa tiež označuje ako izohydria.
+Rovnovážne systémy
+tlmivé
+hydrogénuhličitanový
+fosfátový
+hemoglobínový
+bielkovinový
+regulácia pH dýchaním (CO2 + H2O ⇌ H2CO3 ⇌ H+ + HCO3−)
+regulácia pH obličkami (vylučovanie H+, regulácia vylučovania NaHCO3)
+Poruchy acidobázickej rovnováhy
+respiračné (podmienená zmenami pCO2)
+respiračná acidóza
+respiračná alkalóza
+metabolické (podmienená zmenami koncentrácie NaHCO3)
+metabolická acidóza
+metabolická alkalóza
+Kompenzácia poruchy prebieha recipročne, napríklad metabolická acidóza sa kompenzuje respiračnou alkalózou. Zásadný význam pre liečbu týchto porúch má určenie primárnej príčiny; zásah do kompenzačnej zložky by pacienta ešte viac poškodil. Väčšina porúch je zmiešaná, s väčším či menším podielom oboch zložiek.
+Pozri aj
+homeostáza
+Zdroj
+acidobázická rovnováha. In: Encyclopaedia Beliana. 1. vyd. Bratislava : Encyklopedický ústav SAV; Veda, 1999. 696 s. ISBN 80-224-0554-X. Zväzok 1. (A – Belk), s. 39.
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Acidobázická_rovnováha&oldid=7029267“
+Kategória:
+Fyziológia
+Dátum a čas poslednej úpravy tejto stránky: 9. máj 2020, 14:47.

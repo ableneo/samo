@@ -1,0 +1,28 @@
+Marfanov syndróm je dedičné, autozomálne dominantné ochorenie spojivového tkaniva, ktoré postihuje mnohé orgány, vrátane kostry, srdca, ciev, očí a pľúc. Ochorenie postihuje mužov a ženy každej rasy alebo etnickej skupiny. Incidencia syndrómu je 1:3 000 - 5 000. Ochorenie prvýkrát popísal francúzsky pediater Antoine Marfan v roku 1896.
+Príčina ochorenia
+Ochorenie je spôsobené mutáciou génu FBN1, ktorý sa nachádza na chromozóme 15. Vzhľadom na dominantný typ dedičnosti, sa u jedincov, ktorí zdedia jeden zmutovaný gén FBN1 od otca alebo matky, vyskytne Marfanov syndróm. Gén FBN1 kóduje tvorbu proteínu fibrillín-1, ktorý sa podieľa na tvorbe mikrofibríl v spojivovom tkanive a zabezpečuje jeho pevnosť. Za hlavnú úlohu fibrillínu bola donedávna považovaná tvorba lešenia pre formovanie elastických vlákien. Mikrofibrily slúžia aj ako zásobárne viacerých rastových faktorov, čím ovplyvňujú aktiváciu rôznych signálnych dráh. Pripájaním a odpájaním rôznych typov molekúl sa mikrofibrily podieľajú na vývoji orgánov. Mutácia FBN1 spôsobí, že fibrillín má odlišné vlastnosti, ktoré vedú k patologickým prejavom v rôznych orgánových systémoch.
+Približne 75 % pacientov zdedí ochorenie od rodiča, ktorý je tiež postihnutý. V 25 % prípadov ide o tzv. mutáciu de novo (novovzniknutá mutácia), kedy k mutácii génu dochádza v pohlavnej bunke (vajíčko alebo spermia) inak zdravého jedinca. Potomok jedinca s takto vzniknutou mutáciou je postihnutý Marfanovým syndrómom.
+Klinické príznaky
+Klinické príznaky sú prítomné už pri narodení (napr. dlhé prsty, deformity hrudníka) alebo sa rozvinú v neskoršom veku. Rozsah klinických príznakov a ich miera závažnosti sú u každého jedinca odlišné. U ľudí s rovnakou mutáciou (napr. v rámci jednej rodiny) môže byť stav ochorenia mierny alebo až veľmi vážny. S pribúdajúcim vekom dochádza k zhoršovaniu mnohých klinických príznakov. Klinické príznaky jednotlivých orgánov (sústav):
+kostra – často vysoká a štíhla postava, "lievikovitý" alebo "kurací" hrudník, skolióza, nepomerne dlhé kosti a dlhé prsty, hypermobilita kĺbov
+oči – posunutie šošoviek z ich normálnej polohy (ectopia lentis), krátkozrakosť (myopia), odlúpenie sietnice, zelený zákal (glaukóm)
+srdce a cievy – porucha aortálnej a mitrálnej chlopne srdca, prolaps, aneuryzma a život ohrozujúca disekcia aorty
+pľúca – spontánny kolaps pľúc (pneumothorax), reštrikčná choroba pľuc, emfyzém
+miecha – ektázia dura mater (rozšírenie obalu miechy), zapríčiňuje u cca 60 % pacientov bolesti chrbta, hlavy, brucha a dolných končatín
+Diagnostika
+Marfanov syndróm sa diagnostikuje u pacientov, u ktorých sa zistí kombinácia klinických príznakov po dôkladnom vyšetrení najmä srdcovo-cievneho systému, očí a kostry. V niektorých prípadoch pomáha vyšetrenie DNA. Samotné testy DNA však nie sú postačujúce pre určenie diagnózy. Kombinácia príznakov sa hodnotí na základe tzv. Gentských kritérií – Revised Ghent Nosology
+Dôležitá je diferenciálna diagnostika, pri ktorej sa stanovuje presná diagnóza spomedzi niekoľkých, ktoré majú veľmi podobné príznaky ako Marfanov syndróm. Niektoré príznaky sa môžu objaviť v neskoršom veku. Absencia dilatácie aorty pri počiatočnom vyšetrení ešte nevylučuje Marfanov syndróm, dokonca ani u dospelých jedincov. Odporúčajú sa preto pravidelné ročné kontroly srdca a očí.
+Terapia
+Dosiaľ neexistuje liečba, avšak vhodné prispôsobenie životného štýlu, dôkladné a pravidelné sledovanie vývoja ochorenia lekárom - špecialistom výrazne zlepšujú prognózu ochorenia. Najvážnejšie a život ohrozujúce problémy sa týkajú srdcovo-cievneho systému. U jedincov s týmito príznakmi je nutné ultrazvukové vyšetrenie (echokardiogram) aspoň raz do roka z dôvodu sledovaniu veľkosti a funkcie srdca a aorty. Keď priemer vzostupnej časti aorty (aorta ascendens) dosiahne 50 mm (pri rýchlejšom rozširovaní aj pri menšom priemere), odporúča sa operácia s cieľom nahradiť túto časť aorty, prípadne aj s aortálnou chlopňou. Existuje aj modernejší chirurgický prístup, a to pomocou Exstentu - personalizovanej vonkajšej protézy vytvorenej pomocou 3D modelu na základe CT vyšetrenia. Aorta sa pritom zachová a je protézou spevnená zvonka. Táto novšia metóda sa na Slovensku prvýkrát uskutočnila v r. 2020 vo VÚSCH Košice, neskôr v SÚSCCH v Banskej Bystrici a v NÚSCH v Bratislave.
+Na Slovensku pôsobí občianske združenie Asociácia Marfanovho syndrómu, ktorú založili v r. 1993 RNDr. Mária Dušinská, CSc. a RNDr. Roman Dušinský, CSc. Asociácia združuje osoby s tímto ochorením, príbuzných, lekárov a iných. Poskytuje informácie a pomoc s cieľom zlepšiť zdravotnú starostlivosť a predchádzať vážnym zdravotným komplikáciám alebo predčasnej smrti.
+Externé odkazy
+Asociácia Marfanovho syndrómu
+National Marfan Foundation (USA)
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Marfanov_syndróm&oldid=7738800“
+Kategórie:
+Autozomálne dominantné choroby
+Choroby kostí a kĺbov
+Choroby obehovej sústavy
+Choroby oka
+Eponymické termíny v medicíne
+Dátum a čas poslednej úpravy tejto stránky: 15. november 2023, 23:31.

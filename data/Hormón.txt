@@ -1,0 +1,77 @@
+Hormón (z gr. hormaó – poháňam) je látka, ktorá v mnohobunkových organizmoch (rastliny, živočíchy, huby, riasy...) slúži na chemickú signalizáciu medzi rôznymi bunkami alebo skupinami buniek.
+Je trieda regulačných biomolekúl / biologických chemikálii produkovaných špecifickými bunkami, žľazami a/alebo väzivom v špeciálnych častiach organizmu. Následne sú transportované do ostatných častí organizmu s cieľom ovplyvniť škálu psychologických a behaviorálnych aktivít, ako sú napríklad kontrola nálady, trávenie, metabolizmus, rast, a reprodukcia. Vo všeobecnosti je na zmenu metabolizmu bunky potrebné iba malé množstvo hormónu. V pointe je to chemický informátor, ktorý transportuje/prenáša signál z jednej bunky do druhej. Všetky mnohobunkové organizmy produkujú hormóny, rastlinné hormóny sa nazývajú aj fytohormóny. Hormóny u živočíchov sú často transformované krvou. Na prítomnosť hormónu reagujú len bunky, ktoré majú špecifický proteín na svojom povrchu, ktorý reaguje s hormónom. Hormón sa naviaže na proteínový receptor, čím aktivuje signálnu dráhu, čo má v konečnom dôsledku za následok špecifickú bunkovú odpoveď.
+Molekuly endokrinných hormónov sú uvoľňované priamo do krvného obehu, prevažne do fenestrovaných kapilár. Hormóny s parakrinou funkciou sa voľne rozptyľujú do medzibunkového priestoru v blízkosti cieľovej skupiny buniek.
+Množstvo exogénnych chemických zlúčenín, prírodných aj umelých, má na človeka a živočíchy efekt podobný ako hormóny. Ich interakcia so syntézou, sekréciou, transportom, viazaním, aktivitou alebo elimináciou prírodných hormónov v tele môže zmeniť homeostázu, reprodukovateľnosť, vývoj, a/alebo správanie, rovnako ako endogénne hormóny.
+Hormóny ako signály
+Hormonálne signály zahŕňajú nasledovné:
+Biosyntéza určitého hormónu v určitom tkanive
+Uskladnenie a sekrécia hormónu
+Transport hormónu k cieľovým bunkám
+Rozpoznanie hormónu príslušnými receptormi na povrchu membrány alebo proteínmi v medzibunkovom priestore.
+Prenos a zosilnenie prijatého hormonálneho signálu pomocou procesu signálovej transdukcie. Tento následne vedie k bunkovej odpovedi. Reakcia cieľových buniek je následne rozpoznaná bunkami produkujúcimi pôvodný hormón, čo vedie k poklesu produkcie daného hormónu. Toto je príklad homeostázovej negatívnej slučky.
+Rozklad hormónu
+Interakcia s receptorom
+Väčšina hormónov spúšťa bunkovú odpoveď spojením sa so špecifickým receptorom, ktorý je buď intracelulárny alebo membránovy. Bunka môže mať viacero rôznych receptorov pre ten istý hormón a tieto môžu aktivovať rôzne biochemické dráhy. Pre mnoho hormónov, vrátane väčšiny proteínových hormónov, je receptor ukotvený v plazmatickej membráne a končí na povrchu bunky. Interakcia medzi hormónom a receptorom väčšinou spúšťa kaskádu sekundárnych vplyvov vo vnútri bunky. Táto často zahŕňa fosforyláciu alebo defosforyláciu rôznych proteínov nachádzajúcich sa v cytoplazme, zmenu permeability membrány alebo zmenu koncentrácie intrabunkových molekúl, ktoré môžu pôsobiť ako poslovia druhého radu (napr. cyklický AMP). Niektoré hormóny interagujú s medzibunkovými receptormi lokalizovanými v cytoplazme alebo jadre pomocou medzibunkovej reakčnej cesty.
+Steroidné hormóny a hormóny štítnej žľazy majú receptory lokalizované v cytoplazmatickej membráne cieľovej bunky. Aby sa hormón mohol nadviazať na receptor, musí preniknúť cez bunečnú membránu dovnútra bunky. Môže to urobiť, pretože je rozpustný v tukoch. Následne vzniknutý komplex hormón–receptor sa presúva do bunkového jadra, kde sa naviaže na špecifickú časť DNA, čím pôsobí na aktivitu génov, a to tak, že ju buď zvyšuje alebo znižuje. To má vplyv na syntézu proteínu. Nie všetky steroidné receptory sa však nachádzajú len vo vnútri bunky. Niektoré sú spojené s bunkovým povrchom.
+Dôležitý faktor vplyvu hormónu je koncentrácia, ktorú musí hormón dosiahnuť v okolí receptora, aby bola aktivovaná signálna dráha. Efektivita komplexu hormón–receptor je ovplyvnená troma faktormi:
+Počet hormónov k dispozícii pre komplex
+Počet receptorov k dispozícii pre komplex
+Väzbová príťažlivosť medzi hormónom a receptorom
+Množstvo hormónu k dispozícii na vytvorenie komplexnej zlúčeniny je väčšinou najdôležitejší faktor pri určovaní množstva, kedy sa aktivuje signálna dráha. Množstvo hormonálnych molekúl, ktoré sú k dispozícii pre väzbu, je určené koncentráciou hormónu. Koncentrácia hormónu je závislá od produkcie biosyntetizujúcich buniek. Rovnako aj množstvo receptorov na povrchu bunky sa tiež môže líšiť, a môže sa líšiť aj úroveň afinity receptorov voči danému hormónu. Napríklad estrogén má oveľa menšiu citlivosť receptorov ako pre kurzorové hormóny.
+Fyziológia hormónu
+Väčšina buniek je schopná produkovať jeden alebo viac hormonálnych molekúl. Tieto slúžia ako signálne molekuly pre bunky v okolí, a takto ovplyvňovať ich rast, funkciu alebo metabolizmus. Klasické hormóny produkované bunkami endokrinného systému, ktoré boli spomenuté doteraz, sú produktom buniek, ktoré slúžia na reguláciu celého organizmu. Tieto môžu okrem celotelového pôsobenia, pôsobiť aj lokálne.
+Intenzita biosyntézy hormónu a jeho sekrécia je často regulované homeostatickou negatívnou spätnou väzbou. Tento mechanizmus je závislý od faktorov, ktoré majú vplyv na metabolizmus a exkréciu hormónu. To znamená, že zvýšená koncentrácia hormónu sama o sebe nemôže spustiť negatívny spätný mechanizmus. Negatívna spätná väzba musí byť spustená nadprodukciou účinku, ktorý má daný hormón. Sekrécia a inhibícia produkcie hormónu môže byť ovplyvnená:
+Inými hormónmi (stimulovaním a uvoľňovaním hormónov)
+Koncentráciou iónov a živín v cytoplazme, ako aj väzbového globulínu
+Neurónmi a mentálnou aktivitou
+Zmena v prostredí – napríklad svetlo, teplota
+Špeciálnou skupinou hormónov sú hormóny, ktoré stimulujú produkciu endokrinného systému. Napríklad štítnu žľazu stimulujúci hormón (TSH) zodpovedá za rast a zvýšenú aktivitu štítnej žľazy, ktorá následne zvýši produkciu hormónov.
+Nedávno identifikovaná trieda hormónov je napríklad skupina hormónov hladu – ghrelin, orexin, a PYY 3 – 36 a skupina hormónov presýtenia cholecystokinin, leptin, nesfatin-1, obestatin.
+Aby bolo možné hormóny uvoľňovať rýchlo do obehu, hormón syntetizujúce bunky môžu produkovať a ukladať biologicky neaktívne hormóny vo forme pre- a prohormonu. Tieto môžu byť rýchlo premenené na aktívnu formu ako reakcia na určitý stimul.
+Eikosanoidy sú považované za lokálne pôsobiace hormóny.
+Efekt hormónov
+U cicavcov
+Hormóny majú nasledujúce účinky na telo:
+stimulácia alebo inhibícia rastu
+bdelosť-spánok cyklus and iné denné cykly
+zmena nálady
+spustenie alebo zastavenie apoptózy (programovanej bunečnej smrti)
+aktivácia alebo spomalenie imunitného systému
+regulácia metabolizmu
+príprava organizmu na párenie, boj, útek a iné aktivity
+príprava organizmu na novu fázu života ako je napríklad puberta, rodičovstvo a menopauza
+kontrola reprodukčného cyklu
+pocit hladu
+sexuálne vzrušenie
+Hormóny tiež môžu regulovať produkciu a uvoľňovanie ďalších hormónov. Hormonálne signály kontrolujú vnútorné prostredie tela pomocou homeostázy.
+Chemické triedy hormónov
+Keďže hormóny sú definované funkčne, nie štrukturálne, môžu mať rôznu chemickú štruktúru. Hormóny sa vyskytujú v mnohobunkových organizmov. Podobné zlúčeniny sú prítomné aj u jednobunkových organizmov a môžu mať funkciu signálnych molekúl, ale neexistuje konsenzus, či tieto zlúčeniny možno nazývať hormónmi.
+Živočíchy
+Hormóny stavovcov sa delia na tri chemické kategórie:
+Peptidové hormóny pozostávajú z reťazca aminokyselín. Príklady malých peptidových hormónov sú TRH a vazopresín. Peptidy zložené zo stoviek aminokyselín sa nazývajú aj proteíny. Príklady proteínových hormónov sú napríklad inzulín a rastový hormón. Viac komplikované proteínové hormóny obsahujú karbohydrátove postranné reťazce a nazývajú sa glykoproteinové hormóny. Luteinizačný hormón, folikulostimulačný hormón a štítnu žľazu stimulujúci hormón sú glykoproteínové hormóny. Ďalšou skupinou hydrofilných hormónov nazvaných bezpeptidové hormóny. Aj keď nemajú peptidové väzby, sú viazané ako peptidové hormóny.
+Lipid a fosfolipidovo odvodené hormóny sú odvodené od lipidov ako napríklad kyselina linolová, kyselina arachidonová a fosfolipidy. Hlavné triedy sú steroidné ktoré sú odvodené od cholesterolu a eikosanoidu. Príklady steroidných hormónov sú testosterón a kortizol. Sterolové hormóny ako kalcitriol sú homológovy systém. Kôra obličiek a gonády sú hlavný zdroj steroidových hormónov. Príklady eikosanoidov sú dobre známe hormóny prostaglandín a lipoxín.
+Monoamíny sú odvodené od aromatických aminokyselín ako fenylalanín, tyrozín, tryptofán, činnosťou enzýmu aromatickej dekarboxylázy.
+Tieto triedy hormónov sa dajú nájsť aj u iných živočíchov. Napríklad u hmyzu a kôrovcov existuje hormón s nezvyčajnou chemickou štruktúrou v porovnaní s inými živočíšnymi hormónmi.
+Rastlinné hormóny
+Bližšie informácie v hlavnom článku: Rastlinný hormón
+Rastlinné hormóny (tiež nazývané fytohormóny alebo rastové látky) sú chemické zlúčeniny, ktoré sa tvoria v rastlinách v malej koncentrácii, vylučujú do okolia buniek, transportujú do inej časti rastliny a tam vyvolávajú určitý efekt. Sú to signály komunikácie medzi bunkami.
+V cieľových bunkách vstupujú hormóny do špecifickej väzby s určitými bielkovinami, ktoré nazývame receptory. Následne sa spúšťa reťazec reakcií, ktoré vedú ku charakteristickej odpovedi cieľovej bunky. Mechanizmus fungovania hormónov v rastlinách je veľmi podobný mechanizmu hormonálneho účinku u živočíchov (vrátane človeka).
+Farmakológia
+Veľa hormónov a ich analógy sa používajú v medicíne. Najčastejšie je predpisovaný estrogén a progesterón (ako metóda hormonálnej antikoncepcie a ako metóda nahradzujúca hormóny – pri menopauze. Tyroxin (pri nefungujúcej štítnej žľazy) a steroidy (na autoimunitné ochorenia, a niekoľko ďalších respiračných ochorení). Inzulín sa používa diabetikmi. Lokálne prípravky používané v ORL často obsahujú farmakologikcý ekvivalent adrenalínu, zatiaľ čo steroidy a masti s vitamínom D sa hojne využívajú v dermatológii.
+Farmakologická dávka hormónu je v medicíne dávka, ktorá je väčšia ako prirodzene sa vyskytujúce množstvo hormónu v ľudskom tele. Efekt farmakologicky použitého hormónu môže byť iné ako reakcia tela na vlastný hormón. Tento umelý hormón môže mať terapeutické a potenciálne aj nežiaduce účinky. Príkladom je farmakologické použitie glukokortikoidu na potlačenie zápalu.
+Externé odkazy
+Chemický portál
+Biologický portál
+The Hormone Foundation
+Article on hormones and their receptors
+HMRbase: A database of hormones and their receptors
+Zdroj
+Tento článok je čiastočný alebo úplný preklad článku Hormone na anglickej Wikipédii (číslo revízie nebolo určené).
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Hormón&oldid=6729056“
+Kategória:
+Hormóny
+Skryté kategórie:
+Portál:Chémia/Zapojené články
+Portál:Biológia/Zapojené články
+Wikipédia:Články priamo volajúce šablónu Portál
+Dátum a čas poslednej úpravy tejto stránky: 27. september 2018, 23:08.

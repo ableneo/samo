@@ -1,0 +1,67 @@
+Chromisty
+riasa Gephyrocapsa oceanica
+Vedecká klasifikácia
+Doména eukaryoty
+Ríša (regnum) chromisty (Chromista)
+Vedecký názov
+Chromista
+Cavalier-Smith, 1981
+Vedecká klasifikácia prevažne podľa tohto článku
+Biologický portál
+Chromisty[1] (lat. Chromista) sú taxón, najčastejšie ríša eukaryotov. V chloroplastoch, ak ich obsahujú, sa nachádza chlorofyl a a chlorofyl c. Sú súčasťou tvz. „hnedej“ línie rias a pravdepodobne vznikli druhotnou (sekundárnou) endosymbiózou, keď eukaryotická heterotrofná bunka pohltila predka dnešných červených rias (Rhodophyta). Preto ich chloroplasty majú štvoritú membránu a medzi 2. a 3. membránou a nukleomorf, ktorý je pozostatkom po jadrovej DNA pohlteného organizmu (niekedy môže chýbať napr. u Haplophyta). V taxonomickych skupinách, ktoré chloroplasty druhotne stratili (napr. Oomycetes) bola príslušnosť ku Chromista určená na základe biochemických a molekulárno biologických dát.
+V starších deleniach to bola skupina patriaca do Protista. V starších deleniach bežných na Slovensku boli organizmy z tejto ríše zaradené medzi niektoré nižšie rastliny (Thallobionta) a niektoré huby (Fungi). Za huby boli považované tie organizmy, ktoré druhotne stratili chloroplasty a tým aj schopnosť autotrofie (napr. oomycéty). Niektoré morfologické a biochemické dáta (napr. tvorba celulózy) však už dávnejšie naznačovali, že majú bližšie k rastlinám ako k hubám. Moderné metódy porovnávanie DNA poukazujú na ich príbuznosť s Chromista, preto sa zaraďujú do tejto ríše.
+Straminipila alebo Stramenopila môže byť v závislosti od autora buď synonymum pre Chromista alebo dnes spravidla len pre Heterokonta.
+Pojem Chromista zaviedol Cavalier-Smith 1981, pojem Stramenopila D. J. Patterson, 1989.
+Systematika
+Systematika používaná v tejto wikipédii
+Hlavný článok:Systém živých organizmov
+Ríša: Chromista:
+podríša Cryptistae
+oddelenie Cryptophyta – kryptomonády
+trieda Cryptophyceae – kryptomonády
+podríša Chromobiotae
+oddelenie Labyrinthulomycota (?Hydromyxomycetes)- vodné slizovky
+oddelenie Peronosporomycota (Oomycota) – riasovky
+trieda Peronosporomycetes (Oomycetes)
+oddelenie Hyphochytriomycota – bunkovčeky
+trieda Hyphochytridiomycetes
+oddelenie Heterokontophyta (Chromophyta, Heterokonta) – rôznobičíkaté riasy
+trieda Chrysophyceae – žltohnedé riasy
+trieda Tribophyceae (Xanthophyceae) – žltozelené riasy
+trieda Eustigmatophyceae – v starom systéme samostatné oddelenie
+trieda Bacillariophyceae – rozsievky
+trieda Fucophyceae (Phaeophyceae) – hnedé riasy, chaluhy
+trieda Raphidophyceae – zelenivky
+oddelenie Haptophyta
+trieda Prymnesiophyceae
+Aktualizované delenie Cavaliera-Smitha (stav 2005)
+Podríša Cryptista Cavalier-Smith, 1989
+Kmeň Cryptista
+Trieda Goniomonadea
+Trieda Cryptomonadea
+Podríša Chromobiota Cavalier-Smith, 1991
+Infraríša Heterokonta (Cavalier-Smith, 1986) Cavalier-Smith, 1995
+Kmeň Ochrophyta (Cavalier-Smith, 1986) T. Cavalier-Smith, 1995
+Kmeň Hyphochytriomycota
+Kmeň Labyrinthulomycota
+Kmeň Oomycota
+Kmeň Opalozoa
+Infraríša Haptista
+Kmeň Haptophyta
+Kmeň Katablepharidophyta Okamoto & Inouye, 2005
+?Rod Adlerocystis
+Rod Bordnamonas Larsen & Patterson, 1990
+Rod Cryothecomonas H.A. Thomsen et al., 1991*
+Rod Luffisphaera Belcher & Swale, 1975
+Rod Phyllomitus Stein, 1878
+Rod Quadricilia Vørs, 1992
+Rod Telonema Griessmann, 1913
+Rod Trichonema Fromentel, 1872
+Referencie
+↑ TIRJAKOVÁ, Eva. Protistológia. [pdf] Zväzok 1. [Bratislava] : Univerzita Komenského v Bratislave : Prírodovedecká fakulta : Katedra zoológie, 2010. 216 s. Dostupné online. S. 78.
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Chromisty&oldid=7097825“
+Kategória:
+Chromista
+Skrytá kategória:
+Portál:Biológia/Zapojené články
+Dátum a čas poslednej úpravy tejto stránky: 12. október 2020, 19:01.

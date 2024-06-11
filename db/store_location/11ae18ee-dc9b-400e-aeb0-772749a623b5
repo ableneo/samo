@@ -1,0 +1,1 @@
+{"lc": 1, "type": "constructor", "id": ["langchain", "schema", "document", "Document"], "kwargs": {"page_content": "Kateg\u00f3rie:\nEkosyst\u00e9my\nEkol\u00f3gia\nD\u00e1tum a \u010das poslednej \u00fapravy tejto str\u00e1nky: 23. febru\u00e1r 2023, 08:02.", "metadata": {"source": "data\\Ekosyst\u00e9m.txt"}, "type": "Document"}}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ableneo Chatbot</title>
+</head>
+<body>
+<h3>
+    Welcome to Ableneo Chatbot Server!
+</h3>
+<div>
+    List of available endpoints:
+    {% for methods, url in endpoints %}
+        <ul>[{{ methods }}] <a href="{{ url }}"> {{ url }}</a></ul>
+    {% endfor %}
+</div>
+</body>
+</html>

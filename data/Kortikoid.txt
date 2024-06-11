@@ -1,0 +1,36 @@
+Kortikosterón
+Kortikoidy alebo kortikosteroidy sú skupina steroidných hormónov vytváraných v kôre nadobličiek. Kortikoidy zasahujú do mnohých fyziologických systémov, ako odpoveď na stres, imunitná odpoveď, kontrola zápalu, metabolizmus cukrov, katabolizmus (rozklad) proteínov, hladina elektrolytov v krvi a správanie.
+Glukokortikoidy ako kortizol kontrolujú metabolizmus cukrov, tukov a bielkovín a pôsobia protizápalovo tak, že bránia uvoľňovaniu fosfolipidov, znižujú aktivitu eozinofilov a viacerými ďalšími mechanizmami.
+Mineralokortikoidy ako aldosterón kontrolujú hladinu elektrolytov a vody najmä podporovaním zadržiavania sodíka v obličkách.
+Medzi prírodné hormóny tejto skupiny patrí napríklad kortikosterón (C21H30O4), kortizón (C21H28O5, 17-hydroxy-11-dehydrokortikosterón) a aldosterón.
+Syntéza
+Jednotlivé kortikoidné hormóny sú vytvárané z progesterónu hydroxyláciou (naviazaním OH skupín) v rôznych polohách a oxidáciou týchto skupín na ketonické alebo aldehydické. Funkcia kôry nadobličiek je kontrolovaná adrenokortikotropným hormónom (ACTH), peptidickým hormónom vylučovaným hypofýzou.
+Nadprodukcia a nedostatok
+Chorobná nadprodukcia ako aj dlhodobé užívanie glukokortikoidov vytvárajú charakteristický obraz choroby známy ako Cushingov syndróm, s osteoporózou, cukrovkou, obezitou a úbytkom svalovej hmoty. Vysoké hladiny mineralokortikoidov narušujú rovnováhu vody a elektrolytov a poškodzujú obličky (Connov syndróm).
+Nedostatok hormónov nadobličiek označujeme ako Addisonovu chorobu. Je to život ohrozujúce ochorenie s poruchami obehovej sústavy, vysušením a kachexiou (mimoriadne chudnutie). Špecifická génová mutácia, pri ktorej je produkovaných priveľa androgénov a málo aldosterónu spôsobuje virilizmus a ukladanie vody, obraz tejto choroby je označovaný ako adrenogenitálny syndróm.
+Rozklad a vylučovanie
+Kortikoidy sú v pečeni redukciou premieňané na neaktívne deriváty (17-hydroxysteroidy, 17-ketosteroidy) a vylučované žlčou a močom (žlté sfarbenie moču).
+Využitie
+Syntetické liečivá s kortikoidnými účinkami sú používané pri viacerých stavoch, od nádorov mozgu až po kožné ochorenia. Dexametazón a jeho deriváty sú skoro čisté glukokortikoidy, kým prednizón a jeho deriváty majú popri glukokortikoidných účinkoch aj niektoré mineralokortikoidné účinky. Fludrokortizón (Florinef®) je syntetický mineralokortikoid. Hydrokortizón (kortizol) sa používa v substitučnej liečbe napríklad pri adrenálnej insuficiencii (nedostatočnosti nadobličiek) a vrodenej adrenálnej hyperplázii.
+Syntetické glukokortikoidy sú užívané na liečbu bolestí alebo zápalu kĺbov (artritída), dermatitídach, alergických reakciách, astme, hepatitíde, systémovom lupus erythematosus, zápalových ochoreniach čriev (vredová kolitída, Crohnova choroba), sarkoidóze a v substitučnej terapii glukokortikoidov pri Addisonovej chorobe a iných druhoch adrenálnej insuficiencie. Vyrábajú sa topické liekové formy na liečbu kože, očí (uveitis) a zápalové ochorenia čriev. Kortikoidy sa používajú tiež na prevenciu nevoľnosti, často v kombinácii s 5-HT3 antagonistami ako ondasetrón.
+Typické nežiaduce účinky glukokortikoidov sa bežne prejavujú ako medikamentózny (liekmi spôsobený) Cushingov syndróm. Typickými nežiaducimi účinkami mineralokortikoidov sú vysoký krvný tlak, hypokalémia (nízka hladina draslíka v krvi), hypernatrémia (prebytok sodíka v krvi) bez vzniku periférneho edému a metabolická alkalóza.
+Klinické a experimentálne dôkazy poukazujú na to, že kortikoidy spôsobujú trvalé poškodenie zraku vyvolaním centrálnej seróznej retinopatie, známej tiež ako centrálna serózna chorioretinopatia. Viaceré steroidné lieky od protialergických nosných sprejov, cez kožné krémy a očné kvapky až po prednizón boli spojené s vývinom seróznej retinopatie.
+História
+V roku 1950 boli Tadeus Reichstein, Edward Calvin Kendall a Philip Showalter Hench ocenení za prácu na kôre nadobličiek, ktorá bola zavŕšená izoláciou kortizónu, Nobelovou cenou za fyziológiu a medicínu.
+Kortikosteroidy sú používané v terapii už pomerne dlho. Lewis Sarett z Merck & Co. prvý syntetizoval kortizón, pričom použil komplikovanú 36-stupňovú syntézu počínajúcu deoxycholovou kyselinou, extrahovanou z hovädzej žlče. Kvôli nízkej efektívnosti premeny kyseliny deoxycholovej na kortizón vychádzala cena kortizónu na 200 amerických dolárov na gram. Russel Marker zo Syntex objavil oveľa lacnejší a prístupnejší zdrojový materiál, diosgenín z mexických sladkých zemiakov. Jeho proces premeny diosgenínu na progesterón štvorstupňovou premenou sa volá Markerova degradácia. Bol to dôležitý krok v masovej produkcii steroidných hormónov vrátane kortizónu a kontraceptív. V roku 1952 H. C. Murray z Upjohn Co. vyvinul proces pri ktorom pleseň rodu Rhizopus oxidovala progesterón na produkt, ktorý bol potom premenený na kortizón. Možnosť lacno vyrábať veľké množstvá kortizónu z diosgenínu v sladkých zemiakoch znížila cenu na 6$ za gram a v 80-tych rokoch a ďalej na 0,46$ za gram. Výskum Percyho Juliana tiež pomohol postupu tohoto výskumu. Podstata protizápalového účinku kortizónu však ostala záhadou až do objavenia adhezívnej kaskády a účasti fosfolipázy A2 v produkcii prostaglandínov a leukotriénov, začiatkom 80-tych rokov.
+Zdroje
+Tento článok je čiastočný alebo úplný preklad článku Corticosteroid na anglickej Wikipédii.
+Chemický portál
+Biologický portál
+Medicínsky portál
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Kortikoid&oldid=7542312“
+Kategórie:
+Liečivá
+Hormóny
+Kortikoidy
+Skryté kategórie:
+Portál:Chémia/Zapojené články
+Portál:Biológia/Zapojené články
+Portál:Medicína/Zapojené články
+Wikipédia:Články priamo volajúce šablónu Portál
+Dátum a čas poslednej úpravy tejto stránky: 27. február 2023, 18:47.

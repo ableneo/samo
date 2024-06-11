@@ -1,0 +1,43 @@
+Kryštáliky inzulínu
+Inzulín je peptidový hormón produkovaný Langerhansovými ostrovčekmi podžalúdkovej žľazy (pankreasu). Umožňuje, aby sa glukóza získaná z potravy dostala dovnútra bunky a tam bola premenená na energiu.
+Názov pochádza z latinského slova insula znamenajúceho „ostrov“.
+Účinky
+V pečeni zvyšuje vychytávanie glukózy z krvi a podporuje tvorbu zásobného glykogénu; blokuje ketogenézu (= vznik ketoacidózy, t. j. vnútorného rozvratu metabolizmu). V svaloch aktivuje systémy transportu glukózy do myocytov a tým zabezpečuje dodávku primárnej energie svalom. V tukovom tkanive inzulín zvyšuje tvorbu tukov (preto sa pri cukrovke II. typu alebo pri zvýšenej spotrebe inzulínu priberá).
+Celkovo teda inzulín zvyšuje v pečeni, svaloch a v tukovom väzive vychytávanie glukózy z krvi a jej ukladanie vo forme zásobného glykogénu (v pečeni a svaloch). Zastavuje využitie tukov na tvorbu energie tým, že zabraňuje uvoľňovaniu glukagónu. S výnimkou diabetes mellitus a metabolického syndrómu inzulín zabezpečuje v tele stabilnú koncentráciu glukózy v krvi. Keď úroveň glukózy v krvi klesne pod určitú hladinu, telo začne využívať ako zdroj energie glykogenolýzu, ktorá rozkladá glykogén uložený v pečeni a svaloch na glukózu, ktorá je následne využitá na tvorbu ATP. Inzulín má anabolický efekt a uplatňuje sa aj v metabolizme minerálov.
+Štruktúra
+Štruktúra inzulínu sa medzi živočíšnymi druhmi líši. Inzulín zo živočíšnych zdrojov sa preto líši v stupni schopnosti ovplyvňovať metabolizmus glukózy v ľudskom organizme. Najbližšie k ľudskej verzii má inzulín ošípaných. Ľudský inzulín je proteínový hormón skladajúci sa z dvoch polypeptidických reťazcov (A, B), ktoré sú spojené disulfidickými mostíkmi a ktoré majú dohromady 51 aminokyselín – reťazec A obsahuje 21 a reťazec B 30 aminokyselín.
+U stavovcov je sekvencia aminokyselín inzulínu extrémne zakonzervovaná. Hovädzí inzulín sa odlišuje od toho ľudského len v troch a u ošípaných len v jednej aminokyseline. Aj niektoré druhy rýb majú inzulín natoľko podobný ľudskému, že je u človeka klinicky efektívny. Inzulín u niektorých bezstavovcov je čiastočne podobný ľudskému a má rovnaké fyziologické účinky.
+Inzulín je produkovaný a ukladaný v tele ako hexamér (jednotka obsahujúca 6 molekúl inzulínu), zatiaľ čo účinná forma je monomér. Hexamér je neaktívna forma s dlhodobou stabilitou, ktorá slúži na ochranu vysoko reaktívneho inzulínu, ak nie je potrebný. To, že inzulín je rýchlo reagujúca látka, v praxi znamená, že injekcia inzulínu nemusí byť podaná hodiny pred jedlom, čo dáva diabetikom väčšiu flexibilitu pri ich dennom liečebnom pláne.
+Vznik inzulínu
+1. fáza: vzniká pre-proinzulín v ribozómoch Langerhansových ostrovčekov
+2. fáza: v endoplazmatickom retikule sa pre-proinzulín mení na proinzulín, ktorý je tvorený reťazcami A a B spojenými C-peptidom (v angl. connection peptid)
+3. fáza: proinzulín putuje do sekrečných granúl B-buniek, kde je v Golgiho aparáte rozštiepený na C-peptid a inzulín
+4. fáza: inzulín sa zrazí s iónmi zinku (kvôli svojej nižšej rozpustnosti) a je skladovaný do času potreby v sekrečných granulách B-buniek
+Vylučovanie inzulínu
+Inzulín sa spolu s C-peptidom (v granuliach) procesom exocytózy dostáva cez bunkovú membránu von z bunky. Tento proces je stimulovaný vzostupom ATP, ktorý je stimulovaný vzostupom glykémie (hladiny glukózy v krvi) a následne vzostupom vnútrobunkového katiónu Ca2+. Vylučovanie inzulínu je riadené predovšetkým koncentráciou glukózy v krvi, ale i inými hormónmi (napr. adrenalínom). Glukóza a ostatné živiny vstrebané z jedla sú primárnymi stimulátormi vylučovania inzulínu.
+Celková denná dávka inzulínu u nediabetika je cca 20 – 40 IU. Z toho polovica pripadá na bazálne vylučovanie (= inzulín produkovaný nezávisle od príjmu potravy) a polovica na bolusové vylučovanie (= vylučovanie inzulínu stimulované glukózou).
+Príjem inzulínu bunkou
+Na každej bunke, ktorá prijíma inzulín sa nachádzajú inzulínové receptory. Na ne sa môže „prichytiť“ len molekula inzulínu a tým následne umožní vďaka glukózovým transportérom (GLUT 4) vstup glukózy do bunky. Najväčší počet týchto receptorov obsahujú bunky svalov (myocyty), pečene (hepatocyty) a tukového tkaniva (adipocyty).
+Inzulín ako liek
+Inzulín je lekársky využívaný na liečbu rôznych podôb cukrovky. Pacienti s diabetes mellitus I. typu sú životne závislí na podávaní inzulínu (väčšinou injekčne), pretože tento hormón ich telo neprodukuje. Pacienti s diabetes mellitus II. typu sú často voči inzulínu odolní (ich tkanivá slabo reagujú na jeho normálnu hladinu) a trpia tak vlastne jeho relatívnym nedostatkom. Až 40 % pacientov s týmto typom môže nakoniec vyžadovať inzulín, ak iné lieky pri kontrole hladiny glukózy v krvi nemajú dostatočný účinok.
+Choroby
+hyperinzulinizmus
+hypoinzulinizmus
+cukrovka – diabetes mellitus
+Iné projekty
+Commons
+Commons ponúka multimediálne súbory na tému Inzulín
+Zdroj
+Tento článok je čiastočný alebo úplný preklad článku Insulin na anglickej Wikipédii.
+Chemický portál
+Biologický portál
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Inzulín&oldid=7634618“
+Kategórie:
+Hormóny
+Peptidické hormóny
+Diabetes mellitus
+Skryté kategórie:
+Portál:Chémia/Zapojené články
+Portál:Biológia/Zapojené články
+Wikipédia:Články priamo volajúce šablónu Portál
+Dátum a čas poslednej úpravy tejto stránky: 14. september 2023, 05:48.

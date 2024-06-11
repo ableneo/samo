@@ -1,0 +1,32 @@
+Diseminovaná intravaskulárna koagulopatia (tiež známa ako DIC) je životu ohrozujúci stav, pre ktorý je charakteristické vznik mnohopočetných krvných zrazenín v cievach, s vážnymi následkami pre celý organizmus človeka. Môže viesť k ťažkému poškodeniu orgánov, ale aj k ich zlyhaniu ako následok upchania ciev. Zasiahnuté môžu byť pľúca, obličky, pečeň. Dochádza k ischémii tkaniva a potom k ťažkému krvácaniu. DIC môže vzniknúť ako komplikácia pri šoku, nádorovom ochorení, pôrode, operácií, ale aj pri ťažkej infekcii.
+Patogenéza
+DIC patrí medzi koagulopatie, poruchy hemostázy, pri ktorých nie je problém v krvných doštičkách, ale priamo v koaulačných faktoroch a bielkovinách krvnej plazmy. Pri fyziologickom zrážaní krvi sa aktivuje kaskáda týchto faktorov, na ich konci sa nachádza nerozpustný fibrín, ktorý spôsobuje zrazeniny. Koagulačná kaskáda je za normálnych okolností regulovaná tak, aby k zrážaniu dochádzalo iba tam, kde vzniká krvácanie.
+Pri DIC je táto rovnováha rozvrátená a koagulačná kaskáda je naštartovaná na viacerých miestach cievnej sústavy súčasne. Hlavnou príčinou aktivácie je tkanivový faktor, thronboplastin, ktorý sa vyskytuje na telových bunkách a nie v cievach.
+Možné zdroje tkanivového faktoru v cievnej sústave sú rôzne: môžu to byť tkanivové bunky, ktoré sa do obehu dostali pri rozľahlých poraneniach, behom operácie, alebo pri pôrode, ďalej môže thromboplastin exprimovať nádorové bunky, a to bunky leukemické, metastázové, ktoré sa dostali do obehu. Ďalším zdrojom môžu byť aktivované, alebo poškodené endotelové bunky a monocyty (druh bielych krviniek) pri systémovému zápalu, vplyvom toxínov či masívne uvoľnených mediátoroch zápalu, alebo tkanivový faktor uvoľnený z červených krviniek pri hemolýze.
+Ďalšími, menej významnými príčinami aktivácie kaskády môže byť priamo poškodenými stenami ciev spojené s odhalením kolagénu, diseminovaná intravaskulárna koagulopatia môže vzácne vzniknúť tiež pri potlačení antikoagulačných mechanizmov.
+Dôsledky DIC
+Náhodná tvorba mikrotrombóz vo vlásočniciach, ktoré vyživujú tkanivá a orgány, čo vedie k ischémii a infarktom poškodených tkanív (pečeň, obličky, pľúca). Zároveň sa spotrebovávajú krvné doštičky aj koagulačné faktory a ich zásoba sa tak vyčerpáva - preto je diseminovaná intravaskulárná koagulopatia označovaná tiež ako konzumpčná koagulopatia. Následne nastupuje zvýšená krvácavosť, hemoragická diatéza. Dochádza ku krvácaniu do gastrointestinálneho traktu, krvácaniu z nosu, krvácaniu z operačných rán a z menších poranení (vpichy po ihlách a pod.), nakoniec aj ku krvácaniu do orgánov a do mozgu. Dochádza k multiorgánovému zlyhaniu a následne smrť.
+Možné príčiny DIC
+Diseminovaná intravaskulárná koagulopatia môže byť vyvolaná väčšinou etiologických agens, niektoré ju spúšťajú viac než jedným spôsobom.
+masívne tkanivové poranenie (trauma, popáleniny, operačné zákroky)
+problematický pôrod
+šok
+intravaskulárna hemolýza (spôsobená toxínmi, infekciami)
+Pankreatitída (uvoľnenie pankreatických enzýmov)
+nádorové ochorenia a leukémia
+sepsa
+prehriatie organizmu
+infekcie - vírusové hemoragické horúčky, cytomegalovírusová infekcie, fulminantná hepatitída apod.
+uštipnutie niektorými jedovatými hadmi
+Liečba
+Cieľom liečby je znovu obnoviť rovnováhu medzi blokádou ďalšej koagulácie a zastavením krvácania, substitúcie koagulačných faktorov a nahradzovaním straty krvi
+Ako profylaxia aj liečebne pri už vzniknutej DIC sa podáva heparín (obvykle 10.000-30.000 j./d kont. i.v.), ďalej anti-trombín III a pri krvácaniu mrazená plazma, krvné doštičky a červené krvinky. Diseminovaná intravaskulárna koagulácie je život ohrozujúcim stavom s neistou až nepriaznivou prognózou.
+Literatúra
+NEČAS, Emanuel. Patologická fyziologie orgánových systémů. Část 1. Praha : Nakladatelství Karolinum, 2006. 760 s. ISBN 80-246-0615-1.
+Zdroj
+Tento článok je čiastočný alebo úplný preklad článku Diseminovaná intravaskulární koagulace na českej Wikipédii.
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Diseminovaná_intravaskulárna_koagulopatia&oldid=7240739“
+Kategórie:
+Hematológia
+Patofyziológia
+Dátum a čas poslednej úpravy tejto stránky: 27. august 2021, 11:09.

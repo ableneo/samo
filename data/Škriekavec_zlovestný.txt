@@ -1,0 +1,65 @@
+Škriekavec zlovestný
+Stupeň ohrozenia
+(globálne[1])
+Vedecká klasifikácia
+Doména eukaryoty
+Ríša (regnum) živočíchy (Animalia)
+Vývojový stupeň epitelovce (Eumetazoa)
+Skupina dvojstranovce (Bilateralia)
+Vývojová vetva druhoústovce (Dueterostomia)
+Kmeň (phylum) chordáty (Chordata)
+Podkmeň (subphylum) stavovce (Vertebrata)
+Nadtrieda (superclassis) čeľustnatce (Gnathostomata)
+Stupeň štvornožce (Tetrapoda)
+Trieda (classis) vtáky (Aves)
+Podtrieda (subclassis) pravé vtáky (Ornithurae)
+Nadrad (superordo) letce (Neognathae)
+Rad (ordo) spevavce (Passeriformes)
+Čeľaď (familia) krkavcovité (Corvidae)
+Rod (genus) škriekavec (Perisoreus)
+Druh (species) škriekavec zlovestný (P. infaustus)
+Vedecký názov
+Perisoreus infaustus
+Linnaeus, 1758
+Synonymá
+sojka zlovestná
+Mapa rozšírenia škriekavca zlovestného
+Hniezdiaci, celoročný výskyt
+Vedecká klasifikácia prevažne podľa tohto článku
+Biologický portál
+Perisoreus infaustus infaustus
+Škriekavec zlovestný alebo sojka zlovestná[2] (lat. Perisoreus infaustus) je spevavec z čeľade krkavcovitých. Obýva boreálne ihličnatý les palearktídy od Nórska na východ v Sibíri. Južná hranica jeho areálu rozšírenia sa posúva na sever.[3] Podľa Medzinárodnej únie na ochranu prírody a prírodných zdrojov škriekavec zlovestný patrí medzi najmenej ohrozené druhy, trend celkovej populácie je klesajúci, najmä na južnej hranici svojho rozšírenia. Stavy v Európe sú stabilné.[1]
+Výskyt a stav na Slovensku
+Do strednej Európy sa zatúla veľmi vzácne. Zo Slovenska poznáme údaj z 19. storočia a dve pozorovania z 20. storočia.[3] Pozorovanie 6. januára 1990 v pohorí Veľká Fatra bolo uznané Faunistickou komisiou.[4] V zozname vzácnych ornitologických pozorovaní podliehajúcich hláseniu Faunistickej komisii[5] ani v zozname vzácnych a zriedkavých druhov vtákov databázového systému Birding Slovakia nie sú žiadne novšie záznamy[6]
+Ekosozologický status v roku 1995 Im - nezaradený migrant, resp. nehniezdič. V roku 1998 žiadny.[3] V roku 2001 žiadny.[7] V roku 2014 žiadny.[8][9][10] Európsky ochranársky status SPEC3 - druhy, ktorých globálne populácie nie sú koncentrované v Európe, ale majú tam nevhodný ochranársky status. Stupeň ohrozenia D - ustupujúci druh.[3]
+Ochrana
+Je zákonom chránený, spoločenská hodnota je 500 € (Vyhláška MŽP č. 170/2021).[11]
+Referencie
+↑ a b IUCN Red list 2021.3. Prístup 12. marca 2022.
+↑ KOVALIK, Peter, et al. Slovenské mená vtákov [online]. Bratislava: SOS/BirdLife Slovensko, 2010 (2016,2018), rev. 2018-01-27, [cit. 2018-09-01]. Dostupné online.
+↑ a b c d DANKO, Štefan; DAROLOVÁ, Alžbeta; KRIŠTÍN, Anton, et al. Rozšírenie vtákov na Slovensku. Bratislava : Veda, 2002. Autor druhu Miroslav Saniga. ISBN 80-224-0714-3. Kapitola Škriekavec zlovestný/Sojka zlovestná, s. 573.
+↑ SANIGA, Miroslav. Výskyt sojky zlovestnej (Perisoreus infaustus) vo Veľkej Fatre / Occurence of the Siberian Jay (Perisoreus infaustus) in the Veľká Fatra Mountains. Tichodroma, roč. 9, čís. 1996, s. 211 - 212. Dostupné online [cit. 2018-09-01].
+↑ Zoznam vzácnych ornitologických pozorovaní podliehajúcich hláseniu Faunistickej komisii, databázový systém Aves-Symfony [online]. Bratislava: SOS/BirdLife Slovensko, [cit. 2018-09-01]. Dostupné online. [nefunkčný odkaz]
+↑ Zoznam pozorovaní vzácnych a zriedkavých druhov vtákov, databázový systém Birding Slovakia [online]. [Cit. 2018-09-01]. Dostupné online.
+↑ BALÁŽ, Daniel; MARHOLD, Karol; URBAN, Peter. Červený zoznam rastlín a živočíchov Slovenska. 1. vyd. Banská Bystrica : Štátna ochrana prírody Slovenskej republiky, 2001. 160 s. Dostupné online. ISBN 80-89035-05-1. Kapitola Červený (ekosozologický) zoznam vtákov (Aves) Slovenska: Anton Krištín, Ľudovít Kocian, Peter Rác (en: Red (Ecosozological) List of Birds (Aves) of Slovakia), s. 150 - 153.
+↑ Demko M., Krištín A. & Pačenovský S. 2014: Červený zoznam vtákov Slovenska. SOS/BirdLife Slovensko, 52 pp. [online]. vtaky.sk, 2014, [cit. 2018-03-03]. Dostupné online.
+↑ DEMKO, Miroslav; KRIŠTÍN, Anton; PUCHALA, Peter. Červený zoznam vtákov Slovenska. Tichodroma, roč. 25, čís. 2013, s. 69 - 78. Dostupné online [cit. 2018-03-03].
+↑ JEDLIČKA, Ladislav; KOCIAN, Ľudovít; KADLEČÍK, Ján; FERÁKOVÁ, Viera. Hodnotenie stavu ohrozenia taxónov fauny a flóry [online]. Bratislava: Štátna ochrana prírody SR, Banská Bystrica, Univerzita Komenského v Bratislave, vydavateľstvo Faunima, online in vtaky.sk, 2007, [cit. 2018-03-04]. Dostupné online.
+↑ Vyhláška č. 170/2021 Z. z. [online]. [Cit. 2021-06-23]. Dostupné online.
+Iné projekty
+Commons
+Wikidruhy
+Commons ponúka multimediálne súbory na tému Škriekavec zlovestný
+Wikidruhy ponúkajú informácie na tému Škriekavec zlovestný
+Externé odkazy
+Hlas škriekavca zlovestného na xeno-canto zoznam nahrávok bez mapy (rýchlejšie) alebo zoznam nahrávok s mapou. (po anglicky)
+Videá, fotografie a nahrávky zvukov o Perisoreus infaustus na stránke eBird - Cornell Lab of Ornithology - Macaulay Library a podrobné informácie o Perisoreus infaustus na stránke Birds of the World - Cornell Lab of Ornithology (v roku 2020 došlo k spojeniu s obsahom HBW online aj IBC, kompletný obsah je prístupný po registrácii)
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Škriekavec_zlovestný&oldid=7684553“
+Kategórie:
+Krkavcovité
+Najmenej ohrozené druhy
+Vtáky na Slovensku
+Skryté kategórie:
+Wikipédia:Články s nefunkčnými odkazmi
+Portál:Biológia/Zapojené články
+Dátum a čas poslednej úpravy tejto stránky: 12. október 2023, 18:22.

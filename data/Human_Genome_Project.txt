@@ -1,0 +1,18 @@
+Tomuto článku alebo sekcii chýbajú odkazy na spoľahlivé zdroje, môže preto obsahovať informácie, ktoré je potrebné ešte overiť.
+Pomôžte Wikipédii a doplňte do článku citácie, odkazy na spoľahlivé zdroje.
+Dvojšpirála DNA – replikácia
+Human Genome Project (HGP) (slov. Projekt ľudského genómu) bol medzinárodný vedecký výskumný projekt s hlavným cieľom určiť poradie chemických báz, ktoré tvoria DNA a identifikovať a zmapovať približne 20 000 – 25 000 génov ľudského genómu z fyzikálneho a funkčného pohľadu. Prvé výsledky boli sprístupnené v roku 2000 skupinou Genome Bioinformatics Group patriacej pod Kalifornskú univerzitu v Santa Cruz (angl. University of California, Santa Cruz, skratka UCSC), zloženou Jimom Kentom (študentom, neskôr absolventom UCSC molekulárnej, bunkovej a vývojovej biológie), Patrickom Gavinom, Terrencom Fureym a Davidom Kulpom.
+Projekt bol zo začiatku vedený Jamesom D. Watsonom z Amerického národného inštitútu zdravia. Pracovná verzia výsledkov bola sprístupnená v roku 2000 a úplná v roku 2003 s tým, že ďalšie analýzy budú ešte zverejnené. Paralelný projekt popri vládnom projekte rozbehla spoločnosť Celera. Väčšina vládou financovaného sekvenovania bola uskutočnená na univerzitách a výskumných centrách v Spojených štátoch, Spojenom kráľovstve, Japonsku, Francúzsku, Nemecku, Číne, Kanade a Novom Zélande. Mapovanie ľudských génov je dôležitým krokom v procese vývoja liekov a ďalších aspektoch zdravotnej starostlivosti.
+Zatiaľ čo hlavným cieľom projektu je porozumieť genetickému zloženiu ľudského druhu, okrem ľudí sa zameral aj na niektoré ďalšie organizmy, ako Escherichia coli, ovocná muška, a laboratórne myši. Dodnes zostáva jedným z najväčších projektov modernej vedy zameraných na jeden cieľ.
+Projekt ľudského genómu bol pôvodne zameraný na mapovanie nukleotidov obsiahnutých v haploidnej sade ľudského genómu (viac ako tri miliardy). Niekoľko skupín oznámilo snahu rozšíriť ho o diploidnú sadu ľudského genómu, vrátane International HapMap Project, Applied Biosystems, Perlegen, Illumina, JCVI, Personal Genome Project a Roche-454.
+Genóm každého jedinca (s výnimkou identických dvojčiat a klonovaných organizmov) je unikátny. Mapovanie ľudského genómu preto zahŕňalo sekvenovanie viacerých variantov každého génu. Projekt neštudoval kompletnú DNA nachádzajúcu sa v ľudských bunkách. Niektoré oblasti, v ktorých je sústredený heterochromatín (asi 8% z celkového genómu), zostávajú nezosekvenované.
+Zdroj
+Tento článok je čiastočný alebo úplný preklad článku Human Genome Project na anglickej Wikipédii.
+Tento článok týkajúci sa biológie je zatiaľ „výhonok“. Pomôž Wikipédii tým, že ho doplníš a rozšíriš.
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Human_Genome_Project&oldid=5976474“
+Kategórie:
+Biologické výhonky
+Genetika
+Skrytá kategória:
+Wikipédia:Chýbajúce referencie
+Dátum a čas poslednej úpravy tejto stránky: 7. marec 2015, 15:43.

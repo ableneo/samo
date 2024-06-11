@@ -1,0 +1,181 @@
+Kyselina jablčná
+Kyselina jablčná
+Kyselina jablčná
+Všeobecné vlastnosti
+Sumárny vzorec C4H6O5
+Vzhľad Bezfarebná kryštalická látka
+Fyzikálne vlastnosti
+Molekulová hmotnosť 134,1 u
+Molárna hmotnosť 134,09 g/mol
+Teplota topenia 101 – 104 °C (D- alebo L-izomér)
+128 – 132 °C (racemát)
+Teplota rozkladu 140 °C (L-izomér)
+Hustota 1,609 g/cm³
+Rozpustnosť vo vode:
+16 g/100 ml (D- alebo L-izomér pri 20 °C)
+55,8 g/100 ml (racemát pri 20 °C)
+v polárnych rozpúšťadlách:
+etanol
+36,35 g/100 ml (D- alebo L-izomér pri 20 °C)
+45,53 g/100 ml (racemát pri 20 °C)
+acetón
+éter
+mierne rozpustný
+Teplota vzplanutia 203 °C (racemát)
+Teplota vznietenia 349 °C (racemát)
+Bezpečnosť
+Globálny harmonizovaný systém
+klasifikácie a označovania chemikálií
+Hrozby
+Upozornenie
+Vety H H319
+Vety EUH žiadne vety EUH
+Vety P P305+351+338
+Európska klasifikácia látok
+Hrozby
+Dráždivá
+látka
+(Xi)
+Vety R R36
+Vety S žiadne vety S
+Ďalšie informácie
+Číslo CAS 6915-15-7
+EINECS číslo 230-022-8
+Číslo RTECS ON7175000
+Pokiaľ je to možné a bežné, používame jednotky sústavy SI.
+Ak nie je hore uvedené inak, údaje sú za normálnych podmienok.
+Chemický portál
+Kyselina jablčná, (C2H4O(COOH)2) je dikarboxylová kyselina, ktorú vyrábajú všetky živé organizmy, prispieva k príjemnej kyslej chuti ovocia, a je používaná ako prídavná látka v potravinách. Soli a estery kyseliny jablčnej sa nazývajú jablčnany (maláty).
+Vlastnosti
+Kyselina L-jablčná je prirodzene sa vyskytujúca forma, kým zmes L- a D- kyseliny jablčnej sa vyrába synteticky.
+Kyselina L-jablčná
+Kyselina D-jablčná
+Racemát
+Kyselina hrá dôležitú úlohu v biochémii. V Hatchov-Slackovom cykle je malát zdrojom CO2 v Calvinovom cykle. V citrátovom cykle je (S)-jablčnan intermediát tvorený pridaním –OH.
+Je tiež systemizovaná karboxyláciou s fosfoenolpyruvátom v strážnych bunkách listov rastlín. Jablčnan, ako dvojitý anión, často sprevádza draslíkové katióny pri príjme rozpustených látok do bunky, aby bola zachovaná rovnováha elektrolytov v bunkách.
+História
+Kyselina jablčná bola prvýkrát izolovaná z jablčnej šťavy Carlom Wilhelmom Scheeleom v roku 1785. Kyselina jablčná prispieva ku kyslosti zeleného jablka. Je prítomná v hrozne a vo väčšine vín s koncentráciou niekedy až 5 g/l. Vytvára kyslastú chuť vína, aj keď jej obsah s rastúcou zrelosťou ovocia klesá. Proces jablčno – mliečneho kvasenia, premieňa na kyselinu jablčnú oveľa slabšiu kyselinu mliečnu.
+Použitie
+V potravinárstve
+Kyselina jablčná sa používa v potravinárskom priemysle (býva označovaná ako prídavná látka E296) na dochucovanie. Je zdrojom extrémnej kyslosti cukroviniek, vyrábaných v USA, tzv. extrémnych cukroviniek. Je tiež používaná s menej kyslou kyselinou citrónovou v kyslých cukríkoch, ktoré sú niekedy označované upozornením, že nadmerná konzumácia môže spôsobiť podráždenie úst.
+Výroba a hlavné reakcie
+Kyselina jablčná je produkovaná priemyselne, je vyrábaná dvojitou hydratáciou maleínanhydridu. Bola dôležitá pri objave Waldenovej inverzie a Waldenovho cyklu.
+Externý odkaz
+E296 Archivované 2010-12-31 na Wayback Machine
+Zdroj
+Tento článok je čiastočný alebo úplný preklad článku Malic acid na anglickej Wikipédii.
+z
+d
+u
+Dikarboxylové kyseliny
+Nasýtené dikarboxilové kyseliny
+Kyselina šťaveľová ((COOH)2)
+Kyselina malónová (CH2(COOH)2)
+Kyselina jantárová ((CH2COOH)2)
+Kyselina oxaloctová (COCH2(COOH)2)
+Kyselina glutarová (CH2(CH2COOH)2)
+Kyselina adipová ((CH2)2(CH2COOH)2)
+Kyselina pimelová ((CH2)3(CH2COOH)2)
+Kyselina suberová ((CH2)4(CH2COOH)2)
+Kyselina azelaová ((CH2)5(CH2COOH)2)
+Kyselina sebaková ((CH2)6(CH2COOH)2)
+Kyselina jablčná (C2H4O(COOH)2)
+Nenasýtené dikarboxylové kyseliny
+Kyselina maleinová (C2H2(COOH)2)
+Kyselina fumarová (C2H2(COOH)2)
+Kyselina mukónová (C4H4(COOH)2)
+z
+d
+u
+Citrátový cyklus
+Intermediáty
+Citrát
+Izocitrát
+2-oxoglutarát
+Sukcinyl-CoA
+Sukcinát
+Fumarát
+Malát
+Oxalacetát
+Enzýmy
+Citrátsyntáza
+Akonitáza
+Izocitrátdehydrogenáza
+2-oxoglutarátdehydrogenáza
+Sukcinyl-CoA-syntetáza
+Sukcinátdehydrogenáza
+Fumaráza
+Malátdehydrogenáza
+z
+d
+u
+Glykolýza a glukoneogenéza
+Glykolýza
+Intermediáty
+Glukóza
+Glukóza-6-fosfát
+Fruktóza-6-fosfát
+Fruktóza-1,6-bisfosfát
+Dihydroxyacetónfosfát
+Glyceraldehyd-3-fosfát
+1,3-Bisfosfoglycerát
+3-Fosfoglycerát
+2-Fosfoglycerát
+Fosfoenolpyruvát
+Pyruvát
+Enzýmy
+Hexokináza
+Hexózafosfátizomeráza
+Fosfofruktokináza
+Aldoláza
+Triózafosfátizomeráza
+Glyceraldehyd-3-fosfátdehydrogenáza
+3-Fosfoglycerátkináza
+Fosfoglyceromutáza
+Enoláza
+Pyruvátkináza
+Glukoneogenéza
+Intermediáty
+Pyruvát
+Oxalacetát
+Malát
+Fosfoenolpyruvát
+2-Fosfoglycerát
+3-Fosfoglycerát
+1,3-Bisfosfoglycerát
+Glyceraldehyd-3-fosfát
+Dihydroxyacetónfosfát
+Fruktóza-1,6-bisfosfát
+Fruktóza-6-fosfát
+Glukóza-6-fosfát
+Glukóza
+Enzýmy
+Pyruvátkarboxyláza
+PEP karboxyláza
+Enoláza
+Fosfoglyceromutáza
+3-Fosfoglycerátkináza
+Glyceraldehyd-3-fosfátdehydrogenáza
+Triózafosfátizomeráza
+Aldoláza
+Fruktóza-1,6-bisfosfatáza
+Hexózafosfátizomeráza
+Glukóza-6-fosfatáza
+Spojenie s ostatnými
+metabolickými dráhami
+Citrátový cyklus
+Acetylkoenzým A
+Pyruvátdekarboxyláza
+Kvasenie
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Kyselina_jablčná&oldid=7715505“
+Kategórie:
+Dráždivé látky
+Hydroxykyseliny
+Bunkové dýchanie
+Medziprodukty citrátového cyklu
+Jablčnany
+Potravinárske aditíva
+Skryté kategórie:
+Portál:Chémia/Zapojené články
+Webarchive template wayback links
+Dátum a čas poslednej úpravy tejto stránky: 17. október 2023, 09:15.

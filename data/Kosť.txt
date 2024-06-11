@@ -1,0 +1,183 @@
+Vnútorná stavba kosti
+Kosť (lat. os) alebo kostné tkanivo je tvrdé spojivové tkanivo alebo oporný orgán sformovaný z tohto tkaniva. Nachádza sa u mnohých živočíchov. Kostné tkanivo tvorí podstatnú časť kostry stavovcov.
+Kosti spolu vytvárajú štruktúru a tvar tela, ochraňujú vnútorné orgány a spolu so svalmi a kĺbmi zabezpečujú pohyb. Sú tvorené z väčšej časti anorganickou a menšej časti organickou hmotou (bunky, organické molekuly).
+Proces tvorby kosti sa všeobecne nazýva osteogenéza, proces premeny tkaniva na kosť sa nazýva osifikácia. Náuka o kostiach sa nazýva osteológia.
+Zloženie
+Výbrus kompaktnej kosti
+Kostné bunky
+Kostné bunky – osteocyty sú uložené v dutinkách (lakúnach, lat. lacunae), ktoré sú navzájom pospájané jemnými kanálikmi (lat. canaliculi ossium). Tieto bunky sa zúčastňujú na uvoľňovaní minerálnej zložky z kostného tkaniva a tým sa podieľajú na regulácii hladiny vápnika v krvi. Osteocyt predstavuje pokojovdé štádium ďalšieho typu kostných buniek – osteoblastov. Osteoblasty sa zúčastňujú na tvorbe základnej kostnej hmoty, ktorú produkujú v podobe prekurzorov; po vytvorení medzibunkovej hmoty, ktorou sa obklopia, sa menia na osteocyt. Osteoklasty sú obrovské bunky, ktoré sú schopné rozpúšťať a resorbovať kostné tkanivo.
+Medzibunková hmota
+Tvorí ju organická zložka – tzv. osteoid (osseín) – zo zväzkov kolagénových fibríl spojených amorfnou hmotou (osteoalbumoid, osteomukoid). Do tejto zložky sa ukladajú anorganické, minerálne látky. Pomer medzi zložkami sa počas života človeka mení, stúpa podiel anorganickej zložky a preto sa kosti v starobe stávajú krehkejšími a v mladosti sú pružnejšie.
+Minerálne látky
+Základná kostná hmota (kostná matrix) je silne mineralizovaná, čím toto tkanivo získava značnú tvrdosť. Hlavnými minerálnymi zložkami kosti sú:
+hydroxylapatit (Ca10(PO4)6(OH)2)
+hydrogénfosforečnan vápenatý (CaHPO4)
+hydrogénfosforečnan horečnatý (MgHPO4)
+uhličitan vápenatý (CaCO3)
+Minerálna zložka predstavuje až 65 % hmotnosti kosti. Prítomnosť vlákien kolagénu dodáva kostnému tkanivu potrebnú pružnosť. Okrem podpornej funkcie slúži kostné tkanivo ako zásobáreň minerálnych látok, ktoré sú podľa potreby vydávané do krvného obehu.
+Mechanické vlastnosti kosti
+Kosť je veľmi pevná, jej odolnosť sa znižuje až vo vyššom veku. Znáša veľmi vysokú statickú záťaž: v smere dlhej osi znesú tie najsilnejšie cez 1 000 kg; odolnosť na ťah je ešte vyššia. Horšie je to v smere krátkej osi, odolnosť je zhruba polovičná. Najmenšiu odolnosť majú kosti voči pôsobeniu torznej sily – pohybuje sa v hodnotách jednotiek kilogramov. V realite však pôsobí i rýchlosť nárazu a ťah okolitého svalstva – preto kosti živého človeka vydržia menej ako izolované kosti v experimente.
+Typy kostného tkaniva
+Štruktúra koncentrického lamelárneho kostného tkaniva.
+h – Haversov kanálik
+Rozlišujeme dva základné typy kostného tkaniva:
+väzivové (vláknité, fibrilárne)
+lamelárne
+U cicavcov nachádzame takmer výlučne lamelárnu kosť. Väzivová kosť sa nachádza hlavne u nižších stavovcov, u cicavcov sa tento typ vyskytuje iba prechodne, v priebehu osifikácie.
+Väzivové kostné tkanivo
+Väzivové kostné tkanivo predstavuje primitívny druh kosti a u cicavcov sa vyskytuje väčšinou iba prechodne, ako výsledok primárnej osifikácie. V dospelosti je u človeka zachovaná len v stene labyrintu vnútorného ucha, pri lebečných švoch a v miestach úponov väzov a šliach na kosť. U nižších stavovcov, napríklad rýb, sa vyskytuje ako trvalé kostné tkanivo. Skladá sa z plsťovito usporiadaných kolagénových fibríl a predstavuje prechod medzi väzivom a kosťou. Osteocyty sú uložené v lakúnach pomedzi zväzkami vlákien. Lamely sa v tomto type kostného tkaniva nenachádzajú vôbec.
+Lamelárne kostné tkanivo
+Lamelárne kostné tkanivo sa skladá z mikroskopických platničiek – lamiel. Tieto lamely môžu prebiehať lineárne, pričom niekoľko súbežných lamiel vytvára voľným okom viditeľný kostný trámček. Takýmto spôsobom je usporiadaná špongiózna (trámcovitá) kosť – lat. substantia spongiosa (trabecularis), ktorá predstavuje hlavne tkanivo výplňové, nie nosné. Vyskytuje sa v epifýzach (hlaviciach) dlhých kostí a ako výplň krátkych kostí.
+V kostiach, ktoré sú zaťažované pravidelne v určitých smeroch, sa trámčeky spongiózy usporiadavajú v smere pôsobenia prevažujúcej sily, vytvárajú tzv. kostné trajektórie a tvoria architektoniku spongióznej kosti. Tento systém zaisťuje maximálnu pevnosť kosti pri minimálnej spotrebe materiálu. Jeho vznik podmieňuje vonkajšie pôsobenie – záťaž, kladená na jednotlivé kosti – človek sa s vytvorenou architektonikou nenarodí.
+Štruktúra kompaktnej kosti.
+Ak sú kostné lamely usporiadané koncentricky, vytvárajú trubice zasunuté jednu do druhej. Hovoríme o kompaktnej (osteonálnej) kosti – lat. substantia compacta. Koncentrickým usporiadaním lamiel vznikajú tzv. osteóny (Haversove systémy), ktoré sú základnou stavebnou jednotkou kompakty. Dutina v ich strede sa nazýva Haversov kanálik, v ktorom prebiehajú cievy a nervy upevnené riedkym väzivom. Haversove kanáliky sú navzájom pospájané spojovacími kanálikmi, medzi lamelami i v nich sú lakúny osteocytov. Priestor medzi osteónmi je vyplnený vmedzerenými (intersticiálnymi) lamelami. Na povrchu kompakty z jej vnútornej i vonkajšej strany sú tzv. plášťové lamely. Takúto stavbu má napr. kompakta diafýz dlhých kostí. Klasický kompletný osteón je u človeka vzácny, väčšina nesie stopy prestavby kosti.
+Vývoj kostného tkaniva
+Fylogenéza
+Najbližším fylogenetickým predchodcom kostry stavovcov je chrbtová struna (chorda dorsalis), ktorú nájdeme u chordát. U vyšších stavovcov sa chorda dorsalis objavuje v embryonálnych štádiách ontogenézy, ale na stavbe kostry sa priamo nezúčastňuje. Túto úlohu preberá mezenchým, ktorý je derivátom mezodermy. Z mezenchýmu sa vyvíjajú všetky tkanivá, ktoré sa podieľajú na stavbe kostry, t. j.:
+kompaktné i spongiózne kostné tkanivo
+hyalínna chrupavka
+väzivo.
+Počas fylogenézy sa vytvorili 2 základné spôsoby vývoja kostí. Prvý a primitívnejší je vývoj kostí v podkožnom väzive – takto vznikali tzv. dermálne kosti, ktoré chránili mäkké štruktúry tela. Kosti vznikajúce vo väzive sa preto nazývajú primárne alebo krycie kosti a mechanizmus ich vzniku dezmogénna osifikácia (gr. desmos – puto, vazivo; genesis – vznik; lat. os – kosť, facio – vykonávam).
+Druhý a vývojovo mladší spôsob je vznik hlboko uložených kostí premenou z chrupavky. Tento proces sa nazýva chondrogénna osifikácia a kosti sa označujú ako sekundárne, náhradné. V procese fylogenézy sa u niektorých kostí tieto dva spôsoby spojili a kosť tak vzniká zmiešaným spôsobom (u človeka napríklad lebka).
+Ontogenéza
+U človeka sa zachovali do istej miery oba fylogenetické spôsoby osifikácie.
+Takmer celá kostra je počas ontogenézy budovaná hyalínnou chrupavkou. Tá sa postupne odbúrava a nahradzuje sa kostným tkanivom. Tento proces pokračuje aj po narodení jedinca a zakončuje sa až v dospelosti. Aj u dospelých jedincov sa zachováva chrupavka na kĺbových plochách, v nosovej priehradke a inde.
+Niektoré kosti (krycie kosti na lebke, tvárové kosti a pod.) vznikajú na väzivovom podklade a neprechádzajú chrupavkovým štádiom. Z chrupavkového základu vzniká kosť dvojakým spôsobom:
+perichondrálne
+enchondrálne
+Čím je kosť staršia, tým viac obsahuje anorganických látok a stáva sa krehkejšou.
+Perichondrálna osifikácia
+Pri perichondrálnej osifikácii vytvára osteogénne tkanivo kostnú manžetu na povrchu chrupavkového modelu kosti. Táto manžeta sa stáva základom kompaktnej kosti. Chrupavkový model zodpovedá svojim tvarom budúcej kosti. Východiskom tohto typu osifikácie je perichondrium, neskôr periost, ktorý nadobúda funkciu osteogénneho tkaniva. Osteoblasty uložené na spodnej strane perichondria vytvárajú na začiatku osifikácie tenkú manžetu, ktorá neskôr zhrubne. Dokonalé osteóny sa objavujú až po narodení jedinca. V tomto procese sa pôvodné kostné tkanivo odbúrava a na jeho mieste sa vytvára dokonalejšie kostné tkanivo. Pri perichondriálnej osifikácii rastie kosť do hrúbky. Po nej nasleduje enchondrálna osifikácia.
+Enchondrálna osifikácia
+Enchondrálna osifikácia prebieha vnútri chrupavkového modelu kosti. Pri tomto type osifikácie vzniká spongiózne kostné tkanivo. Aby mohla začať osifikácia, musí najskôr dovnútra chrupavkového modelu kosti preniknúť osteogénne tkanivo, postupne ho odbúrať a nahradiť kostným tkanivom. V strede chrupavkového modelu dochádza najprv k hypertrofii chondrocytov, ktoré neskôr začínajú vápenatieť. Tak dochádza k redukcii základnej chrupavkovej hmoty, ktorá vápenatie a vytvára priehradky súbežné s dlhou osou budúcej kosti. V chondrocytoch vznikajú regresívne zmeny a postupne zanikajú. Jednotlivými kanálikmi v kosti preniká dovnútra väzivo a spolu s ním cievy. Väzivo s cievami vrastá do dutiniek, ktoré vznikli pôsobením chondroklastov (buniek rozrušujúcich chrupavkové tkanivo). Činnosťou týchto buniek vznikajú v osifikačnom centre ďalšie dutinky, ktoré predstavujú prvotný dreňový priestor. Osteoblastické väzivo sa rozrastá a rozrušuje mechúrikovitú a zvápenatenú chrupavku. Takto vzniká stále väčší a členitejší priestor, ktorý sa postupne vyplňuje primárnou kostnou dreňou. Časť buniek primárnej kostnej drene sa diferencuje na krvotvorné bunky, ktoré časom nadobudnú prevahu a primárna dreň sa mení na sekundárnu (krvotvornú).
+Dezmogénna osifikácia
+Rast kosti
+Prebieha novotvorbou kostných trámcov priamo vo väzive. Začína množením buniek a ciev v centre budúcej kosti. Prvé kostné trámce sa zväčšujú apozíciou, nové trámce vznikajú v okolí a osifikácia sa tak šíri z centra k okrajom budúcej kosti. Najskôr vzniká vláknitá kosť, ktorá je neskôr prebudovaná na kosť lamelóznu. Takto osifikujú kosti lebečného krytu, tvárovej časti lebky a väčšia časť kľúčnej kosti.
+Osifikácia dlhých kostí
+Osifikácia začína podľa typu kosti v rôznom veku a vychádza z jedného alebo viacerých osifikačných bodov (jadier). Osifikácia dlhých kostí začína perichondrálne, väčšinou v strede kosti. Nasleduje enchondrálna osifikácia, ktorej základom je tzv. osifikačné jadro. Dlhé kosti majú najmenej tri osifikačné jadrá. Jeden v diafýze (dlhá stredná časť kosti) a po jednom v hornej a dolnej epifýze (väčšinou kyjakovite rozšírené kĺbové konce kosti). Medzi epifýzami a diafýzou zostáva až do skončenia rastu kosti vrstva chrupavky – epifýzodiafyzárna alebo rastová platnička. Ak sa táto platnička poškodí, kosť prestane rásť do dĺžky. Rastové platničky miznú spravidla medzi 14. – 18. rokom života.
+Okrem hlavných osifikačných jadier môže mať kosť i jadrá vedľajšie, najčastejšie v miestach úponov veľkých šliach a väzov a väčších kostných výčnelkoch. Tieto jadrá sa označujú ako apofýzy.
+Osifikácia krátkych kostí
+Prebieha výhradne enchondrálne, zo stredu k okrajom chrupavkovitého základu kosti. Perichondrálne lamely tenkej kompaktnej kosti sa vytvárajú až na konci rastového obdobia.
+Kostný vek
+Postup osifikácie, objavenie sa osifikačných jadier, ich zánik a zánik rastových platničiek je ukazovateľom stupňa biologickej vyspelosti jedinca. K posúdeniu stupňa vývoja sa sa stav osifikácie porovnáva s vekom jedinca – najčastejšie s pomocou rtg snímky zápästí. Stupeň osifikácie zodpovedá určitému priemernému veku a označuje sa ako tzv. kostný vek.
+Metabolizmus a prestavba kostí
+Na vývin kosti má vplyv rastový hormón hypofýzy a hormón prištítnych teliesok, ktorý má vzťah k hospodáreniu s vápnikom. Brzdiaci vplyv na vývin kostí majú pohlavné hormóny. Pri blokovaní ich účinku v mladom veku (kastrácia) dochádza k intenzívnejšiemu rastu kostí do dĺžky.
+Metabolizmus kostí je dynamický proces, rovnako ako tvorba a odbúravanie kostného tkaniva, ktoré prebieha celý život. Prestavba prebieha neustále, pretože kosť nemôže rásť vo všetkých svojich častiach rovnomerne. Jej bunky sú totiž už pevne zabudované do kostného tkaniva. Kosť preto rastie apozíciou – pridávaním jednotlivých vrstvičiek z povrchu a zároveň odbúravaním iných svojich častí, čím sa udržuje jej tvar.
+Tvar a všeobecná anatómia kosti
+Základná stavba dlhej kosti
+Rozoznávajú sa 3 základné tvary kostí:
+Dlhé kosti
+Dlhé kosti (lat. ossa longa) sa skladajú z tela (lat. corpus) alebo diafýzy a dvoch kĺbových koncov (lat extremitas), epifýz. Koniec bližšie k trupu sa nazýva proximálny (lat. extremitas proximalis), koniec ďalej od trupu distálny (lat. extremitas distalis). Duté telo je tvorené silnou vrstvou kompaktnej kosti. Kĺbové konce sú na povrchu tvorené tenšou vrstvou kompaktnej kosti, vnútro tvorí spongiózna kosť, ktorá je usporiadaná do typických línií kostných trámcov, sledujúcich smery jej záťaže. Tieto trámce typicky začínajú z kompakty na konci tela. Dutina tela dlhej kosti – lat.cavitas medullaris – obsahuje kostnú dreň – lat. medulla ossium.
+Krátke kosti
+Krátke kosti (lat. ossa brevia) sú nepravidelného tvaru, s kĺbovými plochami rôznych tvarov. Povrch tvorí tenká vrstvička kompaktnej kosti (lat. substantia corticalis), vnútri je spongiózna kosť. Spongiózna kosť je tesne pod povrchom hustejšia a prenáša tlaky do hlbších častí kosti.
+Ploché kosti
+(Lat. ossa plana) Patrí sem hrudná kosť – sternum a lebečné kosti. Lebečné kosti majú vnútorný i vonkajší povrch z kompaktnej kosti – označuje sa ako lamina interna a lamina externa. Medzi nimi je spongiózna kosť, ktorá sa u týchto kostí označuje ako diploe (tento pojem platí iba pre kosti na lebke, na iných plochých kostiach tela sa pojem diploe nepoužíva). Niektoré lebečné kosti obsahujú dutiny vyplnené vzduchom – tzv. pneumatizované kosti (lat. ossa pneumatica), ktoré vznikajú vchlipovaním sliznice nosovej alebo stredoušnej dutiny dovnútra kosti.
+Nepravidelné kosti
+Sem patria všetky ostatné kosti, ktoré nie je možné zaradiť do niektorej z predchádzajúcich kategórií.
+Všeobecné anatomické pojmy
+Na povrchu kostí sú rôzne vyvýšeniny a výbežky (lat. processus), hrebene (lat. cristae), hrboly (lat. tubera) a hrbolčeky (lat. tubercula), okraje (lat. margo) a otvory (lat. foramina). Samostatne osifikujúce výbežky sa označujú ako apofýzy (gr. apophyses). Koncové samostatne osifikujúce časti kostí sa nazývajú epyfýzy (gr. epiphyses), stredný úsek kosti medzi nimi je diafýza (gr. diaphysis). V mladosti sú epifýzy spojené s diafýzou rastovou (epyfýzovou) chrupavkou (lat. cartillago epiphysaria), ktorá zabezpečuje rast kosti do dĺžky.
+Cievne a nervové zásobenie kostí
+Je úzko spojené s ich osifikáciou a líši sa u základných anatomických typov kosti.
+Tepny:
+dlhé kosti
+tepny diafýzy:
+Nutritívna (vyživovacia) tepna (lat. arteria nutricia) – hrubšia; jedna alebo dve; vzniká v mieste začiatku osifikácie. Keďže kosť do dĺžky nerastie rovnako rýchlo oboma smermi, posúva sa jej vstup bližšie k rastovo menej aktívnej epifýze a šikmo k nej smeruje. Vyživuje svojimi vetvami kostnú dreň a napojuje sa na cievy v Haversových kanálikoch, ktoré sú spojené s tepnami periostu. Preto sa jej uzavretí nedochádza k závažnému poškodeniu cievneho zásobenia kosti ani kostnej drene.
+Periostálne tepny – početné; do kosti vstupujú cez Volkmannove kanáliky a napájajú sa na sieť v Haversových kanálikoch.
+Metafyzárne tepny (lat. arteriae metaphysariae) – hrubšie; odstupujúce z arteriálnych spletí kĺbových puzdier. Vetvia sa hlboko v spongióze a vyživujú oblasť kosti a kostnej drene medzi diafýzou a epyfýzami, ktorá sa označuje ako metafýza.
+tepny epifýz:
+Epifyzárne tepny (lat. arteriae epiphysariae) – početnejšie; väčšinou vetvy arteriálnych spletí kĺbových puzdier.
+Krátke kosti – majú podobné tepenné zásobenie ako epifýzy dlhých kostí. Cievy do nich vstupujú na plochách, ktoré sú priľahlé ku kĺbovým puzdram a väzom.
+Ploché kosti – majú väčšie nutritívne tepny a veľké množstvo drobných periostálnych tepničiek.
+Žily:
+Žily odvádzajú krv z kostí pozdĺž tepien, ale aj samostatne. Niektoré z nich sú dosť široké, napríklad v telách stavcov. Osobitnou formou žilových kanálov sú kanály diploické (lat. canales diploici) v diploe plochých lebečných kostí.
+Nervy:
+Bohato inervovaná je najmä okostica, z ktorej prenikajú nervové vlákna pozdĺž ciev cez Haversove kanáliky až do kostnej drene. Pravdepodobne výhradne inervujú steny tepien. Vplyv straty inervácie na kosť nie je presne známy, pravdepodobne komplexne súvisí so stratou inervácie svalstva.
+Zubné tkanivo
+Zubné tkanivo sa podobá na tkanivo kostí. Základná hmota obsahuje okrem kolagénových vlákien aj amorfnú hmotu, ktorá má ešte vyššiu koncentráciu minerálnych látok ako v kosti. Na okraji tejto hmoty ležia bunky zuboviny – odontoblasty, ktoré vytvárajú zubovinu – dentín pretkaný dentínovými kanálikmi (podobné Haversovým kanálikom kosti). Pod zubovinou sa nachádza zubná dreň, do ktorej prenikajú nervy a cievy. Z vrchu je zubovina chránená sklovinou, ktorá má ektodermálny pôvod. Spodná časť koreňa zubu je pokrytá hrubo vláknitou kosťou bez kanálikov – tzv. cement, ktorý upevňuje zub v čeľusti.
+Pozri aj
+Kostná dreň
+Zlomenina kosti
+Iné projekty
+Wikicitáty
+Commons
+Wikislovník
+Wikicitáty ponúkajú citáty od alebo o Kosť
+Commons ponúka multimediálne súbory na tému Kosť
+Wikislovník ponúka heslo Kosť
+Zdroje
+ČIHÁK, Radomír. Anatomie 1. 3. vyd. Praha : Grada, 2011. ISBN 978-80-247-3817-8. Kapitola Kost - os; tkáň kostní, s. 21 – 23. (po česky)
+ČIHÁK, Radomír. Anatomie 1. 3. vyd. Praha : Grada, 2011. ISBN 978-80-247-3817-8. Kapitola Obecná osteologie, s. 75 – 89. (po česky)
+z
+d
+u
+Oporná sústava
+Základné termíny
+kosť
+okostica
+spojenie kostí
+kĺb
+synchondróza
+synostóza
+Chrbtica
+stavce
+krížová kosť
+kostrč
+spojenia chrbtice
+Kostra hrudníka
+rebrá
+sternum
+spojenia hrudníka
+Lebka
+Tvárová časť
+nosová kosť
+slzná kosť
+dolná nosová mušľa
+lícna kosť
+podnebná kosť
+čeľusť
+čerieslo
+sánka
+Mozgová časť
+záhlavná kosť
+spánková kosť
+čelová kosť
+čuchová kosť
+klinová kosť
+temenná kosť
+vomer
+Panva
+panvová kosť
+bedrová kosť
+sedacia kosť
+lonová kosť
+Kostra končatín
+kostra hornej končatiny
+kostra ruky
+kostra dolnej končatiny
+kostra nohy
+Kĺby
+kĺby trupu
+kĺby hornej končatiny
+kĺby dolnej končatiny
+z
+d
+u
+Anatómia človeka
+dýchacia sústava
+endokrinná sústava
+krycia sústava
+miazgová sústava
+nervová sústava
+obehová sústava
+oporná sústava
+pohybová sústava
+rozmnožovacia sústava
+tráviaca sústava
+vylučovacia sústava
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Kosť&oldid=7634623“
+Kategórie:
+Fyziológia
+Kosti
+Oporná sústava
+Prírodné materiály
+Dátum a čas poslednej úpravy tejto stránky: 14. september 2023, 05:52.

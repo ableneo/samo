@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ableneo Chatbot</title>
+</head>
+<body>
+<form id="form">
+    <input name="prompt" placeholder="Write question..."/>
+    <input type="submit"/>
+</form>
+<div id="output"></div>
+<script>
+    const formEl = document.getElementById('form');
+    const outputEl = document.getElementById('output');
+    let aborter = new AbortController();
+
+    async function run() {
+        aborter.abort();  // cancel previous request
+        outputEl.innerText = '';
+        aborter = new AbortController();
+        const prompt = new FormData(formEl).get('prompt');
+        try {
+            const response = await fetch(
+                '/v1/chatbot/prompt', {
+                    signal: aborter.signal,
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({"chat_history": [], "chat_id": "21", "question": prompt}),
+                }
+            );
+            const reader = response.body.getReader();
+            const decoder = new TextDecoder();
+            while (true) {
+                const {done, value} = await reader.read();
+                if (done) {
+                    break;
+                }
+                const decoded = decoder.decode(value, {stream: true});
+                outputEl.innerText += decoded;
+            }
+        } catch (err) {
+            console.error(err);
+        }
+    }
+
+
+    formEl.addEventListener('submit', function (event) {
+        event.preventDefault();
+        run();
+    });
+</script>
+</body>
+</html>

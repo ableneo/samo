@@ -1,0 +1,31 @@
+Systém renín-angiotenzín-aldosterón (RAS) alebo renín-angiotenzín-aldosterón (RAAS) je hormonálny systém, ktorý pomáha dlhodobo regulovať krvný tlak a objem krvi v tele.
+Aktivácia
+Systém môže byť aktivovaný ak je pokles krvného objemu alebo tlaku (napríklad pri krvácaní).
+Keď poklesne perfúzia (prekrvenie) juxtaglomerulárneho aparátu v obličkách, juxtaglomerulárne bunky vylúčia enzým renín.
+Renín štiepi inaktívny peptid zvaný angiotenzinogén a premení ho tým na angiotenzín I.
+Angiotenzín I je potom premenený na angiotenzín II angiotenzín konvertujúcim enzýmom (ACE), prítomným najmä v kapilárach pľúc.
+Účinky
+Angiotenzín I môže mať nejaký ten účinok, ale angiotenzín II je účinnejší. Angiotenzín II má viacero účinkov na tele:
+V celom tele pôsobí ako silný vazokonstriktor (zúženie ciev)
+V obličkách zužuje glomerulárne arterioly, pričom má silnejší účinok na eferentné ako na aferentné arterioly. Rovnako ako s väčšinou kapilárnych sietí v tele spôsobí konstrikcia arteriol zvýšenie perfúzneho odporu a následne systémového arteriálneho krvného tlaku za súčasného spomalenia krvného obehu. Obličky však musia filtrovať dostatok krvi aj pri poklese jej prietoku, čo vyžaduje kompenzácie, ktoré udržia glomerulárny tlak dosť vysoko. Preto angiotenzín II stiahne viac eferentné arterioly aby sa krv hromadila v glomerule a tým zvýšila glomerulárny tlak. Glomerulárna filtrácia je preto zachovaná aj napriek zníženému celkovému prietoku krvi obličkami.
+V kôre nadobličiek spôsobí uvoľnenie aldosterónu. Aldosterón pôsobí na distálne tubuly a zberné kanáliky v obličkách a tieto pod jeho vplyvom zvýšia reabsorpciu vody a sodných iónov z moču. Namiesto sodíka je do kanálikov vylučovaný draslík. Aldosterón tiež pôsobí na centrálny nervový systém, a spôsobí zvýšenie chuti na slané a pocit smädu.
+Uvoľnenie antidiuretického hormónu (ADH, vazopresín) z hypofýzy
+Tieto účinky spôsobujú zvýšenie objemu tekutiny v krvi a tým kompenzujú stratu tekutín a zvyšujú tlak krvi.
+Klinický význam
+Renín-angiotenzínový systém je často ovplyvňovaný liekmi s cieľom znížiť vysoký krvný tlak.
+Inhibítory angiotenzín-konvertujúceho enzýmu (ACE inhibítory) sú často používané na zníženie tvorby účinnejšieho angiotenzínu II.
+Na druhej strane je možné použiť antagonistov receptorov angioenzínu II (sartany) na zabránenie účinkovaniu angiotenzínu II na týchto receptoroch ( menej nežiaduúcich účinkov, lebo neovplyvňujú hladinu bradykinínu v krvi. ACE inhibítory hladinu bradykinínu zvyšujú a tým môžu vyvolať astme podobné syndrómy - suchý kašeľ)
+Iné využitie ACE
+Je zaujímavé, že ACE štiepi aj niekoľko ďalších peptidov a je tak napríklad významným regulátorom systému kinín-kallikreín ( napr. bradykinín ) Zdá sa, že ACE zvyšuje ukladanie tukov a tvorbu nových tukových buniek. Chudnúť sa dá aj s veľkou porciou na tanieri! Stačí pritom obmedziť funkciu jediného enzýmu v tele a urýchliť metabolizmus. A tým je ACE. Lieky obsahujúce inhibítor enzýmu ACE sa u ľudí často používajú k liečbe vysokého krvného tlaku.Podľa autora štúdie Michaela Mathaia z Inštitútu Howarda Floreya sú inhibítory obmedzujúce funkciu enzýmu ACE možnou cestou k vývoju nových liekov na obezitu.Bol by to prvý liek, ktorý dokáže to, čo zatiaľ len cvičenie – urýchliť metabolizmus. To však neznamená že budeme hltatať lieky na krvný tlak hlava-nehlava, telu to môže uškodiť. Kým nebude vyvinutý účinný, testovaný a schválený liek, je lepsie cvičiť (spomaľuje starnutie).
+Fetálny systém renín-angiotenzín
+Pri vývin plodu je renín angiotenzínový systém prevažne systém na odstránenie sodíka, keďže angiotenzín II nemá skoro žiaden vplyv na hladinu aldosterónu. Hladiny renínu sú v plode vysoké, ale hladiny angiotenzínu II sú výrazne nižšie, čo je spôsobené obmedzeným prietokom pľúc, ktorý obmedzuje namä v pľúcach prítomný ACE v plnom rozvinutí účinku.
+Chemický portál
+Biologický portál
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Systém_renín-angiotenzín-aldosterón&oldid=6729901“
+Kategória:
+Hormóny
+Skryté kategórie:
+Portál:Chémia/Zapojené články
+Portál:Biológia/Zapojené články
+Wikipédia:Články priamo volajúce šablónu Portál
+Dátum a čas poslednej úpravy tejto stránky: 28. september 2018, 17:12.

@@ -1,0 +1,46 @@
+app_name: "ableneo-chatbot"
+chat_dir: "./logs"
+feedback_dir: "./feedback"
+
+openai:
+  api_key: <OPENAI_API_KEY>
+  embedding_model: "text-embedding-3-large"
+  chat_model: "gpt-4o"
+
+vector_db:
+  parent_data_file: "./db/store_location"
+  persist_directory: "./db/chroma.db"
+
+
+api:
+  v1:
+    multi_query_prompt:
+      - entity: "system"
+        instruction: "You are a helpful assistant that generates multiple search queries
+          based on a single input query and chat history.
+          Analyze the input query and review the chat history to maintain context.
+          Ensure the search queries are clear and optimized to yield useful results.
+          Ensure the search queries are in **Slovak** language."
+      - entity: "user"
+        instruction: "Chat history: {chat_history}"
+      - entity: "user"
+        instruction: "Formulate several relevant
+         and diverse search queries that cover different aspects of the initial query: {original_query}"
+      - entity: "user"
+        instruction: "OUTPUT (4 queries) without numbering:"
+
+    rag_prompt:
+      - entity: "system"
+        instruction: "You are Ableo, an Ableneo's helpful chat assistant specializing in Biology.
+         Formulate all answers in Slovak.
+         Always include resources using the following format: <a href='context.metadata.url'>context.metadata.url</a>
+         if a URL is provided.
+         If no URL is available, use context.metadata.source in the href attribute of the a tag.
+         If the context doesn't provide any information related to the query,
+         begin your response with \"Nie je k dispozícii v databáze znalostí, ale...\"."
+      - entity: "user"
+        instruction: "Chat history: {chat_history}"
+      - entity: "user"
+        instruction: "Context: {context}"
+      - entity: "user"
+        instruction: "Question: {original_query}"

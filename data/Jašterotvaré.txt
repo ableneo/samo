@@ -1,0 +1,136 @@
+Jašterotvaré
+varan komodský, Varanus komodoensis
+Vedecká klasifikácia
+Doména eukaryoty
+Ríša (regnum) živočíchy (Animalia)
+Vývojový stupeň epitelovce (Eumetazoa)
+Skupina dvojstranovce (Bilateralia)
+Vývojová vetva druhoústovce (Dueterostomia)
+Kmeň (phylum) chordáty (Chordata)
+Podkmeň (subphylum) stavovce (Vertebrata)
+Nadtrieda (superclassis) čeľustnatce (Gnathostomata)
+Stupeň štvornožce (Tetrapoda)
+Trieda (classis) sauropsida (Sauropsida)
+Rad (ordo) jašterotvaré (Squamata)
+Vedecký názov
+Squamata
+Oppel, 1811
+Rozšírenie rodu Squamata.
+Vedecká klasifikácia prevažne podľa tohto článku
+Biologický portál
+Jašterotvaré[1] (iné názvy: šupináče[2], šupinavce[3], šupinatce [4], šupinovité[5] , šupinaté plazy[6], staršie [najmä do roku 1954]: hadojaštery [7][8][9][10]; lat. Squamata, staršie: Saurophidia[pozn 1]) sú rad plazov.
+Opis
+Spoločným znakom je pevná koža pokrytá rohovinovými šupinami, ktorá sa v rôznych intervaloch obnovuje. Veľkosť šupín a ich usporiadanie sa mení v závislosti od druhovej príslušnosti. Hady zvliekajú svoju kožu v celku, jaštery po častiach. Ďalším spoločným znakom je samčí páriaci orgán, ktorý je zložený z dvoch tzv. „hemipenisov“. Hady a niektoré jaštery, napríklad varanovité majú prídavné čuchové ústrojenstvo, ktoré je známe ako Jacobsonov orgán.
+Rozmnožovanie
+Väčšina druhov zo šupinatých je vajcorodá (oviparia), niektoré druhy sú vajcoživorodé (oviviparia) a niektoré sú živorodé (viviparia).
+Systematika
+Podľa Vidal & Hedges, 2005 ([2]), len recentné taxóny:
+(-) beznôžky (Dibamia)
+(-) Bifurcata
+(-) gekóny (Gekkota)
+(-) Unidentata
+(-) Scinciformata
+(-) Episquamata
+(-) Laterata
+(-) Teiformata (Teiioidea)
+(-) Lacertibaenia
+(-) Lacertiformata
+(-) obrúčkovce (Amphisbaenia)
+(-) Toxicofera
+(-) hady (Serpentes)
+(-) leguány (Iguania)
+(-) slepúchy (Anguimorpha)
+Podľa Benton 2004 ([3] Archivované 2008-10-19 na Wayback Machine):
+podrad jaštery (Lacertilia, Sauria)
+infrarad leguány (Iguania)
+infrarad gekóny (Gekkota)
+infrarad scinky (Scincomorpha)
+infrarad slepúchy (Anguimorpha)
+infrarad obrúčkovce (Amphisbaenia)
+podrad hady (Serpentes)
+...
+Podľa reptile-database.org 2001 ([4]), len recentné taxóny:
+podrad jaštery (Lacertilia, Sauria)
+infrarad leguány (Iguania)
+infrarad gekóny (Gekkota)
+infrarad scinky (Scincomorpha)
+infrarad Diploglossa
+infrarad varany (Platynota, Varanoidea)
+podrad obrúčkovce (Amphisbaenia)
+...
+podrad hady (Serpentes)
+...
+Podľa Lee 2000 [5]
+čeľaď † Bavarisauridae
+†Scandensia ciervensis
+čeľaď †Eichstaettisauridae
+čeľaď †Ardeosauridae
+(-) Neosquamata
+(-) leguány (Iguania)
+(-) Scleroglossa sensu lato
+? (-) Pythonomorpha – vrátane hady (Ophidia)
+(-) Scleroglossa sensu stricto
+? †Eolacerta robusta (=Iguanosaurus haupti, Iguanosauriscus haupti)
+?rod †Yabeinosaurus
+čeľaď †Carusiidae (= Carolinidae)
+(-) Nyctisauria A
+čeľaď xantúziovité (Xantusiidae)
+(-) gekóny (Gekkota) sensu stricto (Nyctisauria B)
+obrúčkovce (Annulata) A
+? †Sineoamphisbaena hexatabularis
+(-) beznôžkovité (Dibamidae)
+(-) obrúčkovce B (Amphisbaenia, Annulata)
+(-) Lacertoidea – bez Xantusiidae
+(-) Diploglossa
+čeľaď scinkovité (Scincidae) – vrátane Feyliniidae
+čeľaď kruhochvostovité (Cordylidae) – vrátane Gerrhosauridae
+(-) slepúchy (Anguimorpha)
+Podľa Rieppell, 1994, Evans & Barbadillo, 1998 and Caldwell, 1999 ([6])
+čeľaď † Bavarisauridae
+†Scandensia ciervensis
+čeľaď †Eichstaettisauridae
+čeľaď †Ardeosauridae
+(-) Neosquamata
+(-) leguány (Iguania)
+(-) Scleroglossa sensu lato
+? (-) Pythonomorpha – vrátane hady (Ophidia)
+(-) Scleroglossa sensu stricto
+? †Eolacerta robusta (=Iguanosaurus haupti, Iguanosauriscus haupti)
+čeľaď †Carusiidae (= Carolinidae)
+(-) Autarchoglossa
+(-) slepúchy (Anguimorpha)
+(-) Scincogekkonomorpha
+† rod Yabeinosaurus
+(-) scinky (Scincomorpha)
+(-) Nyctisauria
+čeľaď beznôžkovité (Dibamidae)
+(-) obrúčkovce (Amphisbaenia)
+(-) gekóny (Gekkota)
+Poznámky
+↑ Názov Saurophidia sa dnes už nepoužíva, je však veľmi výstižný, doslova totiž znamená "jašterohady". Jeho historický slovenský ekvivalent istý čas znel hadojaštery[8]. Názov Saurophidia bol vytvorený v roku 1825 a pôvodne sa nechápal ako synonymum toho, čo dnes voláme Squamata, ale sa chápal oveľa užšie - zahŕňal totiž len tie jaštery, ktoré sa výzorom podobajú hadom, pretože nemajú žiadne nohy alebo ich majú zakrpatené, napr. slepúchovité (Anguidae) a obrúčkovcovité (Amphisbaenidae)[11].
+Zdroje
+↑ MATOUŠEK, Branislav; TRNKA, A. Prehľad systému chordátov. Acta Facultatis paedagogicae Universitatis Tyrnaviensis : Series B - rerum naturalium (Trnava: Trnavská univerzita), 1997, čís. 1, s. 49. ISBN 80-88774-29-2.
+↑ jaštericovité. In: Encyclopaedia Beliana. 1. vyd. Bratislava : Encyklopedický ústav SAV; Veda, 2013. 682 s. ISBN 978-80-970350-1-3. Zväzok 7. (In – Kalg), s. 427. ; jaštery. In: Encyclopaedia Beliana. 1. vyd. Bratislava : Encyklopedický ústav SAV; Veda, 2013. 682 s. ISBN 978-80-970350-1-3. Zväzok 7. (In – Kalg), s. 427.
+↑ STANĚK, V. J. Veľký obrazový atlas zvierat. Bratislava: Mladé letá, 1965. s. 292
+↑ plazy. In: Pyramída, S. 4471
+↑ Mosasaurus. In: Pyramída, S. 3368
+↑ jaštery. In: Pyramída
+↑ Nomenklatúra zoologickej systematiky. In: Slovenské odborné názvoslovie. 1953, č. 1, S. 14 (Poznámka: Ale o rok neskôr je v rovnakom časopise v čísle 5 už uvedený názov šupináče)
+↑ a b hadojašter; jašterica. In: Slovník slovenského jazyka (Peciar)
+↑ hadojaštery. In: Veľký slovensko-ruský slovník 1, 1979, S. 576
+↑ jašterica. In: JÁNOŠÍK, Anton. Slovník spisovného jazyka slovenského. [s.l.] : sv. Martin, 1946. 986 s. S. 961.
+↑ YÁNEZ, P. Vertebrados marinos chilenos. In: Revista de Biologia Marina. 1951, č. 1 a 2, S. 1 [1]
+Iné projekty
+Commons
+Wikidruhy
+Commons ponúka multimediálne súbory na tému Jašterotvaré
+Wikidruhy ponúkajú informácie na tému Jašterotvaré
+Externé odkazy
+[7] Archivované 2008-10-07 na Wayback Machine
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Jašterotvaré&oldid=7711872“
+Kategória:
+Jašterotvaré
+Skryté kategórie:
+Portál:Biológia/Zapojené články
+Webarchive template wayback links
+Dátum a čas poslednej úpravy tejto stránky: 16. október 2023, 16:01.

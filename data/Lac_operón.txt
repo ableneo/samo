@@ -1,0 +1,86 @@
+Laktózový operón, často i lac operón, je najbežnejším príkladom operónu. Tento operón zabezpečuje transport a metabolizmus laktózy. Väčšina baktérií preferuje glukózu ako zdroj uhlíka, avšak vďaka lac operónu sú schopné efektívne tráviť aj laktózu, keď je glukóza nedostupná, a to práve vďaka beta-galaktozidáze.[1] Génová regulácia lac operónu bol prvý regulačný mechanizmus, ktorý bol jasne pochopený, takže sa stal hlavným príkladom génovej regulácie prokaryotov. Jedná sa o operón, ktorý obsahuje promótor, operátor a tri gény - lacZ, lacY a lacA. Vyskytuje sa napríklad u E. coli a mnohých iných baktérií črevnej mikroflóry. Tieto tri gény umožňujú mikroorganizmom tráviť laktózu:
+lacZ kóduje beta-galaktozidázu - vnútrobunkový enzým rozkladajúci laktózu na glukózu a galaktózu
+lacY kóduje beta-galaktozidpermeázu - umožňuje vstup beta-galaktozidov (vrátane laktózy) do bunky
+lacA kóduje beta-galaktozidtransacetylázu - enzým, ktorý presúva acetylovú skupinu z acetyl-CoA na beta-galaktozidy
+Induktorom lac operónu je alolaktóza.
+François Jacob a Jacques Monod využili metabolizmus laktózy na zistenie toho, podľa čoho bunky vedia, ktorý enzým majú syntetizovať. Za ich výskum na tomto operóne získali Nobelovu cenu v roku 1965.[1]
+Referencie
+↑ a b GRIFFITHS, Anthony J.F.; WESSLER, Susan R.; CARROLL, Sean B.. An Introduction to Genetic Analysis. 11. vyd. [s.l.] : Freeman, W.H. & Company, 2015. ISBN 9781464109485. S. 400–412.
+Zdroj
+Biologický portál
+Tento článok je čiastočný alebo úplný preklad článku lac operon na anglickej Wikipédii.
+Tento článok týkajúci sa biológie je zatiaľ „výhonok“. Pomôž Wikipédii tým, že ho doplníš a rozšíriš.
+z
+d
+u
+Syntéza proteínov
+Expresia génu
+aktivátor
+enhancer
+exón
+gén
+induktor
+intrón
+mutácia
+operón
+represor
+silencer
+Nukleové kyseliny
+DNA
+RNA
+pre-mRNA
+mRNA
+snRNA
+tRNA
+RNAi
+rRNA
+Transkripcia
+adenozíntrifosfát
+fosfodiesterová väzba
+komplementarita
+operátor
+palindróm
+posttranskripčná úprava
+primárny transkript
+promótor
+RNA polymeráza
+sigma faktor
+stimulačný proteín transkripcie
+spliceozóm
+TATA box
+transkripčná jednotka
+transkripcia mimochromozómovej DNA
+transkripčný faktor
+Translácia
+aminoacyl tRNA syntetáza
+aminokyselina
+antikodón
+elongačný faktor
+endoplazmatické retikulum
+genetický kód
+guanozíntrifosfát
+iniciačný faktor
+kodón
+kotranslačná úprava
+proteosyntetický faktor
+PYLIS sekvencia
+ribozóm
+peptid
+peptidová väzba
+peptidyltransferáza
+posttranslačná úprava
+SECIS element
+stop kodón
+štart kodón
+translácia mimochromozómovej DNA
+uvoľňovací faktor
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Lac_operón&oldid=7287918“
+Kategórie:
+Biologické výhonky
+Gény
+Molekulárna biológia
+Skryté kategórie:
+Portál:Biológia/Zapojené články
+Wikipédia:Články priamo volajúce šablónu Portál
+Údržba:Nekorešpondujúce preklady
+Dátum a čas poslednej úpravy tejto stránky: 11. december 2021, 21:22.

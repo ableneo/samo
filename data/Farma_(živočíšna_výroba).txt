@@ -1,0 +1,34 @@
+Farma v živočíšnej výrobe môže byť:
+a) v širšom zmysle: základná výrobno-organizačná jednotka (t. j. závod) v živočíšnej výrobe (pozostáva z chovu zvierat, budov, strojov, ľudí a prípadne pozemkov), resp. v 50 - 80. rokoch 20. stor. v Česko-Slovensku špecifickejšie: samostatná hospodárska jednotka (oddelenie) štátnych majetkov zameraná na živočíšnu výrobu[1][2][3][4][5]
+b) v užšom zmysle: len takáto jednotka chovajúca len jeden druh zvierat (synonymum: špecializovaná farma)[5][6][1].
+Iné významy slova forma pozri na stránke farma.
+Špecializovaná farma
+Pojmu špecializovaná farma (farma v užšom zmysle)je podobný termín chov, definovaný v zákone č. 194/1998 Z. z. ako skupina hospodárskych zvierat alebo jednotlivé zvieratá chované v určitom zariadení a mieste u chovateľa...; na tomto zariadení a mieste sa vykonávajú činnosti súvisiace s plemenitbou a šľachtením. [7]
+V poľnohospodárskych podnikoch (vrátane družstiev) so zameraním na živočíšnu produkciu sa obyčajne chovajú zvieratá jedného druhu (najčastejšie aj toho istého plemena. Ak sa v rámci jedného podniku chová viac druhov zvierat, tak obyčajne na viacerých farmách. Výnimkou sú školské poľnohospodárske podniky a vzorkovnice.
+Na mechanizáciu živočíšnej výroby sa využívajú dopravníky, dojárne a kŕmne vozy.
+Podľa úrovne vykonávanej šľachtiteľskej práce je možné chovy rozdeliť na:
+úžitkové - Ich primárnou funkciou je produkcia mlieka, mäsa alebo vajec.
+šľachtiteľské - Predstavujú základné jednotky zlepšovanie genofondu populácie plemena. Podľa zákona sú určené "na produkciu čistokrvných plemenných zvierat, predovšetkým plemenníkov na účely zlepšovania genofondu príslušného plemena." [7] Podľa uznesenia ústavnoprávneho výboru národnej rady SR by sa definícia šľachtiteľského chovu mala zmeniť na "chov určený na produkciu čistokrvných plemenníkov, alebo hybridných plemenných kancov, alebo čistokrvných plemenníc na účely zlepšovania genofondu príslušného plemena." [8]
+chránené - Ich hlavnou úlohou je okrem zošľachťovania plemena "chov určitého, spravidla zánikom ohrozeného plemena hospodárskych zvierat, ktorého účelom je zachovanie jeho genofondu a historickej hodnoty." [7]
+Štatistika
+V bioštatisike je chov jedným z najdôležitejších zdrojov premenlivosti. Každý chov je charakteristický rozdielnou "politikou", podmienky prostredia sú na každej farme rozdielne. Pri tvorbe matematických modelov slúžiacich na modelovanie samotného zvieraťa sa to vyjadruje efektom chovu, t. j. manažment stáda.
+Často sa modeluje aj ako spojený efekt (interakcia) rok*stádo alebo rok*stádo*obdobie.
+Referencie
+↑ a b farma. In: Pyramída
+↑ farma. In: ŠALING, Samo; IVANOVÁ-ŠALINGOVÁ, Mária; MANÍKOVÁ, Zuzana. Veľký slovník cudzích slov. 2. rev. a dopl. vyd. Veľký Šariš : SAMO-AAMM, 2000. 1328 s. ISBN 80-967524-6-4. S. 366.
+↑ farma. In: Technický naučný slovník. Ed. Tomáš Korbař, Antonín Stránský. 1. vyd. Zväzok A – F. Praha : SNLT, 1962. 653 s. (Řada technických slovníků.) S. 381.
+↑ farma. In: Malá československá encyklopedie. Vyd. 1. Zväzok II D – CH. Praha : Academia, 1985. 976 s. S. 397.
+↑ a b farma. In: Krátky slovník slovenského jazyka. 5. dopl. a uprav. vyd. Martin : Matica slovenská, 2020. 960 s. ISBN 978-80-8128-261-4.
+↑ farma. In: Slovník cudzích slov : akademický. 2. dopl. a upr. slovenské vyd. Bratislava : Slovenské pedagogické nakladateľstvo – Mladé letá, 2005. 1054 s. Dostupné online. ISBN 80-10-00381-6.
+↑ a b c Zákon 194/1998 o šľachtení a plemenitbe hospodárskych zvierat a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov
+↑ Príloha k uzneseniu Ústavnoprávneho výboru Národnej rady SR č. 115 zo 14. marca 2007
+Pozri aj
+Agronómia
+Poľnohospodárska výroba
+Jednotné roľnícke družstvo
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Farma_(živočíšna_výroba)&oldid=7292746“
+Kategórie:
+Poľnohospodárstvo
+Bioštatistika
+Šľachtiteľstvo
+Dátum a čas poslednej úpravy tejto stránky: 21. december 2021, 08:22.

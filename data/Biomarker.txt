@@ -1,0 +1,17 @@
+Biomarker alebo biologický marker, je vo všeobecnosti látka používaná ako indikátor biologického stavu. Je charakteristikou, ktorá je objektívne merateľná a ktorú je možné vyhodnotiť ako indikátor normálnych biologických procesov, patogénnych procesov, alebo farmakologických reakcií na terapeutický zákrok. Používa sa v mnohých vedných odboroch.
+Medicína
+V medicíne biomarker môže byť detegovateľná látka, ktorá sa zavádza do organizmu ako prostriedok na vyšetrenie funkčnosti orgánov alebo iných aspektov zdravotného stavu. Napríklad, chlorid rubidný sa používa ako rádioaktívny izotop na vyhodnotenie prekrvenia srdcového svalu. Medicínskym biomarkerom môže byť tiež látka, detekcia ktorej indikuje určitý chorobný stav, napríklad, prítomnosť protilátok môže poukazovať na infekciu. V užšom význame slova biomarker indikuje zmenu prejavu, množstva alebo stavu proteínu, ktoré korelujú s rizikom alebo postupom ochorenia, alebo citlivosťou ochorenia na liečbu.
+Biochemické markery sú často používané v klinickom výskume, kde sú detegované z telesných tekutín, ktoré sú ľahko dostupné pre počiatočnú fázu skúmania. Užitočný spôsob ako nájsť genetické príčiny ochorení, napr. schizofrénie, je použitie špeciálneho druhu biomarkerov, tzv. endofenotypov.
+Kategórie na základe ich aplikácie [1]
+biomarkery na identifikáciu rizika vzniku ochorenia,
+skríning biomarkerov v počiatočných štádiách ochorenia,
+diagnostické biomarkery na rozpoznanie zjavného ochorenia,
+analýza biomarkerov na kategorizáciu závažnosti ochorenia,
+prognostické biomarkery na predpovedanie budúceho priebehu ochorenia vrátane recidívy, odpovede na liečbu a monitorovania účinnosti terapie.
+Referencie
+↑ CHEN, XIAO-HE, SHUWEN HUANG, DAVID KERR. Biomarkers in clinical medicine [online]. 2011, [cit. 2021-12-11]. Dostupné online.
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Biomarker&oldid=7292255“
+Kategórie:
+Farmácia
+Biologická terminológia
+Dátum a čas poslednej úpravy tejto stránky: 19. december 2021, 22:27.

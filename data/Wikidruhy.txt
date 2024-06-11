@@ -1,0 +1,65 @@
+Wikidruhy
+Logo projektu Wikidruhy
+URL
+species.wikimedia.org
+Komerčná
+Nie
+Typ stránky
+Adresár druhov
+Registrácia
+Voliteľná
+Vlastník
+Wikimedia Foundation
+Tvorca
+Benedikt Mandl (návrh projektu v roku 2004), Jimmy Wales a komunita Wikimedie
+Spustenie
+13. september 2004
+Náhľad stránky
+Snímok obrazovky domovskej stránky species.wikimedia.org 3. mája 2011
+Wikidruhy (angl. Wikispecies) sú online projekt Nadácie Wikimedia založený na báze wiki. Jeho cieľom je vytvoriť kompletný adresár biologických druhov. Zameriava sa skôr na vedcov než na širokú verejnosť. Jimmy Wales vyhlásil, že redaktori nemusia dokázať, že majú tituly, no príspevky budú musieť splniť istý štandard po technickej stránke.
+Projekt bol spustený v septembri 2004 a biológovia naprieč svetom boli pozvaní k prispievaniu. Do roku 2005 sa projekt vyvinul do štruktúry zahŕňajúcu taxonómiu podľa Linného systému s prepojeniami na wikipedické články o jednotlivých druhov.
+História
+Benedikt Mandl koordinoval snahy niekoľkých ľudí, ktorý mali záujem podielať sa na tomto projekte a kontaktoval potenciálnych podporovateľov na začiatku leta 2004. Databázy boli prehodnotené a administrátori kontaktovaní, niektorí z nich súhlasili s poskytnutím dát pre Wikidruhy. Mandl určil dve základné úlohy:
+Vymieslieť, ako budú databázy zobrazované – pýtaním sa expertov, potenciálnych neprofesionálnych používateľov a porovnávaním so súčasnými databázami
+Vymyslieť, ako bude funfovať softvér, aký hardvér je potrebný a ako pokryť náklady – pýtaním sa expertov, hľadaním dobrovoľníkov a potenciálnych sponzorov
+Výhody a nevýhody boli široko diskutované na mailing liste wikimedia-I. Správna rada Nadácie Wikimedia hlasovala 4 k 0 za vytvorenie Wikidruhov. Projekt bol spustený v auguste na doméne species.wikimedia.org. Oficiálnym projektom Nadácie Wikimedia sa stal 14. septembra 2004.
+10. októbra 2006 projekt presiahol 75 000 článkov.
+20. mája 2007 projekt presiahol 100 000 článkov a mal 5 495 registrovaných používateľov.
+8. septembra 2008 projekt presiahol 150 000 článkov a mal 9 224 registrovaných používateľov.
+23. októbra 2011 projekt dosiahol 300 000 článkov.
+16. júna 2014 projekt dosiahol 400 000 článkov.
+7. januára 2017 projekt dosiahol 500 000 článkov.
+30. októbra 2018 projekt dosiahol 600 000 článkov a celkovo 1,12 milióna stránok.[1]
+Wikidruhy zahŕňajú taxonomické stránky a stránky o synonymám, taxonomických autoritách, taxonomických publikáciách a inštitúciách alebo adresároch obsahujúcich typové vzorky.[2]
+Referencie
+↑ Statistics - Wikispecies [online]. species.wikimedia.org, [cit. 2019-07-22]. Dostupné online.
+↑ Wikispecies:Page types - Wikispecies [online]. species.wikimedia.org, [cit. 2019-07-22]. Dostupné online.
+Iné projekty
+Commons
+Commons ponúka multimediálne súbory na tému Wikidruhy
+Externé odkazy
+Stránka Wikidruhov
+Zdroj
+Tento článok je čiastočný alebo úplný preklad článku Wikispecies na anglickej Wikipédii.
+z
+d
+u
+Projekty Wikimedia Foundation
+MediaWiki
+Commons
+Wikiknihy
+Wikislovník
+Wikisprávy
+Wikipédia
+Wikicitáty
+Wikizdroje
+Wikicesty
+Wikidruhy
+Wikiverzita
+Meta-Wiki
+Wikiúdaje
+Wikimedia Incubator
+Zdroj: „https://sk.wikipedia.org/w/index.php?title=Wikidruhy&oldid=6870822“
+Kategória:
+Wikimedia projekty
+Dátum a čas poslednej úpravy tejto stránky: 22. júl 2019, 14:31.
