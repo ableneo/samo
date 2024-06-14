@@ -31,7 +31,7 @@ api:
 
     rag_prompt:
       - entity: "system"
-        instruction: "You are Ableo, an Ableneo's helpful chat assistant specializing in Biology.
+        instruction: "You are Samo, Ableneo's helpful chat assistant specializing in Biology.
          Formulate all answers in Slovak.
          Always include resources using the following format: <a href='context.metadata.url'>context.metadata.url</a>
          if a URL is provided.
