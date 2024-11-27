@@ -1,9 +1,9 @@
-from flask import request
+from flask import request, jsonify
 from pydantic import ValidationError
 
 from chatbot.utils import Logger
 
-from .requests import FeedbackRequest, HistoryRequest, PromptRequest
+from .requests import FeedbackRequest, HistoryRequest, PromptRequest, EmbedDataRequest
 from .routers import rag_chain_router
 from .service import chat_service
 
@@ -53,3 +53,16 @@ def chat_feedback():
         return str(validation_error), 400
 
     return chat_service._api_feedback(request_data)
+
+@rag_chain_router.route("/embedData", methods=["POST"])
+def embed_data():
+    request_data = request.json
+
+    # Validation of request body
+    try:
+        validated_data = EmbedDataRequest(**request_data)
+    except ValidationError as validation_error:
+        Logger.warning(str(validation_error))
+        return jsonify({"error": "Validation Error", "details": validation_error.errors()}), 400
+
+    return chat_service.embed_data(validated_data)

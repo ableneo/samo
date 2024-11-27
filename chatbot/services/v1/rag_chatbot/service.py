@@ -181,6 +181,17 @@ class ChatbotService(ServiceInterface):
 
         return Response(jsonpickle.encode({"message": "success"}), mimetype="application/json")
 
+    def embed_data(self, request_data) -> Response:
+        data_root, data_type, encoding = request_data.data_root, request_data.data_type, request_data.encoding
+
+        from chatbot.config import server_config
+        from chatbot.vector_db import VectorDB
+
+        VectorDB.set_instance(server_config)
+        VectorDB.initial_save_documents(data_root, data_type, encoding)
+
+        return Response(jsonpickle.encode({"message": "Successfully embedded new data."}), mimetype="application/json")
+
 
 # Create ChatbotService
 chat_service = ChatbotService(chats_path=server_config.chat_dir, feedback_path=server_config.feedback_dir)

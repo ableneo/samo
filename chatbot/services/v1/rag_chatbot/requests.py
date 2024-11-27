@@ -1,6 +1,7 @@
 from typing import List
 
 from pydantic import BaseModel
+from pathlib import Path
 
 
 class PromptRequest(BaseModel):
@@ -20,3 +21,8 @@ class FeedbackRequest(BaseModel):
     answer: str
     feedback: str
     reporter: str
+
+class EmbedDataRequest(BaseModel):
+    data_root: Path = Path("./data")
+    data_type: str = ".txt"
+    encoding: str = "utf-8"
