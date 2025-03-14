@@ -43,24 +43,7 @@ def reciprocal_rank_fusion(results: list[list], k=60, top_n=5):
     return reranked_results[:top_n]
 
 
-def _create_xml_element(tag:str, text:str) -> etree.Element:
+def create_xml_element(tag:str, text:str) -> etree.Element:
     elem = etree.Element(tag)
     elem.text = text
     return elem
-
-
-def dict2xml_element(data:dict[str, Any]) -> etree.Element:
-    """Transform data to an XML Element in a very simple way."""
-    # inspiration: https://blog.finxter.com/converting-python-dictionaries-to-xml-with-lxml-a-practical-guide/
-    root = etree.Element('data')
-    for key, val in data.items():
-        if isinstance(val, list):
-            sub_root = etree.Element(key, {'type':'array'})
-            for obj in val:
-                elem = _create_xml_element('value', str(obj))
-                sub_root.append(elem)
-            root.append(sub_root)
-        else:
-            elem = _create_xml_element(key, str(val))
-            root.append(elem)
-    return root
