@@ -1,8 +1,10 @@
 from typing import List, Optional
 
 from jsonpickle import json
+from lxml import etree
 
 from chatbot.core import SerializableInterface
+from chatbot.utils.fn import create_xml_element
 
 
 class ChatData(SerializableInterface):
@@ -35,3 +37,18 @@ class ChatData(SerializableInterface):
             self.answer = json_data["answer"]
         if "reporter" in json_data:
             self.reporter = json_data["reporter"]
+
+    def to_xml(self) -> str:
+        """Return XML representation of self."""
+        root = etree.Element('data')
+        for key, val in vars(self).items():
+            if isinstance(val, list):
+                sub_root = etree.Element(key, {'type': 'array'})
+                for txt in val:
+                    elem = create_xml_element('value', txt)
+                    sub_root.append(elem)
+                root.append(sub_root)
+            else:
+                elem = create_xml_element(key, val)
+                root.append(elem)
+        return etree.tostring(root, encoding='utf-8', pretty_print=True).decode()

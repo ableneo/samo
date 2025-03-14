@@ -1,7 +1,8 @@
 import re
 from os.path import normpath
 from pathlib import Path
-from typing import Optional
+from typing import Optional, Any
+from lxml import etree
 
 import jsonpickle
 from langchain_core.load import dumps, loads
@@ -14,7 +15,7 @@ def _get_safe_file_path(chats_path, chat_id: str) -> Optional[Path]:
 
 def _get_safe_feedback_path(chat_id: str) -> Optional[Path]:
     if not re.search(r"[^A-Za-z0-9_\-\\]", chat_id):
-        return Path(normpath(f"feedback/{chat_id}.json"))
+        return Path(normpath(f"feedback/{chat_id}.xml"))
 
 
 def load_json(path):
@@ -40,3 +41,9 @@ def reciprocal_rank_fusion(results: list[list], k=60, top_n=5):
         reranked_results.append((loads(doc), score))
 
     return reranked_results[:top_n]
+
+
+def create_xml_element(tag:str, text:str) -> etree.Element:
+    elem = etree.Element(tag)
+    elem.text = text
+    return elem

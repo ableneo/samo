@@ -1,4 +1,3 @@
-import json
 import threading
 from pathlib import Path
 
@@ -168,16 +167,7 @@ class ChatbotService(ServiceInterface):
             },
         )
 
-        json_content = {
-            "chat_id": feedback.chat_id,
-            "history": feedback.chat_history,
-            "question": feedback.question,
-            "answer": feedback.answer,
-            "user": feedback.reporter,
-            "feedback": feedback.feedback,
-        }
-        with safe_chat_file_path.open("w") as feedback_file:
-            json.dump(json_content, feedback_file, indent=2, ensure_ascii=False)
+        safe_chat_file_path.write_text(data=feedback.to_xml(), encoding='utf-8')
 
         return Response(jsonpickle.encode({"message": "success"}), mimetype="application/json")
 
