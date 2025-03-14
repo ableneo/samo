@@ -1,4 +1,4 @@
-import json
+from lxml import etree
 import threading
 from pathlib import Path
 
@@ -15,7 +15,7 @@ from chatbot.networking.dto.chatdata import ChatData
 from chatbot.networking.streaming import ChainStreamHandler, ThreadedGenerator
 from chatbot.services import ServiceInterface
 from chatbot.utils import Logger
-from chatbot.utils.fn import _get_safe_feedback_path, _get_safe_file_path
+from chatbot.utils.fn import _get_safe_feedback_path, _get_safe_file_path, dict2xml_element
 
 
 class ChatbotService(ServiceInterface):
@@ -168,7 +168,7 @@ class ChatbotService(ServiceInterface):
             },
         )
 
-        json_content = {
+        xml_content = {
             "chat_id": feedback.chat_id,
             "history": feedback.chat_history,
             "question": feedback.question,
@@ -176,8 +176,8 @@ class ChatbotService(ServiceInterface):
             "user": feedback.reporter,
             "feedback": feedback.feedback,
         }
-        with safe_chat_file_path.open("w") as feedback_file:
-            json.dump(json_content, feedback_file, indent=2, ensure_ascii=False)
+        xml_txt = etree.tostring(dict2xml_element(xml_content), encoding='utf-8', pretty_print=True).decode()
+        safe_chat_file_path.write_text(data=xml_txt, encoding='utf-8')
 
         return Response(jsonpickle.encode({"message": "success"}), mimetype="application/json")
 
